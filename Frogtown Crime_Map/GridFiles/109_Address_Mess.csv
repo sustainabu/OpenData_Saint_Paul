@@ -1,0 +1,2 @@
+Grid,Address,Block,Block1,Coordinates,For_Address,Latitude,Longitude,Zip,Results,Fail
+108.0,"360 victoria st n, Saint Paul, MN, 55104",36x victoria st n,1,"{'formatted_address': '169 Victoria St, St Paul, MN 55104, USA', 'latitude': 44.9463743, 'longitude': -93.1366808, 'zip': '55104', 'input_string': '360 victoria st n, Saint Paul, MN, 55104', 'number_of_results': 2, 'status': 'OK'}","169 Victoria St, St Paul, MN 55104, USA",44.9463743,-93.1366808,55104,2,True

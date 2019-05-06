@@ -1,0 +1,146 @@
+index,Grid,Block,For_Address,Latitude,Longitude,Fail,index1
+0,66.0,109x piercebutler rd,"1090 W Pierce Butler Route, St Paul, MN 55104, USA",44.9664739,-93.14623549999999,True,0
+1,66.0,110x hubbard av,"1100 Hubbard Ave, St Paul, MN 55104, USA",44.9657106,-93.14668239999999,True,1
+2,66.0,110x minnehaha av w,"1100 W Minnehaha Ave, St Paul, MN 55104, USA",44.9630234,-93.1467321,True,2
+3,66.0,110x seminary av,"1100 W Seminary Ave, St Paul, MN 55104, USA",44.96481379999999,-93.14672089999999,True,3
+4,66.0,11xx englewood av,"1105 Englewood Ave, St Paul, MN 55104, USA",44.9638928,-93.14919569999999,True,4
+5,66.0,11xx minnehaha av w,"1105 W Minnehaha Ave, St Paul, MN 55104, USA",44.9632646,-93.1468625,True,5
+6,66.0,11xx seminary av,"1105 W Seminary Ave, St Paul, MN 55104, USA",44.9649788,-93.1468821,True,6
+7,66.0,111x energypark dr,"1110 Energy Park Dr, St Paul, MN 55108, USA",44.9704657,-93.14714719999999,True,7
+8,66.0,111x englewood av,"1110 Englewood Ave, St Paul, MN 55104, USA",44.96368469999999,-93.14707179999999,True,8
+9,66.0,111x minnehaha av w,"1110 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627998,-93.1471419,True,9
+10,66.0,111x piercebutler rd,"1110 W Pierce Butler Route, St Paul, MN 55104, USA",44.96647429999999,-93.1470689,True,10
+11,66.0,112x englewood av,"1120 Englewood Ave, St Paul, MN 55104, USA",44.9636942,-93.1474166,True,11
+12,66.0,112x minnehaha av w,"1120 W Minnehaha Ave, St Paul, MN 55104, USA",44.9628159,-93.147556,True,12
+13,66.0,112x piercebutler rd,"1120 W Pierce Butler Route, St Paul, MN 55104, USA",44.9664744,-93.1474855,True,13
+14,66.0,112x seminary av,"1120 W Seminary Ave, St Paul, MN 55104, USA",44.9648086,-93.14754529999999,True,14
+15,66.0,113x englewood av,"1130 Englewood Ave, St Paul, MN 55104, USA",44.9636801,-93.1479263,True,15
+16,66.0,113x hubbard av,"1130 Hubbard Ave, St Paul, MN 55104, USA",44.9655005,-93.1478987,True,16
+17,66.0,113x minnehaha av w,"1130 W Minnehaha Ave, St Paul, MN 55104, USA",44.9628084,-93.1478305,True,17
+18,66.0,114x hubbard av,"1140 Hubbard Ave, St Paul, MN 55104, USA",44.9654985,-93.14832229999999,True,18
+19,66.0,114x minnehaha av w,"1140 W Minnehaha Ave, St Paul, MN 55104, USA",44.9628131,-93.14832249999999,True,19
+20,66.0,114x seminary av,"1140 W Seminary Ave, St Paul, MN 55104, USA",44.9648034,-93.14836969999999,True,20
+21,66.0,115x englewood av,"1150 Englewood Ave, St Paul, MN 55104, USA",44.9636737,-93.1487356,True,21
+22,66.0,115x hubbard av,"1150 Hubbard Ave, St Paul, MN 55104, USA",44.9654967,-93.1486819,True,22
+23,66.0,115x minnehaha av w,"1150 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627859,-93.14871269999999,True,23
+24,66.0,115x piercebutler rd,"1150 W Pierce Butler Route, St Paul, MN 55104, USA",44.9665027,-93.1487338,True,24
+25,66.0,115x seminary av,"1150 W Seminary Ave, St Paul, MN 55104, USA",44.9648008,-93.1487818,True,25
+26,66.0,116x englewood av,"1160 Englewood Ave, St Paul, MN 55104, USA",44.9638928,-93.14920370000002,True,26
+27,66.0,116x hewitt av,"1160 Hewitt Ave, St Paul, MN 55104, USA",44.9663439,-93.1494291,True,27
+28,66.0,116x hubbard av,"1160 Hubbard Ave, St Paul, MN 55104, USA",44.9656986,-93.1490639,True,28
+29,66.0,116x minnehaha av w,"1160 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627663,-93.14935960000001,True,29
+30,66.0,116x seminary av,"1160 W Seminary Ave, St Paul, MN 55104, USA",44.964798,-93.1491956,True,30
+31,66.0,117x piercebutler rd,"1170 W Pierce Butler Route, St Paul, MN 55104, USA",44.96657140000001,-93.149204,True,31
+32,66.0,117x seminary av,"1170 W Seminary Ave, St Paul, MN 55104, USA",44.96459309999999,-93.1496306,True,32
+33,66.0,118x energy la,"1180 Energy Ln, St Paul, MN 55108, USA",44.9696956,-93.1512338,True,33
+34,66.0,118x englewood av,"1180 Englewood Ave, St Paul, MN 55104, USA",44.96368409999999,-93.15005149999999,True,34
+35,66.0,118x hewitt av,"1180 Hewitt Ave, St Paul, MN 55104, USA",44.9663901,-93.15007299999999,True,35
+36,66.0,118x hubbard av,"1180 Hubbard Ave, St Paul, MN 55104, USA",44.9654044,-93.1498009,True,36
+37,66.0,118x minnehaha av w,"1180 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627822,-93.1501085,True,37
+38,66.0,118x seminary av,"1180 W Seminary Ave, St Paul, MN 55104, USA",44.9645894,-93.1500353,True,38
+39,66.0,119x energy la,"1190 Energy Ln, St Paul, MN 55108, USA",44.9696956,-93.1512338,True,39
+40,66.0,119x energypark dr,"1190 Energy Park Dr, St Paul, MN 55108, USA",44.9702606,-93.1469599,True,40
+41,66.0,119x englewood av,"1190 Englewood Ave, St Paul, MN 55104, USA",44.9636838,-93.1504437,True,41
+42,66.0,119x hewitt av,"1190 Hewitt Ave, St Paul, MN 55104, USA",44.9663791,-93.1504063,True,42
+43,66.0,119x minnehaha av w,"1190 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627726,-93.1505416,True,43
+44,66.0,119x seminary av,"1190 W Seminary Ave, St Paul, MN 55104, USA",44.96463139999999,-93.1504301,True,44
+45,66.0,120x energypark dr,"1200 Energy Park Dr, St Paul, MN 55108, USA",44.9689982,-93.1490625,True,45
+46,66.0,120x englewood av,"1200 Englewood Ave, St Paul, MN 55104, USA",44.9637103,-93.15126099999999,True,46
+47,66.0,120x hewitt av,"1200 Hewitt Ave, St Paul, MN 55104, USA",44.9663696,-93.1508181,True,47
+48,66.0,120x hubbard av,"1200 Hubbard Ave, St Paul, MN 55104, USA",44.9653991,-93.1507687,True,48
+49,66.0,120x minnehaha av w,"1200 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627595,-93.15093189999999,True,49
+50,66.0,121x englewood av,"1210 Englewood Ave, St Paul, MN 55104, USA",44.963612,-93.151252,True,50
+51,66.0,121x hewitt av,"1210 Hewitt Ave, St Paul, MN 55104, USA",44.9663748,-93.15116859999999,True,51
+52,66.0,121x minnehaha av w,"1210 W Minnehaha Ave, St Paul, MN 55104, USA",44.962768,-93.151285,True,52
+53,66.0,121x piercebutler rd,"1210 W Pierce Butler Route, St Paul, MN 55104, USA",44.9668706,-93.15032699999999,True,53
+54,66.0,121x seminary av,"1210 W Seminary Ave, St Paul, MN 55104, USA",44.9645735,-93.1512103,True,54
+55,66.0,122x energypark dr,"1220 Energy Park Dr, St Paul, MN 55108, USA",44.97018970000001,-93.1516911,True,55
+56,66.0,122x englewood av,"1220 Englewood Ave, St Paul, MN 55104, USA",44.9638796,-93.1517456,True,56
+57,66.0,122x hewitt av,"1220 Hewitt Ave, St Paul, MN 55104, USA",44.9665766,-93.15175119999999,True,57
+58,66.0,122x hubbard av,"1220 Hubbard Ave, St Paul, MN 55104, USA",44.96568310000001,-93.151829,True,58
+59,66.0,122x minnehaha av w,"1220 W Minnehaha Ave, St Paul, MN 55104, USA",44.96284259999999,-93.151885,True,59
+60,66.0,122x piercebutler rd,"1220 W Pierce Butler Route, St Paul, MN 55104, USA",44.96716319999999,-93.1513861,True,60
+61,66.0,122x seminary av,"1220 W Seminary Ave, St Paul, MN 55104, USA",44.96455410000001,-93.1519161,True,61
+62,66.0,123x englewood av,"1230 Englewood Ave, St Paul, MN 55104, USA",44.9636704,-93.15225149999999,True,62
+63,66.0,123x hewitt av,"1230 Hewitt Ave, St Paul, MN 55104, USA",44.9664045,-93.15219859999999,True,63
+64,66.0,123x hubbard av,"1230 Hubbard Ave, St Paul, MN 55104, USA",44.9654903,-93.15229459999999,True,64
+65,66.0,123x minnehaha av w,"1230 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627419,-93.1523092,True,65
+66,66.0,123x piercebutler rd,"1230 W Pierce Butler Route, St Paul, MN 55104, USA",44.96708049999999,-93.1521681,True,66
+67,66.0,123x seminary av,"1230 W Seminary Ave, St Paul, MN 55104, USA",44.9645818,-93.15223379999999,True,67
+68,66.0,124x englewood av,"1240 Englewood Ave, St Paul, MN 55104, USA",44.9636415,-93.1526433,True,68
+69,66.0,124x hewitt av,"1240 Hewitt Ave, St Paul, MN 55104, USA",44.966379,-93.15262990000001,True,69
+70,66.0,124x hubbard av,"1240 Hubbard Ave, St Paul, MN 55104, USA",44.9654801,-93.1526868,True,70
+71,66.0,124x piercebutler rd,"1240 W Pierce Butler Route, St Paul, MN 55104, USA",44.9671939,-93.1526396,True,71
+72,66.0,124x seminary av,"1240 W Seminary Ave, St Paul, MN 55104, USA",44.9645671,-93.15262589999999,True,72
+73,66.0,125x energy la,"1250 Energy Ln, St Paul, MN 55108, USA",44.9691511,-93.15224090000001,True,73
+74,66.0,125x englewood av,"1250 Englewood Ave, St Paul, MN 55104, USA",44.9636499,-93.1529965,True,74
+75,66.0,125x hewitt av,"1250 Hewitt Ave, St Paul, MN 55104, USA",44.9663829,-93.1529829,True,75
+76,66.0,125x hubbard av,"1250 Hubbard Ave, St Paul, MN 55104, USA",44.965484,-93.15305959999999,True,76
+77,66.0,125x seminary av,"1250 W Seminary Ave, St Paul, MN 55104, USA",44.9645602,-93.15301810000001,True,77
+78,66.0,126x energy la,"1260 Energy Ln, St Paul, MN 55108, USA",44.9693587,-93.1524458,True,78
+79,66.0,126x englewood av,"1260 Englewood Ave, St Paul, MN 55104, USA",44.9636355,-93.15341579999999,True,79
+80,66.0,126x hubbard av,"1260 Hubbard Ave, St Paul, MN 55104, USA",44.9654813,-93.15339300000001,True,80
+81,66.0,126x seminary av,"1260 W Seminary Ave, St Paul, MN 55104, USA",44.964561,-93.1533925,True,81
+82,66.0,126x taylor av,"1260 W Taylor Ave, St Paul, MN 55104, USA",44.96725319999999,-93.1533926,True,82
+83,66.0,127x energy la,"1270 Energy Ln, St Paul, MN 55108, USA",44.9690631,-93.15290449999999,True,83
+84,66.0,127x englewood av,"1270 Englewood Ave, St Paul, MN 55104, USA",44.9636657,-93.1537455,True,84
+85,66.0,127x hewitt av,"1270 Hewitt Ave, St Paul, MN 55104, USA",44.9663753,-93.1538424,True,85
+86,66.0,127x hubbard av,"1270 Hubbard Ave, St Paul, MN 55104, USA",44.96548620000001,-93.1537888,True,86
+87,66.0,127x minnehaha av w,"1270 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627308,-93.1538412,True,87
+88,66.0,127x seminary av,"1270 W Seminary Ave, St Paul, MN 55104, USA",44.96453959999999,-93.1537632,True,88
+89,66.0,127x taylor av,"1270 W Taylor Ave, St Paul, MN 55104, USA",44.9672352,-93.15378489999999,True,89
+90,66.0,128x energy la,"1280 Energy Ln, St Paul, MN 55108, USA",44.969144,-93.15352449999999,True,90
+91,66.0,128x energypark dr,"1280 Energy Park Dr, St Paul, MN 55108, USA",44.9701378,-93.1535737,True,91
+92,66.0,128x hewitt av,"1280 Hewitt Ave, St Paul, MN 55104, USA",44.9665688,-93.15431459999999,True,92
+93,66.0,128x hubbard av,"1280 Hubbard Ave, St Paul, MN 55104, USA",44.9656627,-93.15430719999999,True,93
+94,66.0,128x seminary av,"1280 W Seminary Ave, St Paul, MN 55104, USA",44.9647544,-93.15428969999999,True,94
+95,66.0,129x energypark dr,"1290 Energy Park Dr, St Paul, MN 55108, USA",44.9701798,-93.1541773,True,95
+96,66.0,129x englewood av,"1290 Englewood Ave, St Paul, MN 55104, USA",44.9636729,-93.1548083,True,96
+97,66.0,129x hewitt av,"1290 Hewitt Ave, St Paul, MN 55104, USA",44.9663695,-93.1547909,True,97
+98,66.0,129x hubbard av,"1290 Hubbard Ave, St Paul, MN 55104, USA",44.9654513,-93.1548322,True,98
+99,66.0,129x minnehaha av w,"1290 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627626,-93.1547866,True,99
+100,66.0,129x seminary av,"1290 W Seminary Ave, St Paul, MN 55104, USA",44.9645842,-93.1547908,True,100
+101,66.0,129x taylor av,"1290 W Taylor Ave, St Paul, MN 55104, USA",44.9672521,-93.1548498,True,101
+102,66.0,130x energypark dr,"1300 Energy Park Dr, St Paul, MN 55108, USA",44.9707137,-93.1548535,True,102
+103,66.0,130x hewitt av,"1300 Hewitt Ave, St Paul, MN 55104, USA",44.9663487,-93.1552014,True,103
+104,66.0,130x hubbard av,"1300 Hubbard Ave, St Paul, MN 55104, USA",44.9654489,-93.1551827,True,104
+105,66.0,130x minnehaha av w,"1300 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627462,-93.1551698,True,105
+106,66.0,130x piercebutler rd,"1300 W Pierce Butler Route, St Paul, MN 55104, USA",44.967657,-93.1549352,True,106
+107,66.0,130x seminary av,"1300 W Seminary Ave, St Paul, MN 55104, USA",44.9645457,-93.15520409999999,True,107
+108,66.0,130x taylor av,"1300 W Taylor Ave, St Paul, MN 55104, USA",44.9672528,-93.15522729999999,True,108
+109,66.0,131x energy la,"1310 Energy Ln, St Paul, MN 55108, USA",44.9691436,-93.15527370000001,True,109
+110,66.0,131x energypark dr,"1310 Energy Park Dr, St Paul, MN 55108, USA",44.9707108,-93.1552469,True,110
+111,66.0,131x englewood av,"1310 Englewood Ave, St Paul, MN 55104, USA",44.9636523,-93.15555340000002,True,111
+112,66.0,131x hewitt av,"1310 Hewitt Ave, St Paul, MN 55104, USA",44.9663508,-93.15559089999999,True,112
+113,66.0,131x minnehaha av w,"1310 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627597,-93.1555533,True,113
+114,66.0,131x piercebutler rd,"1310 W Pierce Butler Route, St Paul, MN 55104, USA",44.9676567,-93.1552528,True,114
+115,66.0,131x seminary av,"1310 W Seminary Ave, St Paul, MN 55104, USA",44.9645626,-93.1555751,True,115
+116,66.0,132x energypark dr,"1320 Energy Park Dr, St Paul, MN 55108, USA",44.9707106,-93.1552897,True,116
+117,66.0,132x englewood av,"1320 Englewood Ave, St Paul, MN 55104, USA",44.9636426,-93.15594560000001,True,117
+118,66.0,132x hewitt av,"1320 Hewitt Ave, St Paul, MN 55104, USA",44.9663445,-93.1559497,True,118
+119,66.0,132x hubbard av,"1320 Hubbard Ave, St Paul, MN 55104, USA",44.9654609,-93.1560282,True,119
+120,66.0,132x minnehaha av w,"1320 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627644,-93.15604549999999,True,120
+121,66.0,132x piercebutler rd,"1320 W Pierce Butler Route, St Paul, MN 55104, USA",44.9676565,-93.1555387,True,121
+122,66.0,132x seminary av,"1320 W Seminary Ave, St Paul, MN 55104, USA",44.9645418,-93.15599329999999,True,122
+123,66.0,133x hewitt av,"1330 Hewitt Ave, St Paul, MN 55104, USA",44.9663626,-93.15636359999999,True,123
+124,66.0,133x hubbard av,"1330 Hubbard Ave, St Paul, MN 55104, USA",44.9654523,-93.1563419,True,124
+125,66.0,133x minnehaha av w,"1330 W Minnehaha Ave, St Paul, MN 55104, USA",44.96275929999999,-93.1564306,True,125
+126,66.0,133x piercebutler rd,"1330 W Pierce Butler Route, St Paul, MN 55104, USA",44.9677616,-93.15633319999999,True,126
+127,66.0,133x taylor av,"1330 W Taylor Ave, St Paul, MN 55104, USA",44.9672512,-93.1563419,True,127
+128,66.0,157x dunalp st. n,"1570 N Dunlap St, St Paul, MN 55104, USA",44.9665587,-93.1491437,True,128
+129,66.0,47x lawson av w,"470 Lawson Ave W, St Paul, MN 55117, USA",44.97173,-93.12002,False,129
+130,66.0,62x geranium av e,"620 Geranium Ave E, St Paul, MN 55130, USA",44.9754088,-93.07433379999999,False,130
+131,66.0,69x robert st n,"690 Robert St N, St Paul, MN 55101, USA",44.9555744,-93.0985243,False,131
+132,66.0,72x hamline av n,"720 Hamline Ave N, St Paul, MN 55108, USA",44.9738674,-93.15682199999999,True,132
+133,66.0,72x lexington pa n,"720 Lexington Pkwy N, St Paul, MN 55104, USA",44.9629917,-93.1461985,True,133
+135,66.0,76x griggs st n,"760 Griggs St N, St Paul, MN 55104, USA",44.9641374,-93.1515117,True,134
+136,66.0,76x hamline av n,"760 Hamline Ave N, St Paul, MN 55104, USA",44.9641044,-93.15653999999999,True,135
+137,66.0,77x griggs st n,"770 Griggs St N, St Paul, MN 55104, USA",44.967251,-93.15170379999999,True,136
+138,66.0,77x hamline av n,"770 Hamline Ave N, St Paul, MN 55104, USA",44.9643528,-93.1565747,True,137
+140,66.0,77x syndicate st n,"770 N Syndicate St, St Paul, MN 55104, USA",44.9644231,-93.15402569999999,True,138
+141,66.0,80x hamline av n,"800 Hamline Ave N, St Paul, MN 55108, USA",44.9738674,-93.15682199999999,True,139
+142,66.0,81x syndicate st n,"810 N Syndicate St, St Paul, MN 55104, USA",44.9656305,-93.15427539999999,True,140
+144,66.0,82x syndicate st n,"820 N Syndicate St, St Paul, MN 55104, USA",44.96595749999999,-93.154029,True,141
+145,66.0,84x griggs st n,"840 Griggs St N, St Paul, MN 55104, USA",44.967251,-93.15170379999999,True,142
+147,66.0,85x hamline av n,"850 Hamline Ave N, St Paul, MN 55108, USA",44.9738674,-93.15682199999999,True,143
+148,66.0,88x syndicate st n,"880 N Syndicate St, St Paul, MN 55104, USA",44.9676087,-93.15427009999999,True,144

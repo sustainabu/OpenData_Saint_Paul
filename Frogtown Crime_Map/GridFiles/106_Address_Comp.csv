@@ -1,0 +1,115 @@
+index,Grid,Block,For_Address,Latitude,Longitude,Fail,index1
+0,106.0,10x b st,"100 S B St, St Paul, MN 55106, USA",44.9387627,-93.02610089999999,False,0
+1,106.0,107x hazelwood st,"1070 Hazelwood St, St Paul, MN 55106, USA",44.9734973,-93.0352351,False,1
+2,106.0,108x marion st,"1080 Marion St, St Paul, MN 55117, USA",44.9738015,-93.1095598,False,2
+3,106.0,110x stanthony av,"1100 St Anthony Ave, St Paul, MN 55104, USA",44.9521751,-93.1468001,True,3
+4,106.0,110x university av w,"1100 University Ave W, St Paul, MN 55104, USA",44.9556268,-93.1464141,True,4
+5,106.0,11xx university av w,"1105 University Ave W, St Paul, MN 55104, USA",44.9559934,-93.1472634,True,5
+6,106.0,111x central av w,"1110 Central Ave W, St Paul, MN 55104, USA",44.9530348,-93.1472613,True,6
+7,106.0,111x jenks av,"1110 Jenks Ave E, St Paul, MN 55106, USA",44.9710087,-93.0537171,False,7
+8,106.0,112x central av w,"1120 Central Ave W, St Paul, MN 55104, USA",44.9528019,-93.1475277,True,8
+9,106.0,112x concordia av,"1120 Concordia Ave, St Paul, MN 55104, USA",44.9512124,-93.14814539999999,True,9
+10,106.0,112x university av w,"1120 University Ave W, St Paul, MN 55104, USA",44.955469,-93.1471262,True,10
+11,106.0,113x central av w,"1130 Central Ave W, St Paul, MN 55104, USA",44.9528245,-93.1479102,True,11
+12,106.0,113x concordia av,"1130 Concordia Ave, St Paul, MN 55104, USA",44.9512124,-93.14814240000001,True,12
+13,106.0,113x university av w,"1130 University Ave W, St Paul, MN 55104, USA",44.95543869999999,-93.1480737,True,13
+14,106.0,115x central av w,"1150 Central Ave W, St Paul, MN 55104, USA",44.9528217,-93.14867459999999,True,14
+15,106.0,115x marshall av,"1150 Marshall Ave, St Paul, MN 55104, USA",44.9483217,-93.1486942,True,15
+16,106.0,116x university av w,"1160 University Ave W, St Paul, MN 55104, USA",44.9556354,-93.1493677,True,16
+17,106.0,117x marshall av,"1170 Marshall Ave, St Paul, MN 55104, USA",44.94826519999999,-93.14972639999999,True,17
+18,106.0,117x university av w,"1170 University Ave W, St Paul, MN 55104, USA",44.9556435,-93.1497069,True,18
+19,106.0,118x carroll av,"1180 Carroll Ave, St Paul, MN 55104, USA",44.9502682,-93.15187979999999,True,19
+20,106.0,118x concordia av,"1180 Concordia Ave, St Paul, MN 55104, USA",44.9511817,-93.14954619999999,True,20
+21,106.0,118x marshall av,"1180 Marshall Ave, St Paul, MN 55104, USA",44.9483193,-93.1501054,True,21
+22,106.0,119x concordia av,"1190 Concordia Ave, St Paul, MN 55104, USA",44.95107549999999,-93.1497146,True,22
+23,106.0,119x university av w,"1190 University Ave W, St Paul, MN 55104, USA",44.9549953,-93.15043860000002,True,23
+24,106.0,12xx carroll av,"1205 Carroll Ave, St Paul, MN 55104, USA",44.9502683,-93.1519168,True,24
+25,106.0,12xx stanthony av,"1205 St Anthony Ave, St Paul, MN 55104, USA",44.9522296,-93.15170409999999,True,25
+26,106.0,12xx university av w,"1205 University Ave W, St Paul, MN 55104, USA",44.9560168,-93.15104620000001,True,26
+27,106.0,121x bigelow av,"1210 Bigelow Ln, St Paul, MN 55104, USA",44.9524133,-93.1506306,True,27
+28,106.0,121x marshall av,"1210 Marshall Ave, St Paul, MN 55104, USA",44.9482941,-93.1512618,True,28
+29,106.0,121x university av w,"1210 University Ave W, St Paul, MN 55104, USA",44.9553653,-93.1511376,True,29
+30,106.0,122x marshall av,"1220 Marshall Ave, St Paul, MN 55104, USA",44.9485298,-93.151946,True,30
+31,106.0,122x university av w,"1220 University Ave W, St Paul, MN 55104, USA",44.9556186,-93.151719,True,31
+32,106.0,123x carroll av,"1230 Carroll Ave, St Paul, MN 55104, USA",44.95027,-93.15255309999999,True,32
+33,106.0,123x concordia av,"1230 Concordia Ave, St Paul, MN 55104, USA",44.9509206,-93.1523731,True,33
+34,106.0,123x university av w,"1230 University Ave W, St Paul, MN 55104, USA",44.95526359999999,-93.1522619,True,34
+35,106.0,124x carroll av,"1240 Carroll Ave, St Paul, MN 55104, USA",44.9502706,-93.1527775,True,35
+36,106.0,124x stanthony av,"1240 St Anthony Ave, St Paul, MN 55104, USA",44.95225070000001,-93.152712,True,36
+37,106.0,124x university av w,"1240 University Ave W, St Paul, MN 55104, USA",44.95526280000001,-93.1525808,True,37
+38,106.0,125x carroll av,"1250 Carroll Ave, St Paul, MN 55104, USA",44.9502712,-93.15300189999999,True,38
+39,106.0,125x concordia av,"1250 Concordia Ave, St Paul, MN 55104, USA",44.950989,-93.15362569999999,True,39
+40,106.0,125x donohue av,"1250 Donohue Ave, St Paul, MN 55104, USA",44.95346490000001,-93.153977,True,40
+41,106.0,126x carroll av,"1260 Carroll Ave, St Paul, MN 55104, USA",44.9502718,-93.1532263,True,41
+42,106.0,126x donohue av,"1260 Donohue Ave, St Paul, MN 55104, USA",44.9534648,-93.15403219999999,True,42
+43,106.0,127x magnolia av e,"1270 Magnolia Ave E, St Paul, MN 55106, USA",44.9737173,-93.0469651,False,43
+44,106.0,127x university av w,"1270 University Ave W, St Paul, MN 55104, USA",44.9554981,-93.15368409999999,True,44
+45,106.0,128x concordia av,"1280 Concordia Ave, St Paul, MN 55104, USA",44.9512928,-93.1543792,True,45
+46,106.0,129x concordia av,"1290 Concordia Ave, St Paul, MN 55104, USA",44.9505667,-93.1554953,True,46
+47,106.0,130x university av w,"1300 University Ave W, St Paul, MN 55104, USA",44.9527377,-93.1556919,True,47
+48,106.0,132x marshall av,"1320 Marshall Ave, St Paul, MN 55104, USA",44.948193,-93.15592799999999,True,48
+49,106.0,132x university av w,"1320 University Ave W, St Paul, MN 55104, USA",44.9547057,-93.1562668,True,49
+50,106.0,133x university av w,"1330 University Ave W, St Paul, MN 55104, USA",44.9547052,-93.15655079999999,True,50
+51,106.0,135x carroll av,"1350 Carroll Ave, St Paul, MN 55104, USA",44.9502742,-93.15412400000001,True,51
+52,106.0,140x barclay st,"1400 Barclay St, St Paul, MN 55106, USA",44.98376,-93.03766879999999,False,52
+53,106.0,141x carroll av,"1410 Carroll Ave, St Paul, MN 55104, USA",44.949995,-93.16031799999999,True,53
+54,106.0,142x case av,"1420 Case Ave E, St Paul, MN 55106, USA",44.9701456,-93.04058529999999,False,54
+55,106.0,143x iglehart av,"1430 Iglehart Ave, St Paul, MN 55104, USA",44.9494018,-93.161039,True,55
+56,106.0,144x carroll av,"1440 Carroll Ave, St Paul, MN 55104, USA",44.9502454,-93.1616308,True,56
+57,106.0,144x iglehart av,"1440 Iglehart Ave, St Paul, MN 55104, USA",44.949132,-93.160899,True,57
+58,106.0,144x university av w,"1440 University Ave W, St Paul, MN 55104, USA",44.9527623,-93.1605137,True,58
+59,106.0,145x carroll av,"1450 Carroll Ave, St Paul, MN 55104, USA",44.9500671,-93.1613771,True,59
+60,106.0,145x university av w,"1450 University Ave W, St Paul, MN 55104, USA",44.9547721,-93.161181,True,60
+61,106.0,161x maryland av e,"1610 Maryland Ave E, St Paul, MN 55106, USA",44.977186,-93.0323578,False,61
+62,106.0,166x blair av,"1660 Blair Ave, St Paul, MN 55104, USA",44.9608503,-93.1706055,False,62
+63,106.0,169x hubbard av,"1690 Hubbard Ave, St Paul, MN 55104, USA",44.9649659,-93.17163699999999,False,63
+64,106.0,18x oldsixth st,"180 Old 6th St W, St Paul, MN 55102, USA",44.9463921,-93.1003363,False,64
+65,106.0,187x magnolia av e,"1870 Magnolia Ave E, St Paul, MN 55119, USA",44.97371099999999,-93.02151119999999,False,65
+66,106.0,19x arlington av e,"190 Arlington Ave E, St Paul, MN 55117, USA",44.9845833,-93.0914892,False,66
+67,106.0,200x lincoln av,"2000 Lincoln Ave, St Paul, MN 55105, USA",44.9387962,-93.184811,False,67
+68,106.0,200x stillwater av,"2000 Stillwater Ave E, St Paul, MN 55119, USA",44.9687078,-93.01621809999999,False,68
+69,106.0,200x university av w,"2000 University Ave W, St Paul, MN 55114, USA",44.9580928,-93.1844302,False,69
+70,106.0,2xx syndicate st n,"205 N Syndicate St, St Paul, MN 55104, USA",44.94760369999999,-93.1548588,True,70
+71,106.0,22x 5 st e,"220 5th St E, St Paul, MN 55101, USA",44.948777,-93.08698199999999,False,71
+72,106.0,26x syndicate st n,"260 N Syndicate St, St Paul, MN 55104, USA",44.9487238,-93.1542425,True,72
+73,106.0,27x hamline av n,"270 Hamline Ave N, St Paul, MN 55104, USA",44.9500211,-93.1568195,True,73
+74,106.0,27x lexington pa n,"270 Lexington Pkwy N, St Paul, MN 55104, USA",44.949487,-93.14596,True,74
+75,106.0,27x syndicate st n,"270 N Syndicate St, St Paul, MN 55104, USA",44.948827,-93.15424279999999,True,75
+76,106.0,28x lexington pa n,"280 Snelling Ave N, St Paul, MN 55104, USA",44.9495878,-93.16668759999999,True,76
+77,106.0,29x lexington pa n,"290 Lexington Pkwy N, St Paul, MN 55104, USA",44.9500537,-93.1461572,True,77
+78,106.0,29x syndicate st n,"290 N Syndicate St, St Paul, MN 55104, USA",44.9490334,-93.1542434,True,78
+79,106.0,30x griggs st n,"300 N Griggs St, St Paul, MN 55104, USA",44.948521,-93.1517363,True,79
+80,106.0,30x hatch av,"300 Hatch Ave W, St Paul, MN 55117, USA",44.9708722,-93.11278539999999,False,80
+81,106.0,30x syndicate st n,"300 N Syndicate St, St Paul, MN 55104, USA",44.9491366,-93.1542437,True,81
+82,106.0,3xx lexington pa n,"1096 Grand Ave, St Paul, MN 55105, USA",44.9398043,-93.1463622,False,82
+83,106.0,31x griggs st n,"Griggs St N, St Paul, MN 55104, USA",44.9675573,-93.15169069999999,True,83
+85,106.0,32x griggs st n,"320 N Griggs St, St Paul, MN 55104, USA",44.9505405,-93.1504452,True,84
+88,106.0,38x dunlap st n,"380 N Dunlap St, St Paul, MN 55104, USA",44.9524686,-93.1489294,True,85
+89,106.0,39x dunlap st n,"390 N Dunlap St, St Paul, MN 55104, USA",44.9529824,-93.1489033,True,86
+92,106.0,4x sycamore st w,"40 W Sycamore St, St Paul, MN 55117, USA",44.9643586,-93.10169169999999,False,87
+93,106.0,40x dunlap st n,"400 N Dunlap St, St Paul, MN 55104, USA",44.953042,-93.14918360000001,True,88
+94,106.0,40x griggs st n,"400 N Griggs St, St Paul, MN 55104, USA",44.9528834,-93.1510967,True,89
+95,106.0,40x lexington pa n,"451 Lexington Pkwy N, St Paul, MN 55104, USA",44.9547982,-93.14840400000001,True,90
+96,106.0,40x syndicate st n,"400 N Syndicate St, St Paul, MN 55104, USA",44.9531517,-93.15388850000001,True,91
+97,106.0,41x dunlap st n,"410 N Dunlap St, St Paul, MN 55104, USA",44.9532811,-93.14861580000002,True,92
+98,106.0,41x griggs st n,"410 N Griggs St, St Paul, MN 55104, USA",44.9534291,-93.1510964,True,93
+99,106.0,41x syndicate st n,"410 N Syndicate St, St Paul, MN 55104, USA",44.95374760000001,-93.153418,True,94
+100,106.0,43x griggs st n,"430 Griggs St N, St Paul, MN 55104, USA",44.967251,-93.15170379999999,True,95
+101,106.0,43x grotto st n,"430 Grotto St N, St Paul, MN 55104, USA",44.9541235,-93.1312044,False,96
+102,106.0,43x syndicate st n,"430 N Syndicate St, St Paul, MN 55104, USA",44.95437570000001,-93.1536543,True,97
+103,106.0,45x dunlap st n,"450 N Dunlap St, St Paul, MN 55104, USA",44.9543466,-93.1491704,True,98
+104,106.0,45x griggs st n,"450 N Griggs St, St Paul, MN 55104, USA",44.9546322,-93.1510956,True,99
+105,106.0,45x hamline av n,"450 Hamline Ave N, St Paul, MN 55104, USA",44.9527718,-93.15684429999999,True,100
+106,106.0,45x lexington pa n,"450 Lexington Pkwy N, St Paul, MN 55104, USA",44.9545652,-93.14625129999999,True,101
+107,106.0,45x syndicate st n,"450 N Syndicate St, St Paul, MN 55104, USA",44.9548758,-93.15345719999999,True,102
+108,106.0,46x hamline av n,"460 Hamline Ave N, St Paul, MN 55104, USA",44.9543463,-93.1568389,True,103
+110,106.0,47x hamline av n,"470 Hamline Ave N, St Paul, MN 55104, USA",44.9550166,-93.15628,True,104
+111,106.0,47x laurel av,"470 Laurel Ave, St Paul, MN 55102, USA",44.9451677,-93.1199493,False,105
+112,106.0,47x syndicate st n,"470 N Syndicate St, St Paul, MN 55104, USA",44.9553625,-93.1536448,True,106
+113,106.0,48x hamline av n,"480 Hamline Ave N, St Paul, MN 55104, USA",44.955604,-93.1568367,True,107
+114,106.0,61x maryland av e,"610 Maryland Ave E, St Paul, MN 55130, USA",44.9771942,-93.0746746,False,108
+115,106.0,64x jackson st,"640 Jackson St, St Paul, MN 55101, USA",44.955217,-93.0961435,False,109
+116,106.0,75x fuller av,"750 Fuller Ave, St Paul, MN 55104, USA",44.9537128,-93.13196839999999,False,110
+117,106.0,79x selby av,"790 Selby Ave, St Paul, MN 55104, USA",44.946383,-93.13370239999999,False,111
+118,106.0,88x payne av,"880 Payne Ave, St Paul, MN 55130, USA",44.9678249,-93.0733576,False,112
+119,106.0,91x aurora av,"910 Aurora Ave, St Paul, MN 55104, USA",44.9546164,-93.1386143,False,113
