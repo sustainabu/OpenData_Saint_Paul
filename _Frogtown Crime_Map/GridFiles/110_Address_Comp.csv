@@ -1,0 +1,128 @@
+index,Grid,Block,For_Address,Latitude,Longitude,Fail,index1
+0,110.0,10xx fremont av,"1005 Fremont Ave E, St Paul, MN 55106, USA",44.9578484,-93.0579071,False,0
+1,110.0,1xx stanthony av,"105 St Anthony Ave, St Paul, MN 55103, USA",44.9513522,-93.106679,True,1
+2,110.0,107x reaney av,"1070 Reaney Ave E, St Paul, MN 55106, USA",44.963785,-93.05530519999999,False,2
+3,110.0,117x clarence st,"1170 Clarence St, St Paul, MN 55106, USA",44.976985,-93.0431121,False,3
+4,110.0,119x university av w,"1190 University Ave W, St Paul, MN 55104, USA",44.9549953,-93.15043860000002,False,4
+5,110.0,133x edgerton st,"1330 Edgerton St, St Paul, MN 55130, USA",44.981392,-93.0757713,False,5
+6,110.0,14x johnireland bd,"140 John Ireland Blvd, St Paul, MN 55102, USA",44.9477878,-93.1078436,True,6
+7,110.0,148x danforth st,"1480 Danforth St N, St Paul, MN 55117, USA",44.9857631,-93.1246245,False,7
+8,110.0,15x university av w,"150 University Ave W, St Paul, MN 55103, USA",44.95554509999999,-93.10654629999999,True,8
+9,110.0,16x stanthony av,"160 St Anthony Ave, St Paul, MN 55103, USA",44.9513824,-93.1081336,True,9
+10,110.0,16x university av w,"160 University Ave W, St Paul, MN 55103, USA",44.9555452,-93.10693979999999,True,10
+11,110.0,164x manton st,"1640 N Manton St, St Paul, MN 55106, USA",44.9908619,-93.0389591,False,11
+12,110.0,17x aurora av,"170 Aurora Ave, St Paul, MN 55103, USA",44.9548988,-93.1073031,True,12
+13,110.0,20x university av w,"200 University Ave W, St Paul, MN 55103, USA",44.955231,-93.10847419999999,True,13
+14,110.0,2xx aurora av,"205 Aurora Ave, St Paul, MN 55103, USA",44.9548914,-93.10879899999999,True,14
+15,110.0,2xx fuller av,"205 W Fuller Ave, St Paul, MN 55103, USA",44.95422300000001,-93.10947829999999,True,15
+16,110.0,2xx marshall av,"205 Marshall Ave, St Paul, MN 55155, USA",44.9481987,-93.1080116,False,16
+17,110.0,2xx ravoux st,"205 Ravoux St, St Paul, MN 55103, USA",44.9514541,-93.11333239999999,True,17
+18,110.0,22x fuller av,"220 W Fuller Ave, St Paul, MN 55103, USA",44.953988,-93.1099735,True,18
+19,110.0,23x aurora av,"230 Aurora Ave, St Paul, MN 55103, USA",44.9546747,-93.10996639999999,True,19
+20,110.0,23x fuller av,"230 W Fuller Ave, St Paul, MN 55103, USA",44.9539889,-93.1102422,True,20
+21,110.0,23x marshall av,"230 Marshall Ave, St Paul, MN 55102, USA",44.9479529,-93.10964709999999,True,21
+22,110.0,23x university av w,"230 University Ave W, St Paul, MN 55103, USA",44.9556432,-93.1100147,True,22
+23,110.0,24x aurora av,"240 Aurora Ave, St Paul, MN 55103, USA",44.9546742,-93.1102279,True,23
+24,110.0,24x fuller av,"240 W Fuller Ave, St Paul, MN 55103, USA",44.9535178,-93.10988189999999,True,24
+25,110.0,24x maryland av e,"240 Maryland Ave E, St Paul, MN 55117, USA",44.97563539999999,-93.09095479999999,False,25
+26,110.0,24x stanthony av,"240 St Anthony Ave, St Paul, MN 55103, USA",44.9513954,-93.11086630000001,True,26
+27,110.0,24x university av w,"240 University Ave W, St Paul, MN 55103, USA",44.955642,-93.1103574,True,27
+28,110.0,25x aurora av,"250 Aurora Ave, St Paul, MN 55103, USA",44.9546737,-93.11051510000001,True,28
+29,110.0,25x fuller av,"250 W Fuller Ave, St Paul, MN 55103, USA",44.953649,-93.111385,True,29
+30,110.0,25x ravoux st,"250 Ravoux St, St Paul, MN 55103, USA",44.9518919,-93.1118796,True,30
+31,110.0,26x aurora av,"260 Aurora Ave, St Paul, MN 55103, USA",44.9546757,-93.1108416,True,31
+32,110.0,26x fuller av,"260 W Fuller Ave, St Paul, MN 55103, USA",44.9539895,-93.1113981,True,32
+33,110.0,26x johnireland bd,"260 John Ireland Blvd, St Paul, MN 55102, USA",44.9480818,-93.1077917,True,33
+34,110.0,26x ravoux st,"260 Ravoux St, St Paul, MN 55103, USA",44.9518919,-93.1118796,True,34
+35,110.0,26x university av w,"260 University Ave W, St Paul, MN 55103, USA",44.95569829999999,-93.1110017,True,35
+36,110.0,27x aurora av,"270 Aurora Ave, St Paul, MN 55103, USA",44.9546715,-93.1113762,True,36
+37,110.0,27x concordia av,"270 Concordia Ave, St Paul, MN 55155, USA",44.9502693,-93.11016750000002,False,37
+38,110.0,27x fuller av,"270 W Fuller Ave, St Paul, MN 55103, USA",44.9539895,-93.1114107,True,38
+39,110.0,27x university av w,"270 University Ave W, St Paul, MN 55103, USA",44.9555063,-93.1113944,True,39
+40,110.0,28x aurora av,"280 Aurora Ave, St Paul, MN 55103, USA",44.9546708,-93.11177930000001,True,40
+41,110.0,28x fuller av,"280 W Fuller Ave, St Paul, MN 55103, USA",44.9535336,-93.1120493,True,41
+42,110.0,28x marshall av,"280 Marshall Ave, St Paul, MN 55102, USA",44.9479529,-93.1120618,True,42
+43,110.0,28x ravoux st,"280 Ravoux St, St Paul, MN 55103, USA",44.95182399999999,-93.1118796,True,43
+44,110.0,28x stanthony av,"280 St Anthony Ave, St Paul, MN 55103, USA",44.9513903,-93.1121826,True,44
+45,110.0,29x aurora av,"290 Aurora Ave, St Paul, MN 55103, USA",44.9546699,-93.11224670000001,True,45
+46,110.0,29x marshall av,"290 Marshall Ave, St Paul, MN 55102, USA",44.9479535,-93.1122575,True,46
+47,110.0,29x ravoux st,"290 Ravoux St, St Paul, MN 55103, USA",44.9518918,-93.11217339999999,True,47
+48,110.0,29x university av w,"290 University Ave W, St Paul, MN 55103, USA",44.9555051,-93.1118011,True,48
+49,110.0,30x aurora av,"300 Aurora Ave, St Paul, MN 55103, USA",44.9546694,-93.112555,True,49
+50,110.0,30x fuller av,"300 W Fuller Ave, St Paul, MN 55103, USA",44.9535934,-93.1124182,True,50
+51,110.0,30x ravoux st,"300 Ravoux St, St Paul, MN 55103, USA",44.9518917,-93.1124672,True,51
+52,110.0,30x stanthony av,"300 St Anthony Ave, St Paul, MN 55103, USA",44.9513879,-93.11284069999999,True,52
+53,110.0,30x university av w,"300 University Ave W, St Paul, MN 55103, USA",44.95552379999999,-93.112505,True,53
+54,110.0,3xx aurora av,"305 Aurora Ave, St Paul, MN 55103, USA",44.9550992,-93.1126826,True,54
+55,110.0,3xx fuller av,"305 W Fuller Ave, St Paul, MN 55103, USA",44.9539885,-93.11266479999999,True,55
+56,110.0,31x aurora av,"310 Aurora Ave, St Paul, MN 55103, USA",44.9546685,-93.1129978,True,56
+57,110.0,31x fuller av,"310 W Fuller Ave, St Paul, MN 55103, USA",44.9539882,-93.113022,True,57
+58,110.0,31x ravoux st,"310 Ravoux St, St Paul, MN 55103, USA",44.9518916,-93.1127609,True,58
+59,110.0,31x university av w,"310 University Ave W, St Paul, MN 55103, USA",44.9554967,-93.11294009999999,True,59
+60,110.0,32x aurora av,"320 Aurora Ave, St Paul, MN 55103, USA",44.9546354,-93.11339679999999,True,60
+61,110.0,32x fuller av,"320 W Fuller Ave, St Paul, MN 55103, USA",44.953716,-93.1135259,True,61
+62,110.0,32x ravoux st,"320 Ravoux St, St Paul, MN 55103, USA",44.9521475,-93.1132433,True,62
+63,110.0,32x stevens st w,"320 W Stevens St, St Paul, MN 55107, USA",44.9282836,-93.0990715,False,63
+64,110.0,32x university av w,"320 University Ave W, St Paul, MN 55103, USA",44.9554556,-93.11364230000001,True,64
+65,110.0,33x aurora av,"330 Aurora Ave, St Paul, MN 55103, USA",44.9546343,-93.11382019999999,True,65
+66,110.0,33x fuller av,"330 W Fuller Ave, St Paul, MN 55103, USA",44.9537425,-93.11392769999999,True,66
+67,110.0,33x marshall av,"330 Marshall Ave, St Paul, MN 55102, USA",44.9479475,-93.1135669,True,67
+68,110.0,33x ravoux st,"330 Ravoux St, St Paul, MN 55103, USA",44.9516651,-93.1130351,True,68
+69,110.0,33x university av w,"330 University Ave W, St Paul, MN 55103, USA",44.9554898,-93.1140015,True,69
+70,110.0,34x fuller av,"340 W Fuller Ave, St Paul, MN 55103, USA",44.95374109999999,-93.11421059999999,True,70
+71,110.0,34x marshall av,"340 Marshall Ave, St Paul, MN 55102, USA",44.9479356,-93.1141907,True,71
+72,110.0,34x university av w,"340 University Ave W, St Paul, MN 55103, USA",44.9554884,-93.1143604,True,72
+73,110.0,35x aurora av,"350 Aurora Ave, St Paul, MN 55103, USA",44.9548812,-93.1147415,True,73
+74,110.0,35x fuller av,"350 W Fuller Ave, St Paul, MN 55103, USA",44.95372589999999,-93.11495459999999,True,74
+75,110.0,35x hope st,"350 Hope St N, St Paul, MN 55106, USA",44.959053,-93.0660621,False,75
+76,110.0,35x marion st,"350 Marion St, St Paul, MN 55103, USA",44.9514165,-93.1098566,True,76
+77,110.0,35x marshall av,"350 Marshall Ave, St Paul, MN 55102, USA",44.9479465,-93.1145007,True,77
+78,110.0,35x university av w,"350 University Ave W, St Paul, MN 55103, USA",44.9554486,-93.1148207,True,78
+79,110.0,36x aurora av,"360 Aurora Ave, St Paul, MN 55103, USA",44.9546615,-93.1152087,True,79
+80,110.0,36x farrington st,"360 N Farrington St, St Paul, MN 55103, USA",44.9535482,-93.11327229999999,True,80
+81,110.0,36x fuller av,"360 W Fuller Ave, St Paul, MN 55103, USA",44.9537351,-93.11528750000001,True,81
+82,110.0,36x university av w,"360 University Ave W, St Paul, MN 55103, USA",44.955488,-93.11513080000002,True,82
+83,110.0,36x virginia st,"360 Virginia St, St Paul, MN 55103, USA",44.95352279999999,-93.1147024,True,83
+84,110.0,37x aurora av,"370 Aurora Ave, St Paul, MN 55103, USA",44.9546759,-93.11552259999999,True,84
+85,110.0,37x farrington st,"370 N Farrington St, St Paul, MN 55103, USA",44.95361800000001,-93.11327089999999,True,85
+86,110.0,37x fuller av,"370 W Fuller Ave, St Paul, MN 55103, USA",44.9537244,-93.1156793,True,86
+87,110.0,37x marion st,"370 Marion St, St Paul, MN 55103, USA",44.9520872,-93.1097954,True,87
+88,110.0,37x stanthony av,"370 St Anthony Ave, St Paul, MN 55103, USA",44.9516987,-93.1157472,True,88
+89,110.0,37x university av w,"370 University Ave W, St Paul, MN 55103, USA",44.95543560000001,-93.11571839999999,True,89
+90,110.0,37x virginia st,"370 Virginia St, St Paul, MN 55103, USA",44.9535352,-93.1144856,True,90
+91,110.0,37x western av n,"370 Western Ave N, St Paul, MN 55103, USA",44.9520704,-93.1158617,True,91
+92,110.0,38x farrington st,"380 N Farrington St, St Paul, MN 55103, USA",44.9536878,-93.1132695,True,92
+93,110.0,38x marion st,"380 Marion St, St Paul, MN 55103, USA",44.9524598,-93.109675,True,93
+94,110.0,38x virginia st,"380 Virginia St, St Paul, MN 55103, USA",44.9535493,-93.1144853,True,94
+95,110.0,38x western av n,"380 Western Ave N, St Paul, MN 55103, USA",44.9525491,-93.1155503,True,95
+96,110.0,39x farrington st,"390 N Farrington St, St Paul, MN 55103, USA",44.9537576,-93.1132681,True,96
+97,110.0,39x maryland av e,"390 Maryland Ave E, St Paul, MN 55130, USA",44.9768056,-93.0840486,False,97
+98,110.0,39x virginia st,"390 Virginia St, St Paul, MN 55103, USA",44.9535634,-93.1144851,True,98
+99,110.0,40x farrington st,"400 N Farrington St, St Paul, MN 55103, USA",44.95382739999999,-93.11326660000002,True,99
+100,110.0,40x marion st,"400 Marion St, St Paul, MN 55103, USA",44.95317319999999,-93.1093659,True,100
+101,110.0,40x virginia st,"400 Virginia St, St Paul, MN 55103, USA",44.95357749999999,-93.1144849,True,101
+102,110.0,40x western av n,"400 Western Ave N, St Paul, MN 55103, USA",44.9528296,-93.1150917,True,102
+103,110.0,4xx farrington st,"405 N Farrington St, St Paul, MN 55103, USA",44.9538619,-93.113266,True,103
+104,110.0,4xx western av n,"405 Western Ave N, St Paul, MN 55103, USA",44.95368759999999,-93.1163648,True,104
+105,110.0,41x marion st,"410 Marion St, St Paul, MN 55103, USA",44.9535022,-93.10926909999999,True,105
+106,110.0,41x virginia st,"410 Virginia St, St Paul, MN 55103, USA",44.9535919,-93.11452369999999,True,106
+107,110.0,42x rice st,"420 Rice St, St Paul, MN 55103, USA",44.9538152,-93.1054127,True,107
+108,110.0,43x galtier st,"430 Galtier St, St Paul, MN 55103, USA",44.9544873,-93.1108047,True,108
+109,110.0,43x virginia st,"430 Virginia St, St Paul, MN 55103, USA",44.9541958,-93.1144133,True,109
+110,110.0,43x western av n,"430 Western Ave N, St Paul, MN 55103, USA",44.9543025,-93.11585649999999,True,110
+111,110.0,44x farrington st,"440 N Farrington St, St Paul, MN 55103, USA",44.954411,-93.1129946,True,111
+112,110.0,44x galtier st,"440 Galtier St, St Paul, MN 55103, USA",44.954648,-93.11080369999999,True,112
+113,110.0,44x marion st,"440 Marion St, St Paul, MN 55103, USA",44.954477,-93.1092058,True,113
+114,110.0,44x rice st,"440 Rice St, St Paul, MN 55103, USA",44.9541552,-93.1055468,True,114
+115,110.0,44x virginia st,"440 Virginia St, St Paul, MN 55103, USA",44.954507,-93.114367,True,115
+116,110.0,45x farrington st,"450 N Farrington St, St Paul, MN 55103, USA",44.9547085,-93.1129964,True,116
+117,110.0,45x marion st,"450 Marion St, St Paul, MN 55103, USA",44.9547551,-93.1092044,True,117
+118,110.0,46x galtier st,"460 Galtier St, St Paul, MN 55103, USA",44.9550477,-93.1110114,True,118
+119,110.0,47x farrington st,"470 N Farrington St, St Paul, MN 55103, USA",44.9553467,-93.11326539999999,True,119
+120,110.0,47x galtier st,"470 Galtier St, St Paul, MN 55103, USA",44.95536389999999,-93.1110059,True,120
+121,110.0,47x marion st,"470 Marion St, St Paul, MN 55103, USA",44.9554064,-93.1091948,True,121
+122,110.0,47x western av n,"470 Western Ave N, St Paul, MN 55103, USA",44.955231,-93.1154664,True,122
+123,110.0,68x sherburne av,"680 Sherburne Ave, St Paul, MN 55104, USA",44.9566276,-93.12893749999999,False,123
+124,110.0,7x lawson av w,"70 Lawson Ave W, St Paul, MN 55117, USA",44.9719971,-93.1030512,False,124
+125,110.0,70x lafond av,"700 Lafond Ave, St Paul, MN 55104, USA",44.9600583,-93.12987609999999,False,125
+126,110.0,89x arcade st,"890 Arcade St, St Paul, MN 55106, USA",44.9679186,-93.06422479999999,False,126

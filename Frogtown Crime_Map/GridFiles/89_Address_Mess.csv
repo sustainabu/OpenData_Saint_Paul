@@ -1,2 +1,0 @@
-Grid,Address,Block,Block1,Coordinates,For_Address,Latitude,Longitude,Zip,Results,Fail
-89.0,"st/university av, Saint Paul, MN, 55103",st/university av,1,"{'formatted_address': '105 University Ave W, St Paul, MN 55103, USA', 'latitude': 44.956185, 'longitude': -93.1042269, 'zip': '55103', 'input_string': 'st/university av, Saint Paul, MN, 55103', 'number_of_results': 1, 'status': 'OK'}","105 University Ave W, St Paul, MN 55103, USA",44.956185,-93.1042269,55103,1,True

@@ -1,0 +1,5 @@
+Address,Block,Block1,Coordinates,Fail,For_Address,Grid,Latitude,Longitude,Results,Zip,index1
+"830 lexington pa n, Saint Paul, MN, 55104",83x lexington pa n,1.0,"{'formatted_address': '1096 Grand Ave, St Paul, MN 55105, USA', 'latitude': 44.9398043, 'longitude': -93.1463622, 'zip': '55105', 'input_string': '830 lexington pa n, Saint Paul, MN, 55104', 'number_of_results': 1, 'status': 'OK'}",False,"1096 Grand Ave, St Paul, MN 55105, USA",88.0,44.9398043,-93.1463622,1.0,55105,266
+"2110 ford pa, Saint Paul, MN, 55104",211x ford pa,1.0,"{'formatted_address': 'Pennsylvania, USA', 'latitude': 41.2033216, 'longitude': -77.1945247, 'zip': 'Pennsylvania', 'input_string': '2110 ford pa, Saint Paul, MN, 55104', 'number_of_results': 2, 'status': 'OK'}",False,"Pennsylvania, USA",88.0,41.2033216,-77.1945247,2.0,Pennsylvania,15
+,66x victoria st n,,,True,"660 Victoria St N, St Paul, MN 55103, USA",88.0,44.9702096,-93.1364708,,,112
+,71x stalbans st n,,,True,"710 St Albans St N, St Paul, MN 55103, USA",88.0,44.9702624,-93.1285082,,,164

@@ -1,0 +1,115 @@
+index,Grid,Block,For_Address,Latitude,Longitude,Fail,index1
+0,67.0,100x burgess st,"1000 Burgess St, St Paul, MN 55103, USA",44.968186,-93.1423935,True,0
+1,67.0,100x englewood av,"1000 Englewood Ave, St Paul, MN 55104, USA",44.96375620000001,-93.1425079,True,1
+2,67.0,100x hubbard av,"1000 Hubbard Ave, St Paul, MN 55104, USA",44.9655051,-93.1425033,True,2
+3,67.0,100x minnehaha av w,"1000 W Minnehaha Ave, St Paul, MN 55104, USA",44.9628085,-93.1425218,True,3
+4,67.0,100x seminary av,"1000 W Seminary Ave, St Paul, MN 55104, USA",44.9646301,-93.1425252,True,4
+5,67.0,100x topping st,"1000 Topping St, St Paul, MN 55103, USA",44.9672926,-93.1424243,True,5
+6,67.0,101x burgess st,"1010 Burgess St, St Paul, MN 55103, USA",44.9682098,-93.1428593,True,6
+7,67.0,101x front av,"1010 Front Ave, St Paul, MN 55103, USA",44.96994900000001,-93.142792,True,7
+8,67.0,101x hubbard av,"1010 Hubbard Ave, St Paul, MN 55104, USA",44.9654962,-93.14275310000001,True,8
+9,67.0,101x minnehaha av w,"1010 W Minnehaha Ave, St Paul, MN 55104, USA",44.962778,-93.1429139,True,9
+10,67.0,101x seminary av,"1010 W Seminary Ave, St Paul, MN 55104, USA",44.9646215,-93.1428389,True,10
+11,67.0,101x stinson st,"1010 Stinson St, St Paul, MN 55103, USA",44.96911679999999,-93.14275819999999,True,11
+12,67.0,101x topping st,"1010 Topping St, St Paul, MN 55103, USA",44.9673108,-93.14282039999999,True,12
+13,67.0,102x burgess st,"1020 Burgess St, St Paul, MN 55103, USA",44.9681891,-93.1432142,True,13
+14,67.0,102x englewood av,"1020 Englewood Ave, St Paul, MN 55104, USA",44.9637346,-93.14329200000002,True,14
+15,67.0,102x front av,"1020 Front Ave, St Paul, MN 55103, USA",44.9699964,-93.14321699999999,True,15
+16,67.0,102x hubbard av,"1020 Hubbard Ave, St Paul, MN 55104, USA",44.965522,-93.14321299999999,True,16
+17,67.0,102x minnehaha av w,"1020 W Minnehaha Ave, St Paul, MN 55104, USA",44.96277870000001,-93.1432471,True,17
+18,67.0,102x stinson st,"1020 Stinson St, St Paul, MN 55103, USA",44.9691898,-93.14321249999999,True,18
+19,67.0,102x topping st,"1020 Topping St, St Paul, MN 55103, USA",44.967325,-93.1432341,True,19
+20,67.0,103x case av,"1030 Case Ave E, St Paul, MN 55106, USA",44.970153,-93.0569664,False,20
+21,67.0,103x englewood av,"1030 Englewood Ave, St Paul, MN 55104, USA",44.9637271,-93.1435664,True,21
+22,67.0,103x front av,"1030 Front Ave, St Paul, MN 55103, USA",44.969952,-93.14359100000001,True,22
+23,67.0,103x hubbard av,"1030 Hubbard Ave, St Paul, MN 55104, USA",44.9655124,-93.1435659,True,23
+24,67.0,103x minnehaha av w,"1030 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627773,-93.14365869999999,True,24
+25,67.0,103x piercebutler rd,"1030 W Pierce Butler Route, St Paul, MN 55104, USA",44.9662083,-93.1436815,True,25
+26,67.0,103x seminary av,"1030 W Seminary Ave, St Paul, MN 55104, USA",44.9645805,-93.1436524,True,26
+27,67.0,103x stinson st,"1030 Stinson St, St Paul, MN 55103, USA",44.9691191,-93.1435427,True,27
+28,67.0,103x topping st,"1030 Topping St, St Paul, MN 55103, USA",44.967334,-93.14356939999999,True,28
+29,67.0,104x burgess st,"1040 Burgess St, St Paul, MN 55103, USA",44.9684059,-93.1440916,True,29
+30,67.0,104x englewood av,"1040 Englewood Ave, St Paul, MN 55104, USA",44.96390419999999,-93.1441139,True,30
+31,67.0,104x front av,"1040 Front Ave, St Paul, MN 55103, USA",44.9701152,-93.1439427,True,31
+32,67.0,104x hubbard av,"1040 Hubbard Ave, St Paul, MN 55104, USA",44.96552820000001,-93.14431479999999,True,32
+33,67.0,104x minnehaha av w,"1040 W Minnehaha Ave, St Paul, MN 55104, USA",44.96279639999999,-93.14429,True,33
+34,67.0,104x seminary av,"1040 W Seminary Ave, St Paul, MN 55104, USA",44.96461799999999,-93.14429349999999,True,34
+35,67.0,104x stinson st,"1040 Stinson St, St Paul, MN 55103, USA",44.9691364,-93.14427859999999,True,35
+36,67.0,105x burgess st,"1050 Burgess St, St Paul, MN 55103, USA",44.9681802,-93.1445518,True,36
+37,67.0,105x englewood av,"1050 Englewood Ave, St Paul, MN 55104, USA",44.9636991,-93.1445858,True,37
+38,67.0,105x piercebutler rd,"1050 W Pierce Butler Route, St Paul, MN 55104, USA",44.96647369999999,-93.1445688,True,38
+39,67.0,105x seminary av,"1050 W Seminary Ave, St Paul, MN 55104, USA",44.9646093,-93.1446071,True,39
+40,67.0,105x stinson st,"1050 Stinson St, St Paul, MN 55103, USA",44.9690635,-93.1446189,True,40
+41,67.0,106x englewood av,"1060 Englewood Ave, St Paul, MN 55104, USA",44.9637225,-93.14506019999999,True,41
+42,67.0,106x front av,"1060 Front Ave, St Paul, MN 55103, USA",44.9699529,-93.144982,True,42
+43,67.0,106x hubbard av,"1060 Hubbard Ave, St Paul, MN 55104, USA",44.965504,-93.1449684,True,43
+44,67.0,106x minnehaha av w,"1060 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627683,-93.14493039999999,True,44
+45,67.0,106x seminary av,"1060 W Seminary Ave, St Paul, MN 55104, USA",44.9645975,-93.14503839999999,True,45
+46,67.0,107x englewood av,"1070 Englewood Ave, St Paul, MN 55104, USA",44.9636941,-93.14543069999999,True,46
+47,67.0,107x front av,"1070 Front Ave, St Paul, MN 55103, USA",44.9700187,-93.1453196,True,47
+48,67.0,107x hubbard av,"1070 Hubbard Ave, St Paul, MN 55104, USA",44.9655038,-93.1452205,True,48
+49,67.0,107x minnehaha av w,"1070 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627701,-93.1452834,True,49
+50,67.0,107x piercebutler rd,"1070 W Pierce Butler Route, St Paul, MN 55104, USA",44.9664736,-93.1454021,True,50
+51,67.0,107x seminary av,"1070 W Seminary Ave, St Paul, MN 55104, USA",44.9646124,-93.145304,True,51
+52,67.0,107x stinson st,"1070 Stinson St, St Paul, MN 55103, USA",44.9690653,-93.1453659,True,52
+53,67.0,108x englewood av,"1080 Englewood Ave, St Paul, MN 55104, USA",44.9637171,-93.1458092,True,53
+54,67.0,108x front av,"1080 Front Ave, St Paul, MN 55103, USA",44.9700216,-93.1456958,True,54
+55,67.0,108x hubbard av,"1080 Hubbard Ave, St Paul, MN 55104, USA",44.9655269,-93.1456911,True,55
+56,67.0,108x stinson st,"1080 Stinson St, St Paul, MN 55103, USA",44.9691318,-93.1457727,True,56
+57,67.0,109x front av,"1090 Front Ave, St Paul, MN 55103, USA",44.970229,-93.14594319999999,True,57
+58,67.0,109x minnehaha av w,"1090 W Minnehaha Ave, St Paul, MN 55104, USA",44.9628624,-93.1461013,True,58
+59,67.0,109x piercebutler rd,"1090 W Pierce Butler Route, St Paul, MN 55104, USA",44.9664739,-93.14623549999999,True,59
+60,67.0,119x edgcumbe rd,"1190 Edgcumbe Rd, St Paul, MN 55105, USA",44.9304459,-93.14976790000001,False,60
+61,67.0,158x jessamine av e,"1580 Jessamine Ave E, St Paul, MN 55106, USA",44.9748282,-93.0474752,False,61
+62,67.0,24x maryland av e,"240 Maryland Ave E, St Paul, MN 55117, USA",44.97563539999999,-93.09095479999999,False,62
+63,67.0,42x rice st,"420 Rice St, St Paul, MN 55103, USA",44.9538685,-93.106072,False,63
+64,67.0,44x lynnhurst av w,"440 W Lynnhurst Ave, St Paul, MN 55104, USA",44.9542157,-93.18151619999999,False,64
+65,67.0,65x smith av s,"650 Smith Ave S, St Paul, MN 55107, USA",44.9263103,-93.10164569999999,False,65
+66,67.0,7xx milton st n,"705 N Milton St, St Paul, MN 55104, USA",44.9631093,-93.1391417,True,66
+68,67.0,74x chatsworth st n,"740 Chatsworth St N, St Paul, MN 55104, USA",44.9635686,-93.1415443,True,67
+70,67.0,74x milton st n,"740 N Milton St, St Paul, MN 55104, USA",44.963891,-93.13913559999999,True,68
+72,67.0,75x milton st n,"750 N Milton St, St Paul, MN 55104, USA",44.9641122,-93.13816279999999,True,69
+74,67.0,76x milton st n,"760 N Milton St, St Paul, MN 55104, USA",44.9643266,-93.1381972,True,70
+75,67.0,76x victoria st n,"760 Victoria St N, St Paul, MN 55103, USA",44.9702096,-93.1364708,True,71
+77,67.0,77x milton st n,"770 N Milton St, St Paul, MN 55104, USA",44.9645446,-93.13913040000001,True,72
+78,67.0,77x victoria st n,"770 Victoria St N, St Paul, MN 55103, USA",44.9702096,-93.1364708,True,73
+80,67.0,79x lexington pa n,"790 Lexington Pkwy N, St Paul, MN 55104, USA",44.96518380000001,-93.1462433,True,74
+81,67.0,80x milton st n,"800 N Milton St, St Paul, MN 55104, USA",44.9651134,-93.13913269999999,True,75
+82,67.0,81x milton st n,"810 N Milton St, St Paul, MN 55104, USA",44.9653116,-93.1391302,True,76
+83,67.0,86x front av,"860 Front Ave, St Paul, MN 55103, USA",44.97020879999999,-93.14153739999999,True,77
+84,67.0,86x minnehaha av w,"860 W Minnehaha Ave, St Paul, MN 55104, USA",44.962987,-93.1365009,True,78
+85,67.0,86x piercebutler rd,"860 W Pierce Butler Route, St Paul, MN 55104, USA",44.9647325,-93.13653160000001,True,79
+86,67.0,87x chatsworth st n,"870 Chatsworth St N, St Paul, MN 55104, USA",44.9661262,-93.14153979999999,True,80
+87,67.0,87x minnehaha av w,"870 W Minnehaha Ave, St Paul, MN 55104, USA",44.96285,-93.13838349999999,True,81
+88,67.0,87x piercebutler rd,"870 W Pierce Butler Route, St Paul, MN 55104, USA",44.964734,-93.1369235,True,82
+89,67.0,88x piercebutler rd,"880 W Pierce Butler Route, St Paul, MN 55104, USA",44.9647353,-93.13731539999999,True,83
+91,67.0,9x hawthorne av w,"90 W Hawthorne Ave, St Paul, MN 55117, USA",44.9780866,-93.10407029999999,False,84
+92,67.0,90x chatsworth st n,"900 Chatsworth St N, St Paul, MN 55103, USA",44.9688612,-93.14145049999999,True,85
+93,67.0,90x front av,"900 Front Ave, St Paul, MN 55103, USA",44.97020879999999,-93.14153739999999,True,86
+95,67.0,90x minnehaha av w,"900 W Minnehaha Ave, St Paul, MN 55104, USA",44.962999,-93.13972079999999,True,87
+96,67.0,91x front av,"910 Front Ave, St Paul, MN 55103, USA",44.9702089,-93.1415615,True,88
+97,67.0,91x minnehaha av w,"910 W Minnehaha Ave, St Paul, MN 55104, USA",44.9629995,-93.139952,True,89
+98,67.0,92x minnehaha av w,"920 W Minnehaha Ave, St Paul, MN 55104, USA",44.9630001,-93.14018329999999,True,90
+99,67.0,93x front av,"930 Front Ave, St Paul, MN 55103, USA",44.9699951,-93.14161039999999,True,91
+100,67.0,93x minnehaha av w,"930 W Minnehaha Ave, St Paul, MN 55104, USA",44.962507,-93.1403249,True,92
+101,67.0,93x stinson st,"930 Stinson St, St Paul, MN 55103, USA",44.9691137,-93.14177049999999,True,93
+102,67.0,94x minnehaha av w,"940 W Minnehaha Ave, St Paul, MN 55104, USA",44.9625072,-93.1404108,True,94
+103,67.0,94x piercebutler rd,"940 W Pierce Butler Route, St Paul, MN 55104, USA",44.96493599999999,-93.1398786,True,95
+105,67.0,95x minnehaha av w,"950 W Minnehaha Ave, St Paul, MN 55104, USA",44.9625074,-93.14049659999999,True,96
+106,67.0,96x earl st,"960 Earl St, St Paul, MN 55106, USA",44.9701906,-93.05555729999999,False,97
+107,67.0,96x minnehaha av w,"960 W Minnehaha Ave, St Paul, MN 55104, USA",44.9630021,-93.141041,True,98
+108,67.0,96x piercebutler rd,"960 W Pierce Butler Route, St Paul, MN 55104, USA",44.9658689,-93.1408428,True,99
+109,67.0,97x front av,"970 Front Ave, St Paul, MN 55103, USA",44.9699953,-93.14170670000001,True,100
+110,67.0,97x minnehaha av w,"970 W Minnehaha Ave, St Paul, MN 55104, USA",44.9625822,-93.14108139999999,True,101
+111,67.0,97x seminary av,"970 W Seminary Ave, St Paul, MN 55104, USA",44.9645432,-93.1413791,True,102
+112,67.0,98x burgess st,"980 Burgess St, St Paul, MN 55103, USA",44.9681832,-93.14169729999999,True,103
+113,67.0,98x hubbard av,"980 Hubbard Ave, St Paul, MN 55104, USA",44.9654929,-93.14169369999999,True,104
+114,67.0,98x minnehaha av w,"980 W Minnehaha Ave, St Paul, MN 55104, USA",44.9630035,-93.14159,True,105
+115,67.0,98x seminary av,"980 W Seminary Ave, St Paul, MN 55104, USA",44.9648,-93.14159,True,106
+116,67.0,98x stinson st,"980 Stinson St, St Paul, MN 55103, USA",44.9691148,-93.14213269999999,True,107
+117,67.0,98x topping st,"980 Topping St, St Paul, MN 55103, USA",44.96745749999999,-93.12615029999999,True,108
+118,67.0,99x burgess st,"990 Burgess St, St Paul, MN 55103, USA",44.9683667,-93.1261646,True,109
+119,67.0,99x hubbard av,"990 Hubbard Ave, St Paul, MN 55104, USA",44.96549419999999,-93.14212119999999,True,110
+120,67.0,99x minnehaha av w,"990 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627851,-93.1420474,True,111
+121,67.0,99x stinson st,"Stinson St W, St Paul, MN 55117, USA",44.9692963,-93.11509919999999,False,112
+122,67.0,99x topping st,"990 Topping St, St Paul, MN 55103, USA",44.96745749999999,-93.12615029999999,True,113

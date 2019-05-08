@@ -1,0 +1,214 @@
+index,Grid,Block,For_Address,Latitude,Longitude,Fail,index1
+0,86.0,108x university av w,"1080 University Ave W, St Paul, MN 55104, USA",44.95524150000001,-93.1454603,True,0
+1,86.0,110x edmund av,"1100 Edmund Ave W, St Paul, MN 55104, USA",44.9584615,-93.1467366,True,1
+2,86.0,110x minnehaha av w,"1100 W Minnehaha Ave, St Paul, MN 55104, USA",44.9630234,-93.1467321,True,2
+3,86.0,110x university av w,"1100 University Ave W, St Paul, MN 55104, USA",44.9556268,-93.1464141,True,3
+4,86.0,11xx charles av,"1105 Charles Ave, St Paul, MN 55104, USA",44.9577557,-93.1469147,True,4
+5,86.0,11xx edmund av,"1105 Edmund Ave W, St Paul, MN 55104, USA",44.9586859,-93.1469272,True,5
+6,86.0,111x blair av,"1110 Blair Ave, St Paul, MN 55104, USA",44.9609867,-93.14718789999999,True,6
+7,86.0,111x charles av,"1110 Charles Ave, St Paul, MN 55104, USA",44.9573548,-93.1471554,True,7
+8,86.0,111x edmund av,"1110 Edmund Ave W, St Paul, MN 55104, USA",44.9582726,-93.1471743,True,8
+9,86.0,111x lafond av,"1110 Lafond Ave, St Paul, MN 55104, USA",44.9600608,-93.1472436,True,9
+10,86.0,111x minnehaha av w,"1110 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627998,-93.1471419,True,10
+11,86.0,111x sherburne av,"1110 Sherburne Ave, St Paul, MN 55104, USA",44.9564519,-93.14715559999999,True,11
+12,86.0,111x thomas av,"1110 Thomas Ave W, St Paul, MN 55104, USA",44.95916709999999,-93.1474269,True,12
+13,86.0,111x university av w,"1110 University Ave W, St Paul, MN 55104, USA",44.955631,-93.1467247,True,13
+14,86.0,111x vanburen av,"1110 Van Buren Ave, St Paul, MN 55104, USA",44.9618678,-93.1472299,True,14
+15,86.0,112x blair av,"1120 Blair Ave, St Paul, MN 55104, USA",44.9609846,-93.1476288,True,15
+16,86.0,112x edmund av,"1120 Edmund Ave W, St Paul, MN 55104, USA",44.958249,-93.14754669999999,True,16
+17,86.0,112x lafond av,"1120 Lafond Ave, St Paul, MN 55104, USA",44.9600613,-93.1477053,True,17
+18,86.0,112x minnehaha av w,"1120 W Minnehaha Ave, St Paul, MN 55104, USA",44.9628159,-93.147556,True,18
+19,86.0,112x sherburne av,"1120 Sherburne Ave, St Paul, MN 55104, USA",44.9564525,-93.147577,True,19
+20,86.0,112x thomas av,"1120 Thomas Ave W, St Paul, MN 55104, USA",44.9591674,-93.14768579999999,True,20
+21,86.0,112x university av w,"1120 University Ave W, St Paul, MN 55104, USA",44.955469,-93.1471262,True,21
+22,86.0,112x vanburen av,"1120 Van Buren Ave, St Paul, MN 55104, USA",44.9619014,-93.1476914,True,22
+23,86.0,113x charles av,"1130 Charles Ave, St Paul, MN 55104, USA",44.9573409,-93.14793689999999,True,23
+24,86.0,113x edmund av,"1130 Edmund Ave W, St Paul, MN 55104, USA",44.958251,-93.1479583,True,24
+25,86.0,113x lafond av,"1130 Lafond Ave, St Paul, MN 55104, USA",44.9600526,-93.1480189,True,25
+26,86.0,113x minnehaha av w,"1130 W Minnehaha Ave, St Paul, MN 55104, USA",44.9628084,-93.1478305,True,26
+27,86.0,113x sherburne av,"1130 Sherburne Ave, St Paul, MN 55104, USA",44.9564663,-93.1479494,True,27
+28,86.0,113x thomas av,"1130 Thomas Ave W, St Paul, MN 55104, USA",44.9591678,-93.1480366,True,28
+29,86.0,113x university av w,"1130 University Ave W, St Paul, MN 55104, USA",44.95543869999999,-93.1480737,True,29
+30,86.0,113x vanburen av,"1130 Van Buren Ave, St Paul, MN 55104, USA",44.9618928,-93.148005,True,30
+31,86.0,114x blair av,"1140 Blair Ave, St Paul, MN 55104, USA",44.96098079999999,-93.14841489999999,True,31
+32,86.0,114x charles av,"1140 Charles Ave, St Paul, MN 55104, USA",44.9573532,-93.14834169999999,True,32
+33,86.0,114x edmund av,"1140 Edmund Ave W, St Paul, MN 55104, USA",44.9582482,-93.1483485,True,33
+34,86.0,114x lafond av,"1140 Lafond Ave, St Paul, MN 55104, USA",44.960044,-93.1483325,True,34
+35,86.0,114x sherburne av,"1140 Sherburne Ave, St Paul, MN 55104, USA",44.9564536,-93.14832179999999,True,35
+36,86.0,114x thomas av,"1140 Thomas Ave W, St Paul, MN 55104, USA",44.9591684,-93.148461,True,36
+37,86.0,114x university av w,"1140 University Ave W, St Paul, MN 55104, USA",44.9554363,-93.1487851,True,37
+38,86.0,114x vanburen av,"1140 Van Buren Ave, St Paul, MN 55104, USA",44.9618568,-93.1483966,True,38
+39,86.0,115x blair av,"1150 Blair Ave, St Paul, MN 55104, USA",44.9609643,-93.14864999999999,True,39
+40,86.0,115x edmund av,"1150 Edmund Ave W, St Paul, MN 55104, USA",44.9582306,-93.1487032,True,40
+41,86.0,115x lafond av,"1150 Lafond Ave, St Paul, MN 55104, USA",44.9600587,-93.1487463,True,41
+42,86.0,115x minnehaha av w,"1150 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627859,-93.14871269999999,True,42
+43,86.0,115x sherburne av,"1150 Sherburne Ave, St Paul, MN 55104, USA",44.9564458,-93.1486942,True,43
+44,86.0,115x thomas av,"1150 Thomas Ave W, St Paul, MN 55104, USA",44.9591687,-93.1487418,True,44
+45,86.0,115x university av w,"1150 University Ave W, St Paul, MN 55104, USA",44.95562899999999,-93.1491013,True,45
+46,86.0,115x vanburen av,"1150 Van Buren Ave, St Paul, MN 55104, USA",44.9618712,-93.1487892,True,46
+47,86.0,116x blair av,"1160 Blair Ave, St Paul, MN 55104, USA",44.9611787,-93.1492153,True,47
+48,86.0,116x charles av,"1160 Charles Ave, St Paul, MN 55104, USA",44.9573374,-93.14939129999999,True,48
+49,86.0,116x edmund av,"1160 Edmund Ave W, St Paul, MN 55104, USA",44.9584589,-93.1492207,True,49
+50,86.0,116x sherburne av,"1160 Sherburne Ave, St Paul, MN 55104, USA",44.9564452,-93.1493802,True,50
+51,86.0,116x thomas av,"1160 Thomas Ave W, St Paul, MN 55104, USA",44.9593672,-93.14921199999999,True,51
+52,86.0,116x university av w,"1160 University Ave W, St Paul, MN 55104, USA",44.9556354,-93.1493677,True,52
+53,86.0,116x vanburen av,"1160 Van Buren Ave, St Paul, MN 55104, USA",44.96189140000001,-93.1493813,True,53
+54,86.0,117x blair av,"1170 Blair Ave, St Paul, MN 55104, USA",44.9609538,-93.14969099999999,True,54
+55,86.0,117x charles av,"1170 Charles Ave, St Paul, MN 55104, USA",44.9573287,-93.14970489999999,True,55
+56,86.0,117x edmund av,"1170 Edmund Ave W, St Paul, MN 55104, USA",44.9582504,-93.1497395,True,56
+57,86.0,117x lafond av,"1170 Lafond Ave, St Paul, MN 55104, USA",44.9600613,-93.1496911,True,57
+58,86.0,117x minnehaha av w,"1170 W Minnehaha Ave, St Paul, MN 55104, USA",44.962794,-93.1496772,True,58
+59,86.0,117x sherburne av,"1170 Sherburne Ave, St Paul, MN 55104, USA",44.9564906,-93.1497134,True,59
+60,86.0,117x thomas av,"1170 Thomas Ave W, St Paul, MN 55104, USA",44.9591708,-93.14975109999999,True,60
+61,86.0,117x vanburen av,"1170 Van Buren Ave, St Paul, MN 55104, USA",44.96185000000001,-93.14977119999999,True,61
+62,86.0,118x blair av,"1180 Blair Ave, St Paul, MN 55104, USA",44.9609746,-93.1500745,True,62
+63,86.0,118x charles av,"1180 Charles Ave, St Paul, MN 55104, USA",44.9573532,-93.1501401,True,63
+64,86.0,118x edmund av,"1180 Edmund Ave W, St Paul, MN 55104, USA",44.9582503,-93.15010319999999,True,64
+65,86.0,118x lafond av,"1180 Lafond Ave, St Paul, MN 55104, USA",44.96003899999999,-93.15007410000001,True,65
+66,86.0,118x minnehaha av w,"1180 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627822,-93.1501085,True,66
+67,86.0,118x sherburne av,"1180 Sherburne Ave, St Paul, MN 55104, USA",44.9564562,-93.15006629999999,True,67
+68,86.0,118x thomas av,"1180 Thomas Ave W, St Paul, MN 55104, USA",44.9591703,-93.1500813,True,68
+69,86.0,118x university av w,"1180 University Ave W, St Paul, MN 55104, USA",44.9556499,-93.14997819999999,True,69
+70,86.0,119x blair av,"1190 Blair Ave, St Paul, MN 55104, USA",44.960951,-93.15045750000002,True,70
+71,86.0,119x charles av,"1190 Charles Ave, St Paul, MN 55104, USA",44.9573445,-93.1504538,True,71
+72,86.0,119x edmund av,"1190 Edmund Ave W, St Paul, MN 55104, USA",44.9582557,-93.1504361,True,72
+73,86.0,119x lafond av,"1190 Lafond Ave, St Paul, MN 55104, USA",44.9600584,-93.1504576,True,73
+74,86.0,119x sherburne av,"1190 Sherburne Ave, St Paul, MN 55104, USA",44.9564878,-93.15047779999999,True,74
+75,86.0,119x thomas av,"1190 Thomas Ave W, St Paul, MN 55104, USA",44.9591296,-93.15045359999999,True,75
+76,86.0,119x university av w,"1190 University Ave W, St Paul, MN 55104, USA",44.9549953,-93.15043860000002,True,76
+77,86.0,119x vanburen av,"1190 Van Buren Ave, St Paul, MN 55104, USA",44.9618622,-93.1504399,True,77
+78,86.0,120x blair av,"1200 Blair Ave, St Paul, MN 55104, USA",44.9611396,-93.1508412,True,78
+79,86.0,120x edmund av,"1200 Edmund Ave W, St Paul, MN 55104, USA",44.9582501,-93.1508301,True,79
+80,86.0,120x lafond av,"1200 Lafond Ave, St Paul, MN 55104, USA",44.9600642,-93.1509105,True,80
+81,86.0,120x minnehaha av w,"1200 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627595,-93.15093189999999,True,81
+82,86.0,120x sherburne av,"1200 Sherburne Ave, St Paul, MN 55104, USA",44.9564605,-93.15084979999999,True,82
+83,86.0,120x thomas av,"1200 Thomas Ave W, St Paul, MN 55104, USA",44.9591692,-93.1508497,True,83
+84,86.0,120x university av w,"1200 University Ave W, St Paul, MN 55104, USA",44.9553739,-93.1507707,True,84
+85,86.0,120x vanburen av,"1200 Van Buren Ave, St Paul, MN 55104, USA",44.9618455,-93.1508319,True,85
+86,86.0,121x blair av,"1210 Blair Ave, St Paul, MN 55104, USA",44.9609657,-93.15124569999999,True,86
+87,86.0,121x charles av,"1210 Charles Ave, St Paul, MN 55104, USA",44.9573593,-93.1512418,True,87
+88,86.0,121x lafond av,"1210 Lafond Ave, St Paul, MN 55104, USA",44.9600555,-93.1512241,True,88
+89,86.0,121x sherburne av,"1210 Sherburne Ave, St Paul, MN 55104, USA",44.95644859999999,-93.1512422,True,89
+90,86.0,121x thomas av,"1210 Thomas Ave W, St Paul, MN 55104, USA",44.9591443,-93.1512417,True,90
+91,86.0,121x vanburen av,"1210 Van Buren Ave, St Paul, MN 55104, USA",44.961877,-93.15122799999999,True,91
+92,86.0,122x blair av,"1220 Blair Ave, St Paul, MN 55104, USA",44.9609463,-93.1519514,True,92
+93,86.0,122x charles av,"1220 Charles Ave, St Paul, MN 55104, USA",44.9573399,-93.15194749999999,True,93
+94,86.0,122x edmund av,"1220 Edmund Ave W, St Paul, MN 55104, USA",44.9584578,-93.1517697,True,94
+95,86.0,122x lafond av,"1220 Lafond Ave, St Paul, MN 55104, USA",44.96026630000001,-93.1517663,True,95
+96,86.0,122x minnehaha av w,"1220 W Minnehaha Ave, St Paul, MN 55104, USA",44.96284259999999,-93.151885,True,96
+97,86.0,122x sherburne av,"1220 Sherburne Ave, St Paul, MN 55104, USA",44.95644679999999,-93.1519675,True,97
+98,86.0,122x thomas av,"1220 Thomas Ave W, St Paul, MN 55104, USA",44.9593633,-93.1517699,True,98
+99,86.0,122x university av w,"1220 University Ave W, St Paul, MN 55104, USA",44.9556186,-93.151719,True,99
+100,86.0,122x vanburen av,"1220 Van Buren Ave, St Paul, MN 55104, USA",44.9620713,-93.15176369999999,True,100
+101,86.0,123x blair av,"1230 Blair Ave, St Paul, MN 55104, USA",44.960974,-93.1522691,True,101
+102,86.0,123x charles av,"1230 Charles Ave, St Paul, MN 55104, USA",44.9573323,-93.1522219,True,102
+103,86.0,123x edmund av,"1230 Edmund Ave W, St Paul, MN 55104, USA",44.9582424,-93.1522435,True,103
+104,86.0,123x lafond av,"1230 Lafond Ave, St Paul, MN 55104, USA",44.9600638,-93.1522475,True,104
+105,86.0,123x minnehaha av w,"1230 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627419,-93.1523092,True,105
+106,86.0,123x sherburne av,"1230 Sherburne Ave, St Paul, MN 55104, USA",44.956458,-93.15222229999999,True,106
+107,86.0,123x thomas av,"1230 Thomas Ave W, St Paul, MN 55104, USA",44.9591349,-93.1522435,True,107
+108,86.0,123x university av w,"1230 University Ave W, St Paul, MN 55104, USA",44.95526359999999,-93.1522619,True,108
+109,86.0,123x vanburen av,"1230 Van Buren Ave, St Paul, MN 55104, USA",44.96185000000001,-93.1522083,True,109
+110,86.0,124x blair av,"1240 Blair Ave, St Paul, MN 55104, USA",44.9609621,-93.1527004,True,110
+111,86.0,124x charles av,"1240 Charles Ave, St Paul, MN 55104, USA",44.95732839999999,-93.152655,True,111
+112,86.0,124x edmund av,"1240 Edmund Ave W, St Paul, MN 55104, USA",44.9582469,-93.1526241,True,112
+113,86.0,124x lafond av,"1240 Lafond Ave, St Paul, MN 55104, USA",44.9600407,-93.15263929999999,True,113
+114,86.0,124x minnehaha av w,"1240 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627396,-93.1526253,True,114
+115,86.0,124x sherburne av,"1240 Sherburne Ave, St Paul, MN 55104, USA",44.9564532,-93.15263399999999,True,115
+116,86.0,124x thomas av,"1240 Thomas Ave W, St Paul, MN 55104, USA",44.959122,-93.15271399999999,True,116
+117,86.0,124x university av w,"1240 University Ave W, St Paul, MN 55104, USA",44.95526280000001,-93.1525808,True,117
+118,86.0,124x vanburen av,"1240 Van Buren Ave, St Paul, MN 55104, USA",44.9618535,-93.15262369999999,True,118
+119,86.0,125x blair av,"1250 Blair Ave, St Paul, MN 55104, USA",44.9609534,-93.1530141,True,119
+120,86.0,125x charles av,"1250 Charles Ave, St Paul, MN 55104, USA",44.957347,-93.15301,True,120
+121,86.0,125x edmund av,"1250 Edmund Ave W, St Paul, MN 55104, USA",44.9582571,-93.15303159999999,True,121
+122,86.0,125x lafond av,"1250 Lafond Ave, St Paul, MN 55104, USA",44.9600422,-93.15303159999999,True,122
+123,86.0,125x sherburne av,"1250 Sherburne Ave, St Paul, MN 55104, USA",44.9564729,-93.1530064,True,123
+124,86.0,125x vanburen av,"1250 Van Buren Ave, St Paul, MN 55104, USA",44.96182839999999,-93.1529925,True,124
+125,86.0,126x charles av,"1260 Charles Ave, St Paul, MN 55104, USA",44.9573245,-93.1534001,True,125
+126,86.0,126x minnehaha av w,"1260 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627267,-93.1534454,True,126
+127,86.0,126x sherburne av,"1260 Sherburne Ave, St Paul, MN 55104, USA",44.9565106,-93.1536508,True,127
+128,86.0,126x thomas av,"1260 Thomas Ave W, St Paul, MN 55104, USA",44.9591143,-93.1533914,True,128
+129,86.0,126x university av w,"1260 University Ave W, St Paul, MN 55104, USA",44.95549949999999,-93.1533086,True,129
+130,86.0,126x vanburen av,"1260 Van Buren Ave, St Paul, MN 55104, USA",44.9618477,-93.1533689,True,130
+131,86.0,127x blair av,"1270 Blair Ave, St Paul, MN 55104, USA",44.9609329,-93.153759,True,131
+132,86.0,127x charles av,"1270 Charles Ave, St Paul, MN 55104, USA",44.9573265,-93.1537549,True,132
+133,86.0,127x edmund av,"1270 Edmund Ave W, St Paul, MN 55104, USA",44.9582366,-93.15377649999999,True,133
+134,86.0,127x lafond av,"1270 Lafond Ave, St Paul, MN 55104, USA",44.960058,-93.15378059999999,True,134
+135,86.0,127x minnehaha av w,"1270 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627308,-93.1538412,True,135
+136,86.0,127x sherburne av,"1270 Sherburne Ave, St Paul, MN 55104, USA",44.9564513,-93.15379039999999,True,136
+137,86.0,127x thomas av,"1270 Thomas Ave W, St Paul, MN 55104, USA",44.9591104,-93.1537942,True,137
+138,86.0,127x university av w,"1270 University Ave W, St Paul, MN 55104, USA",44.9554981,-93.15368409999999,True,138
+139,86.0,127x vanburen av,"1270 Van Buren Ave, St Paul, MN 55104, USA",44.96184419999999,-93.1537415,True,139
+140,86.0,128x blair av,"1280 Blair Ave, St Paul, MN 55104, USA",44.9611442,-93.1543178,True,140
+141,86.0,128x charles av,"1280 Charles Ave, St Paul, MN 55104, USA",44.95753850000001,-93.1543183,True,141
+142,86.0,128x edmund av,"1280 Edmund Ave W, St Paul, MN 55104, USA",44.9584409,-93.1542351,True,142
+143,86.0,128x lafond av,"1280 Lafond Ave, St Paul, MN 55104, USA",44.9600209,-93.1544648,True,143
+144,86.0,128x minnehaha av w,"1280 W Minnehaha Ave, St Paul, MN 55104, USA",44.9629672,-93.1543047,True,144
+145,86.0,128x sherburne av,"1280 Sherburne Ave, St Paul, MN 55104, USA",44.9566342,-93.1543166,True,145
+146,86.0,128x thomas av,"1280 Thomas Ave W, St Paul, MN 55104, USA",44.9593471,-93.1543201,True,146
+147,86.0,128x vanburen av,"1280 Van Buren Ave, St Paul, MN 55104, USA",44.9620517,-93.1543154,True,147
+148,86.0,129x blair av,"1290 Blair Ave, St Paul, MN 55104, USA",44.9609412,-93.1547825,True,148
+149,86.0,129x charles av,"1290 Charles Ave, St Paul, MN 55104, USA",44.9573337,-93.1548174,True,149
+150,86.0,129x edmund av,"1290 Edmund Ave W, St Paul, MN 55104, USA",44.958438,-93.154702,True,150
+151,86.0,129x lafond av,"1290 Lafond Ave, St Paul, MN 55104, USA",44.96002989999999,-93.1548,True,151
+152,86.0,129x minnehaha av w,"1290 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627626,-93.1547866,True,152
+153,86.0,129x sherburne av,"1290 Sherburne Ave, St Paul, MN 55104, USA",44.9564232,-93.1548098,True,153
+154,86.0,129x thomas av,"1290 Thomas Ave W, St Paul, MN 55104, USA",44.95913849999999,-93.15476079999999,True,154
+155,86.0,129x vanburen av,"1290 Van Buren Ave, St Paul, MN 55104, USA",44.9618513,-93.1548042,True,155
+156,86.0,130x blair av,"1300 Blair Ave, St Paul, MN 55104, USA",44.9608953,-93.15517779999999,True,156
+157,86.0,130x charles av,"1300 Charles Ave, St Paul, MN 55104, USA",44.9573237,-93.1551971,True,157
+158,86.0,130x edmund av,"1300 Edmund Ave W, St Paul, MN 55104, USA",44.958435,-93.155175,True,158
+159,86.0,130x sherburne av,"1300 Sherburne Ave, St Paul, MN 55104, USA",44.95641089999999,-93.1551822,True,159
+160,86.0,130x university av w,"1300 University Ave W, St Paul, MN 55104, USA",44.9527377,-93.1556919,False,160
+161,86.0,130x vanburen av,"1300 Van Buren Ave, St Paul, MN 55104, USA",44.96180500000001,-93.1551746,True,161
+162,86.0,13xx university av w,"1305 University Ave W, St Paul, MN 55104, USA",44.9558793,-93.1544557,True,162
+163,86.0,131x blair av,"1310 Blair Ave, St Paul, MN 55104, USA",44.9609195,-93.1555667,True,163
+164,86.0,131x charles av,"1310 Charles Ave, St Paul, MN 55104, USA",44.95732049999999,-93.1556148,True,164
+165,86.0,131x edmund av,"1310 Edmund Ave W, St Paul, MN 55104, USA",44.9584321,-93.1556481,True,165
+166,86.0,131x sherburne av,"1310 Sherburne Ave, St Paul, MN 55104, USA",44.9564026,-93.1555547,True,166
+167,86.0,131x thomas av,"1310 Thomas Ave W, St Paul, MN 55104, USA",44.9591438,-93.1555577,True,167
+168,86.0,131x university av w,"1310 University Ave W, St Paul, MN 55104, USA",44.9547062,-93.1559827,True,168
+169,86.0,131x vanburen av,"1310 Van Buren Ave, St Paul, MN 55104, USA",44.9618308,-93.1555492,True,169
+170,86.0,132x charles av,"1320 Charles Ave, St Paul, MN 55104, USA",44.9573177,-93.15596359999999,True,170
+171,86.0,132x lafond av,"1320 Lafond Ave, St Paul, MN 55104, USA",44.96000610000001,-93.1559194,True,171
+172,86.0,132x minnehaha av w,"1320 W Minnehaha Ave, St Paul, MN 55104, USA",44.9627644,-93.15604549999999,True,172
+173,86.0,132x sherburne av,"1320 Sherburne Ave, St Paul, MN 55104, USA",44.9564051,-93.1559662,True,173
+174,86.0,132x thomas av,"1320 Thomas Ave W, St Paul, MN 55104, USA",44.95911539999999,-93.15595859999999,True,174
+175,86.0,132x university av w,"1320 University Ave W, St Paul, MN 55104, USA",44.9547057,-93.1562668,True,175
+176,86.0,132x vanburen av,"1320 Van Buren Ave, St Paul, MN 55104, USA",44.9618018,-93.1559674,True,176
+177,86.0,133x blair av,"1330 Blair Ave, St Paul, MN 55104, USA",44.9608576,-93.1564688,True,177
+178,86.0,133x edmund av,"1330 Edmund Ave W, St Paul, MN 55104, USA",44.9584263,-93.15659420000001,True,178
+179,86.0,133x minnehaha av w,"1330 W Minnehaha Ave, St Paul, MN 55104, USA",44.96275929999999,-93.1564306,True,179
+180,86.0,133x sherburne av,"1330 Sherburne Ave, St Paul, MN 55104, USA",44.9564023,-93.15633820000001,True,180
+181,86.0,133x thomas av,"1330 Thomas Ave W, St Paul, MN 55104, USA",44.9591132,-93.15639929999999,True,181
+182,86.0,133x university av w,"1330 University Ave W, St Paul, MN 55104, USA",44.9547052,-93.15655079999999,True,182
+183,86.0,133x vanburen av,"1330 Van Buren Ave, St Paul, MN 55104, USA",44.9618092,-93.1563335,True,183
+184,86.0,15x biglow la,"150 Biglow Ln, St Paul, MN 55117, USA",44.9870536,-93.0955173,False,184
+185,86.0,155x bush av,"1550 Bush Ave, St Paul, MN 55106, USA",44.9647621,-93.03500799999999,False,185
+186,86.0,159x hewitt av,"1590 Hewitt Ave, St Paul, MN 55104, USA",44.9664695,-93.1669154,False,186
+187,86.0,186x university av w,"1860 University Ave W, St Paul, MN 55104, USA",44.9560322,-93.17873080000001,False,187
+188,86.0,19x arlington av e,"190 Arlington Ave E, St Paul, MN 55117, USA",44.9845833,-93.0914892,False,188
+189,86.0,30x university av w,"300 University Ave W, St Paul, MN 55103, USA",44.95552379999999,-93.112505,False,189
+190,86.0,48x hamline av n,"480 Hamline Ave N, St Paul, MN 55104, USA",44.955604,-93.1568367,True,190
+191,86.0,49x dunlap st n,"490 N Dunlap St, St Paul, MN 55104, USA",44.9553948,-93.14916529999999,True,191
+192,86.0,49x syndicate st n,"490 N Syndicate St, St Paul, MN 55104, USA",44.9560237,-93.15409819999999,True,192
+193,86.0,52x lexington pa n,"1096 Grand Ave, St Paul, MN 55105, USA",44.9398043,-93.1463622,False,193
+194,86.0,53x hamline av n,"530 Hamline Ave N, St Paul, MN 55104, USA",44.9570775,-93.1568258,True,194
+195,86.0,55x syndicate st n,"550 N Syndicate St, St Paul, MN 55104, USA",44.9578046,-93.15405729999999,True,195
+196,86.0,56x hamline av n,"560 Hamline Ave N, St Paul, MN 55104, USA",44.9580926,-93.15682869999999,True,196
+197,86.0,59x griggs st n,"590 Griggs St N, St Paul, MN 55104, USA",44.967251,-93.15170379999999,False,197
+198,86.0,59x hamline av n,"590 Hamline Ave N, St Paul, MN 55104, USA",44.9589079,-93.15665299999999,True,198
+199,86.0,59x syndicate st n,"590 N Syndicate St, St Paul, MN 55104, USA",44.959015,-93.1540751,True,199
+200,86.0,60x dunlap st n,"600 N Dunlap St, St Paul, MN 55104, USA",44.9593958,-93.14916939999999,True,200
+201,86.0,60x griggs st n,"600 N Griggs St, St Paul, MN 55104, USA",44.9593334,-93.1517274,True,201
+202,86.0,60x hamline av n,"600 Hamline Ave N, St Paul, MN 55104, USA",44.9591599,-93.1566553,True,202
+203,86.0,61x dunlap st n,"610 N Dunlap St, St Paul, MN 55104, USA",44.9596743,-93.14892669999999,True,203
+204,86.0,61x griggs st n,"610 N Griggs St, St Paul, MN 55104, USA",44.95966869999999,-93.1515302,True,204
+205,86.0,61x lexington pa n,"610 Lexington Pkwy N, St Paul, MN 55104, USA",44.9596651,-93.1461884,True,205
+206,86.0,65x hamline av n,"650 Hamline Ave N, St Paul, MN 55104, USA",44.9608025,-93.15682269999999,True,206
+207,86.0,66x lexington pa n,"660 Lexington Pkwy N, St Paul, MN 55104, USA",44.9610311,-93.14621939999999,True,207
+208,86.0,67x lexington pa n,"670 Robert St N, St Paul, MN 55101, USA",44.955295,-93.098006,False,208
+209,86.0,69x bedford st,"690 Bedford St, St Paul, MN 55130, USA",44.9620635,-93.07741519999999,False,209
+210,86.0,70x griggs st n,"700 N Griggs St, St Paul, MN 55104, USA",44.962316,-93.15145009999999,True,210
+211,86.0,70x hamline av n,"700 Hamline Ave N, St Paul, MN 55104, USA",44.9623204,-93.1565964,True,211
+212,86.0,72x hamline av n,"720 Hamline Ave N, St Paul, MN 55104, USA",44.9628021,-93.1566593,True,212

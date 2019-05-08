@@ -1,0 +1,150 @@
+index,Grid,Block,For_Address,Latitude,Longitude,Fail,index1
+0,109.0,112x albemarle st,"1120 Albemarle St, St Paul, MN 55117, USA",44.9749467,-93.10699679999999,False,0
+1,109.0,174x suburban av,"1740 Suburban Ave, St Paul, MN 55106, USA",44.950448,-93.0266933,False,1
+2,109.0,175x york av,"1750 York Ave, St Paul, MN 55106, USA",44.9685038,-93.0265215,False,2
+3,109.0,2xx western av n,"205 Western Ave N, St Paul, MN 55102, USA",44.94763880000001,-93.1165474,True,3
+4,109.0,24x western av n,"240 Western Ave N, St Paul, MN 55103, USA",44.9487493,-93.11615809999999,True,4
+5,109.0,26x mackubin st,"260 N Mackubin St, St Paul, MN 55102, USA",44.9490326,-93.12094859999999,True,5
+6,109.0,27x kent st,"270 N Kent St, St Paul, MN 55102, USA",44.949392,-93.12296099999999,True,6
+7,109.0,27x mackubin st,"270 N Mackubin St, St Paul, MN 55102, USA",44.94930009999999,-93.12094839999999,True,7
+8,109.0,27x western av n,"270 Western Ave N, St Paul, MN 55103, USA",44.9494689,-93.1161654,True,8
+9,109.0,28x arundel st,"280 Arundel St, St Paul, MN 55103, USA",44.94970379999999,-93.11747160000002,True,9
+10,109.0,28x mackubin st,"280 N Mackubin St, St Paul, MN 55103, USA",44.9497714,-93.1209291,True,10
+11,109.0,28x western av n,"280 Western Ave N, St Paul, MN 55103, USA",44.949698,-93.11616409999999,True,11
+12,109.0,29x arundel st,"290 Arundel St, St Paul, MN 55103, USA",44.9499175,-93.1176771,True,12
+13,109.0,29x dale st n,"290 Dale St N, St Paul, MN 55103, USA",44.9499518,-93.1263085,True,13
+14,109.0,29x western av n,"290 Western Ave N, St Paul, MN 55103, USA",44.9499909,-93.116162,True,14
+15,109.0,30x arundel st,"300 Arundel St, St Paul, MN 55103, USA",44.9501396,-93.1184543,True,15
+16,109.0,35x sibley st,"350 N Sibley St, St Paul, MN 55101, USA",44.9486923,-93.0876,False,16
+17,109.0,36x western av n,"360 Western Ave N, St Paul, MN 55103, USA",44.9520326,-93.1155465,True,17
+18,109.0,37x arundel st,"370 Arundel St, St Paul, MN 55103, USA",44.9525301,-93.1183894,True,18
+19,109.0,37x dale st n,"370 Dale St N, St Paul, MN 55103, USA",44.9524813,-93.1258647,True,19
+20,109.0,37x kent st,"370 N Kent St, St Paul, MN 55103, USA",44.9525592,-93.12377099999999,True,20
+21,109.0,37x mackubin st,"370 N Mackubin St, St Paul, MN 55103, USA",44.9510182,-93.1212403,True,21
+22,109.0,38x arundel st,"380 Arundel St, St Paul, MN 55103, USA",44.9527188,-93.11838709999999,True,22
+23,109.0,38x aurora av,"380 Aurora Ave, St Paul, MN 55103, USA",44.954907,-93.1161497,True,23
+24,109.0,38x central av w,"380 Central Ave W, St Paul, MN 55103, USA",44.9529051,-93.1167418,True,24
+25,109.0,38x stanthony av,"380 St Anthony Ave, St Paul, MN 55103, USA",44.9518372,-93.11638239999999,True,25
+26,109.0,38x university av w,"380 University Ave W, St Paul, MN 55103, USA",44.9556648,-93.11614,True,26
+27,109.0,38x western av n,"380 Western Ave N, St Paul, MN 55103, USA",44.9525491,-93.1155503,True,27
+28,109.0,39x concordia av,"390 Concordia Ave, St Paul, MN 55103, USA",44.950582,-93.117402,True,28
+29,109.0,39x dale st n,"390 Dale St N, St Paul, MN 55103, USA",44.9528621,-93.1262319,True,29
+30,109.0,39x marshall av,"390 Marshall Ave, St Paul, MN 55102, USA",44.9483524,-93.1164361,True,30
+31,109.0,39x stanthony av,"390 St Anthony Ave, St Paul, MN 55103, USA",44.9521731,-93.11868849999999,True,31
+32,109.0,39x university av w,"390 University Ave W, St Paul, MN 55103, USA",44.9555025,-93.1165351,True,32
+33,109.0,40x aurora av,"400 Aurora Ave, St Paul, MN 55103, USA",44.9546976,-93.11740290000002,True,33
+34,109.0,40x central av w,"400 Central Ave W, St Paul, MN 55103, USA",44.95293789999999,-93.1169637,True,34
+35,109.0,40x stanthony av,"400 St Anthony Ave, St Paul, MN 55103, USA",44.9521709,-93.1190276,True,35
+36,109.0,40x university av w,"400 University Ave W, St Paul, MN 55103, USA",44.9556343,-93.1169467,True,36
+37,109.0,41x aurora av,"410 Aurora Ave, St Paul, MN 55103, USA",44.9544742,-93.117778,True,37
+38,109.0,41x marshall av,"410 Marshall Ave, St Paul, MN 55102, USA",44.9482666,-93.1174564,True,38
+39,109.0,41x stanthony av,"410 St Anthony Ave, St Paul, MN 55103, USA",44.9521688,-93.1193667,True,39
+40,109.0,42x aurora av,"420 Aurora Ave, St Paul, MN 55103, USA",44.9544346,-93.11836269999999,True,40
+41,109.0,42x central av w,"420 Central Ave W, St Paul, MN 55103, USA",44.9528865,-93.11767599999999,True,41
+42,109.0,42x concordia av,"420 Concordia Ave, St Paul, MN 55103, USA",44.9508145,-93.11892830000001,True,42
+43,109.0,42x dale st n,"420 Dale St N, St Paul, MN 55103, USA",44.9538582,-93.12619959999999,True,43
+44,109.0,42x marshall av,"420 Marshall Ave, St Paul, MN 55102, USA",44.948204,-93.1177163,True,44
+45,109.0,42x university av w,"420 University Ave W, St Paul, MN 55103, USA",44.9556593,-93.11748109999999,True,45
+46,109.0,42x western av n,"420 Western Ave N, St Paul, MN 55103, USA",44.9539816,-93.1161446,True,46
+47,109.0,43x central av w,"430 Central Ave W, St Paul, MN 55103, USA",44.9529126,-93.1180149,True,47
+48,109.0,43x dale st n,"430 Dale St N, St Paul, MN 55103, USA",44.95421289999999,-93.1258263,True,48
+49,109.0,43x fuller av,"430 W Fuller Ave, St Paul, MN 55103, USA",44.9539947,-93.1165257,True,49
+50,109.0,43x marshall av,"430 Marshall Ave, St Paul, MN 55102, USA",44.94826690000001,-93.1182393,True,50
+51,109.0,43x stanthony av,"430 St Anthony Ave, St Paul, MN 55103, USA",44.9524107,-93.1167712,True,51
+52,109.0,43x university av w,"430 University Ave W, St Paul, MN 55103, USA",44.9554702,-93.11811589999999,True,52
+53,109.0,43x western av n,"430 Western Ave N, St Paul, MN 55103, USA",44.9543025,-93.11585649999999,True,53
+54,109.0,44x dale st n,"440 Dale St N, St Paul, MN 55103, USA",44.9544078,-93.126199,True,54
+55,109.0,44x iglehart av,"440 Iglehart Ave, St Paul, MN 55103, USA",44.9492006,-93.1188859,True,55
+56,109.0,44x marshall av,"440 Marshall Ave, St Paul, MN 55102, USA",44.9485581,-93.11870050000002,True,56
+57,109.0,44x stanthony av,"440 St Anthony Ave, St Paul, MN 55103, USA",44.9521622,-93.1203841,True,57
+58,109.0,44x university av w,"440 University Ave W, St Paul, MN 55103, USA",44.95551469999999,-93.11883279999999,True,58
+59,109.0,44x western av n,"440 Western Ave N, St Paul, MN 55103, USA",44.9545209,-93.1158592,True,59
+60,109.0,45x arundel st,"450 Arundel St, St Paul, MN 55103, USA",44.9549216,-93.1186482,True,60
+61,109.0,45x aurora av,"450 Aurora Ave, St Paul, MN 55103, USA",44.9547171,-93.1188916,True,61
+62,109.0,45x central av w,"450 Central Ave W, St Paul, MN 55103, USA",44.9529259,-93.11909299999999,True,62
+63,109.0,45x dale st n,"450 Dale St N, St Paul, MN 55103, USA",44.9546781,-93.12619869999999,True,63
+64,109.0,45x iglehart av,"450 Iglehart Ave, St Paul, MN 55103, USA",44.9492007,-93.1191965,True,64
+65,109.0,45x mackubin st,"450 N Mackubin St, St Paul, MN 55103, USA",44.9549102,-93.12122079999999,True,65
+66,109.0,45x marshall av,"450 Marshall Ave, St Paul, MN 55102, USA",44.9482501,-93.1191494,True,66
+67,109.0,46x arundel st,"460 Arundel St, St Paul, MN 55103, USA",44.9550391,-93.11854369999999,True,67
+68,109.0,46x aurora av,"460 Aurora Ave, St Paul, MN 55103, USA",44.954716,-93.1191365,True,68
+69,109.0,46x carroll av,"460 Carroll Ave, St Paul, MN 55103, USA",44.95017439999999,-93.1196164,True,69
+70,109.0,46x central av w,"460 Central Ave W, St Paul, MN 55103, USA",44.95292300000001,-93.1194964,True,70
+71,109.0,46x dale st n,"460 Dale St N, St Paul, MN 55103, USA",44.9549688,-93.1261973,True,71
+72,109.0,46x iglehart av,"460 Iglehart Ave, St Paul, MN 55103, USA",44.949185,-93.119598,True,72
+73,109.0,46x mackubin st,"460 N Mackubin St, St Paul, MN 55103, USA",44.9550277,-93.1212231,True,73
+74,109.0,46x marshall av,"460 Marshall Ave, St Paul, MN 55102, USA",44.9482985,-93.1195968,True,74
+75,109.0,46x university av w,"460 University Ave W, St Paul, MN 55103, USA",44.9554868,-93.1196439,True,75
+76,109.0,46x western av n,"460 Western Ave N, St Paul, MN 55103, USA",44.9550199,-93.1154672,True,76
+77,109.0,47x arundel st,"470 Arundel St, St Paul, MN 55103, USA",44.9553328,-93.118544,True,77
+78,109.0,47x aurora av,"470 Aurora Ave, St Paul, MN 55103, USA",44.9543592,-93.1191266,True,78
+79,109.0,47x central av w,"470 Central Ave W, St Paul, MN 55103, USA",44.9528573,-93.1200212,True,79
+80,109.0,47x concordia av,"470 Concordia Ave, St Paul, MN 55103, USA",44.950881,-93.119373,True,80
+81,109.0,47x dale st n,"470 Dale St N, St Paul, MN 55103, USA",44.9552797,-93.1261945,True,81
+82,109.0,47x iglehart av,"470 Iglehart Ave, St Paul, MN 55103, USA",44.9494663,-93.1199596,True,82
+83,109.0,47x university av w,"470 University Ave W, St Paul, MN 55103, USA",44.9554859,-93.11991479999999,True,83
+84,109.0,48x aurora av,"480 Aurora Ave, St Paul, MN 55103, USA",44.9545709,-93.1200473,True,84
+85,109.0,48x carroll av,"480 Carroll Ave, St Paul, MN 55103, USA",44.9501502,-93.120384,True,85
+86,109.0,48x dale st n,"480 Dale St N, St Paul, MN 55103, USA",44.95570499999999,-93.1261964,True,86
+87,109.0,48x iglehart av,"480 Iglehart Ave, St Paul, MN 55103, USA",44.9493361,-93.1203773,True,87
+88,109.0,48x marshall av,"480 Marshall Ave, St Paul, MN 55102, USA",44.9482528,-93.1203605,True,88
+89,109.0,48x stanthony av,"480 St Anthony Ave, St Paul, MN 55103, USA",44.9521556,-93.1217089,True,89
+90,109.0,49x aurora av,"490 Aurora Ave, St Paul, MN 55103, USA",44.9546342,-93.12080069999999,True,90
+91,109.0,49x carroll av,"490 Carroll Ave, St Paul, MN 55103, USA",44.9501479,-93.1208176,True,91
+92,109.0,49x central av w,"490 Central Ave W, St Paul, MN 55103, USA",44.952879,-93.12063500000001,True,92
+93,109.0,49x concordia av,"490 Concordia Ave, St Paul, MN 55103, USA",44.9510118,-93.1203419,True,93
+94,109.0,49x marshall av,"490 Marshall Ave, St Paul, MN 55102, USA",44.9482538,-93.1208152,True,94
+95,109.0,49x stanthony av,"490 St Anthony Ave, St Paul, MN 55103, USA",44.9521557,-93.1220416,True,95
+96,109.0,49x university av w,"490 University Ave W, St Paul, MN 55103, USA",44.9554779,-93.12085040000001,True,96
+97,109.0,50x central av w,"500 Central Ave W, St Paul, MN 55103, USA",44.952851,-93.1210775,True,97
+98,109.0,50x stanthony av,"500 St Anthony Ave, St Paul, MN 55103, USA",44.9521567,-93.12238119999999,True,98
+99,109.0,50x university av w,"500 University Ave W, St Paul, MN 55103, USA",44.9554796,-93.1214577,True,99
+100,109.0,5xx central av w,"505 Central Ave W, St Paul, MN 55103, USA",44.9530623,-93.1212178,True,100
+101,109.0,5xx stanthony av,"505 St Anthony Ave, St Paul, MN 55103, USA",44.9523077,-93.1214938,True,101
+102,109.0,51x central av w,"510 Central Ave W, St Paul, MN 55103, USA",44.9528626,-93.12158459999999,True,102
+103,109.0,51x stanthony av,"510 St Anthony Ave, St Paul, MN 55103, USA",44.9521576,-93.1227207,True,103
+104,109.0,51x university av w,"510 University Ave W, St Paul, MN 55103, USA",44.9553575,-93.1219278,True,104
+105,109.0,52x aurora av,"520 Aurora Ave, St Paul, MN 55103, USA",44.954548,-93.121815,True,105
+106,109.0,52x central av w,"520 Central Ave W, St Paul, MN 55103, USA",44.9528611,-93.12180359999999,True,106
+107,109.0,52x stanthony av,"520 St Anthony Ave, St Paul, MN 55103, USA",44.9521586,-93.12306029999999,True,107
+108,109.0,52x university av w,"520 University Ave W, St Paul, MN 55103, USA",44.9552938,-93.1222609,True,108
+109,109.0,53x aurora av,"530 Aurora Ave, St Paul, MN 55103, USA",44.954608,-93.122214,True,109
+110,109.0,53x central av w,"530 Central Ave W, St Paul, MN 55103, USA",44.9527945,-93.12239799999999,True,110
+111,109.0,53x stanthony av,"530 St Anthony Ave, St Paul, MN 55103, USA",44.95215959999999,-93.1233998,True,111
+112,109.0,54x central av w,"540 Central Ave W, St Paul, MN 55103, USA",44.9528993,-93.12258800000001,True,112
+113,109.0,54x concordia av,"540 Concordia Ave, St Paul, MN 55103, USA",44.95046,-93.12206200000001,True,113
+114,109.0,54x university av w,"540 University Ave W, St Paul, MN 55103, USA",44.9549716,-93.1239149,True,114
+115,109.0,55x aurora av,"550 Aurora Ave, St Paul, MN 55103, USA",44.9545732,-93.1223219,True,115
+116,109.0,55x central av w,"550 Central Ave W, St Paul, MN 55103, USA",44.9530562,-93.1227344,True,116
+117,109.0,55x university av w,"550 University Ave W, St Paul, MN 55103, USA",44.9556315,-93.12418149999999,True,117
+118,109.0,56x central av w,"560 Central Ave W, St Paul, MN 55103, USA",44.9525824,-93.1233563,True,118
+119,109.0,56x concordia av,"560 Concordia Ave, St Paul, MN 55103, USA",44.9503016,-93.1223,True,119
+120,109.0,56x fuller av,"560 Fuller Ave, St Paul, MN 55103, USA",44.9539502,-93.1243701,True,120
+121,109.0,56x marshall av,"560 Marshall Ave, St Paul, MN 55102, USA",44.9485354,-93.1238005,True,121
+122,109.0,56x university av w,"560 University Ave W, St Paul, MN 55103, USA",44.95486959999999,-93.12445489999999,True,122
+123,109.0,57x aurora av,"570 Aurora Ave, St Paul, MN 55103, USA",44.954063,-93.1229819,True,123
+124,109.0,57x fuller av,"570 Fuller Ave, St Paul, MN 55103, USA",44.9539564,-93.1246079,True,124
+125,109.0,57x iglehart av,"570 Iglehart Ave, St Paul, MN 55103, USA",44.949169,-93.124307,True,125
+126,109.0,57x marshall av,"570 Marshall Ave, St Paul, MN 55102, USA",44.9482081,-93.1243466,True,126
+127,109.0,57x stanthony av,"570 St Anthony Ave, St Paul, MN 55103, USA",44.9521512,-93.1246762,True,127
+128,109.0,57x university av w,"570 University Ave W, St Paul, MN 55103, USA",44.9556132,-93.12466640000001,True,128
+129,109.0,58x central av w,"580 Central Ave W, St Paul, MN 55103, USA",44.9527277,-93.12440149999999,True,129
+130,109.0,58x concordia av,"580 Concordia Ave, St Paul, MN 55103, USA",44.9504404,-93.12275489999999,True,130
+131,109.0,58x fuller av,"580 Fuller Ave, St Paul, MN 55103, USA",44.9535142,-93.12472919999999,True,131
+132,109.0,58x iglehart av,"580 Iglehart Ave, St Paul, MN 55103, USA",44.9491935,-93.12467989999999,True,132
+133,109.0,58x marshall av,"580 Marshall Ave, St Paul, MN 55102, USA",44.94828769999999,-93.1246704,True,133
+134,109.0,58x stanthony av,"580 St Anthony Ave, St Paul, MN 55103, USA",44.9521476,-93.1249964,True,134
+135,109.0,58x university av w,"580 University Ave W, St Paul, MN 55103, USA",44.955614,-93.1243997,True,135
+136,109.0,59x fuller av,"590 Fuller Ave, St Paul, MN 55103, USA",44.9536221,-93.1251356,True,136
+137,109.0,59x iglehart av,"590 Iglehart Ave, St Paul, MN 55103, USA",44.94928609999999,-93.1250646,True,137
+138,109.0,59x marshall av,"590 Marshall Ave, St Paul, MN 55102, USA",44.9482968,-93.1250034,True,138
+139,109.0,59x university av w,"590 University Ave W, St Paul, MN 55103, USA",44.955051,-93.12503439999999,True,139
+140,109.0,60x central av w,"600 Central Ave W, St Paul, MN 55103, USA",44.9527352,-93.1252385,True,140
+141,109.0,60x marshall av,"600 Marshall Ave, St Paul, MN 55102, USA",44.948284,-93.12547359999999,True,141
+142,109.0,60x university av w,"600 University Ave W, St Paul, MN 55103, USA",44.9553355,-93.12511370000001,True,142
+143,109.0,6xx university av w,"605 University Ave W, St Paul, MN 55103, USA",44.9560004,-93.12553919999999,True,143
+144,109.0,61x iglehart av,"610 Iglehart Ave, St Paul, MN 55103, USA",44.94919600000001,-93.1258549,True,144
+145,109.0,61x marshall av,"610 Marshall Ave, St Paul, MN 55102, USA",44.948208,-93.125787,True,145
+146,109.0,61x stanthony av,"610 St Anthony Ave, St Paul, MN 55103, USA",44.9521418,-93.12597149999999,True,146
+147,109.0,61x university av w,"610 University Ave W, St Paul, MN 55103, USA",44.9556115,-93.12570360000001,True,147
+149,109.0,88x grand av,"880 Grand Ave, St Paul, MN 55105, USA",44.9399518,-93.13738529999999,False,148

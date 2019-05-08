@@ -1,0 +1,227 @@
+index,Grid,Block,For_Address,Latitude,Longitude,Fail,index1
+0,90.0,1x exchange st w,"10 W Exchange St, St Paul, MN 55101, USA",44.9490505,-93.0972712,False,0
+1,90.0,1xx sherburne av,"105 Sherburne Ave, St Paul, MN 55103, USA",44.9570325,-93.1043552,True,1
+2,90.0,108x university av w,"1080 University Ave W, St Paul, MN 55104, USA",44.95524150000001,-93.1454603,False,2
+3,90.0,119x hewitt av,"1190 Hewitt Ave, St Paul, MN 55104, USA",44.9663791,-93.1504063,False,3
+4,90.0,128x albemarle st,"1280 Albemarle St, St Paul, MN 55117, USA",44.9797404,-93.1068813,False,4
+5,90.0,13x sherburne av,"130 Sherburne Ave, St Paul, MN 55103, USA",44.9568498,-93.1054635,True,5
+6,90.0,130x university av w,"1300 University Ave W, St Paul, MN 55104, USA",44.9527377,-93.1556919,False,6
+7,90.0,134x arona st,"1340 Arona St, St Paul, MN 55108, USA",44.9816364,-93.1641104,False,7
+8,90.0,14x charles av,"140 Charles Ave, St Paul, MN 55103, USA",44.957612,-93.1059803,True,8
+9,90.0,14x como av,"140 Como Ave, St Paul, MN 55103, USA",44.9589707,-93.1058923,True,9
+10,90.0,14x sherburne av,"140 Sherburne Ave, St Paul, MN 55103, USA",44.9567055,-93.10596559999999,True,10
+11,90.0,14x university av w,"140 University Ave W, St Paul, MN 55103, USA",44.9558407,-93.1060289,True,11
+12,90.0,15x charles av,"150 Charles Ave, St Paul, MN 55103, USA",44.9573711,-93.1065392,True,12
+13,90.0,15x sherburne av,"150 Sherburne Ave, St Paul, MN 55103, USA",44.9567087,-93.10638209999999,True,13
+14,90.0,153x albany av,"1530 Albany Ave, St Paul, MN 55108, USA",44.9780208,-93.1649728,False,14
+15,90.0,16x charles av,"160 Charles Ave, St Paul, MN 55103, USA",44.957369,-93.10692279999999,True,15
+16,90.0,16x como av,"160 Como Ave, St Paul, MN 55103, USA",44.9603192,-93.1084458,True,16
+17,90.0,16x edmund av,"160 Edmund Ave W, St Paul, MN 55103, USA",44.9585447,-93.1087108,True,17
+18,90.0,16x sherburne av,"160 Sherburne Ave, St Paul, MN 55103, USA",44.9567112,-93.10671529999999,True,18
+19,90.0,17x charles av,"170 Charles Ave, St Paul, MN 55103, USA",44.957332,-93.107252,True,19
+20,90.0,17x como av,"170 Como Ave, St Paul, MN 55103, USA",44.9603355,-93.10847369999999,True,20
+21,90.0,17x rose av w,"170 Rose Ave W, St Paul, MN 55117, USA",44.9762736,-93.10776480000001,False,21
+22,90.0,17x sherburne av,"170 Sherburne Ave, St Paul, MN 55103, USA",44.9567097,-93.1071693,True,22
+23,90.0,18x charles av,"180 Charles Ave, St Paul, MN 55103, USA",44.9573847,-93.1076689,True,23
+24,90.0,18x como av,"180 Como Ave, St Paul, MN 55103, USA",44.9603519,-93.1085015,True,24
+25,90.0,18x edmund av,"180 Edmund Ave W, St Paul, MN 55103, USA",44.95854079999999,-93.1089528,True,25
+26,90.0,19x charles av,"190 Charles Ave, St Paul, MN 55103, USA",44.957404,-93.1080466,True,26
+27,90.0,19x como av,"190 Como Ave, St Paul, MN 55103, USA",44.9603822,-93.10855459999999,True,27
+28,90.0,19x edmund av,"190 Edmund Ave W, St Paul, MN 55103, USA",44.9585277,-93.1090723,True,28
+29,90.0,19x sherburne av,"190 Sherburne Ave, St Paul, MN 55103, USA",44.9564494,-93.10808929999999,True,29
+30,90.0,20x charles av,"200 Charles Ave, St Paul, MN 55103, USA",44.9573604,-93.108526,True,30
+31,90.0,20x como av,"200 Como Ave, St Paul, MN 55103, USA",44.9605369,-93.1088351,True,31
+32,90.0,20x sherburne av,"200 Sherburne Ave, St Paul, MN 55103, USA",44.956463,-93.10856199999999,True,32
+33,90.0,200x university av w,"2000 University Ave W, St Paul, MN 55104, USA",44.95563,-93.14753069999999,False,33
+34,90.0,2xx sherburne av,"205 Sherburne Ave, St Paul, MN 55103, USA",44.9569374,-93.108654,True,34
+35,90.0,2xx university av w,"205 University Ave W, St Paul, MN 55103, USA",44.9559052,-93.1084868,True,35
+36,90.0,21x como av,"210 Como Ave, St Paul, MN 55103, USA",44.9606916,-93.10911569999999,True,36
+37,90.0,22x charles av,"220 Charles Ave, St Paul, MN 55103, USA",44.957376,-93.1094914,True,37
+38,90.0,22x como av,"220 Como Ave, St Paul, MN 55103, USA",44.9608798,-93.10945060000002,True,38
+39,90.0,22x edmund av,"220 Edmund Ave W, St Paul, MN 55103, USA",44.9582868,-93.10947709999999,True,39
+40,90.0,22x thomas av,"220 Thomas Ave W, St Paul, MN 55103, USA",44.9592176,-93.10964799999999,True,40
+41,90.0,22x university av w,"220 University Ave W, St Paul, MN 55103, USA",44.95564479999999,-93.1095785,True,41
+42,90.0,23x charles av,"230 Charles Ave, St Paul, MN 55103, USA",44.9573766,-93.10977079999999,True,42
+43,90.0,23x como av,"230 Como Ave, St Paul, MN 55103, USA",44.961058,-93.1098935,True,43
+44,90.0,23x edmund av,"230 Edmund Ave W, St Paul, MN 55103, USA",44.9582848,-93.1098544,True,44
+45,90.0,23x sherburne av,"230 Sherburne Ave, St Paul, MN 55103, USA",44.9566968,-93.1099196,True,45
+46,90.0,23x thomas av,"230 Thomas Ave W, St Paul, MN 55103, USA",44.9592156,-93.1100136,True,46
+47,90.0,23x university av w,"230 University Ave W, St Paul, MN 55103, USA",44.9556432,-93.1100147,True,47
+48,90.0,24x charles av,"240 Charles Ave, St Paul, MN 55103, USA",44.9573841,-93.11012250000002,True,48
+49,90.0,24x como av,"240 Como Ave, St Paul, MN 55103, USA",44.9612767,-93.110283,True,49
+50,90.0,24x edmund av,"240 Edmund Ave W, St Paul, MN 55103, USA",44.9583008,-93.1101546,True,50
+51,90.0,24x sherburne av,"240 Sherburne Ave, St Paul, MN 55103, USA",44.9566899,-93.1104337,True,51
+52,90.0,24x thomas av,"240 Thomas Ave W, St Paul, MN 55103, USA",44.959214,-93.1102832,True,52
+53,90.0,25x charles av,"250 Charles Ave, St Paul, MN 55103, USA",44.9575942,-93.1106322,True,53
+54,90.0,25x como av,"250 Como Ave, St Paul, MN 55103, USA",44.9615383,-93.1106231,True,54
+55,90.0,25x edmund av,"250 Edmund Ave W, St Paul, MN 55103, USA",44.9584985,-93.1105529,True,55
+56,90.0,25x lafond av,"250 Lafond Ave, St Paul, MN 55103, USA",44.9604204,-93.1106294,True,56
+57,90.0,25x sherburne av,"250 Sherburne Ave, St Paul, MN 55103, USA",44.956428,-93.110812,True,57
+58,90.0,25x university av w,"250 University Ave W, St Paul, MN 55103, USA",44.9556869,-93.1105819,True,58
+59,90.0,26x charles av,"260 Charles Ave, St Paul, MN 55103, USA",44.9573859,-93.1111075,True,59
+60,90.0,26x edmund av,"260 Edmund Ave W, St Paul, MN 55103, USA",44.9582591,-93.1111768,True,60
+61,90.0,26x lafond av,"260 Lafond Ave, St Paul, MN 55103, USA",44.9602441,-93.1110337,True,61
+62,90.0,26x sherburne av,"260 Sherburne Ave, St Paul, MN 55103, USA",44.9564624,-93.1111932,True,62
+63,90.0,26x thomas av,"260 Thomas Ave W, St Paul, MN 55103, USA",44.959163,-93.1110585,True,63
+64,90.0,26x university av w,"260 University Ave W, St Paul, MN 55103, USA",44.95569829999999,-93.1110017,True,64
+65,90.0,27x charles av,"270 Charles Ave, St Paul, MN 55103, USA",44.9573939,-93.11137649999999,True,65
+66,90.0,27x como av,"270 Como Ave, St Paul, MN 55103, USA",44.9614929,-93.1111315,True,66
+67,90.0,27x sherburne av,"270 Sherburne Ave, St Paul, MN 55103, USA",44.9564616,-93.1115205,True,67
+68,90.0,27x university av w,"270 University Ave W, St Paul, MN 55103, USA",44.9555063,-93.1113944,True,68
+69,90.0,28x blair av,"280 Blair Ave, St Paul, MN 55103, USA",44.9614164,-93.1119705,True,69
+70,90.0,28x charles av,"280 Charles Ave, St Paul, MN 55103, USA",44.957382,-93.1118666,True,70
+71,90.0,28x como av,"280 Como Ave, St Paul, MN 55103, USA",44.9615714,-93.1112752,True,71
+72,90.0,28x edmund av,"280 Edmund Ave W, St Paul, MN 55103, USA",44.958497,-93.1119592,True,72
+73,90.0,28x lafond av,"280 Lafond Ave, St Paul, MN 55103, USA",44.96025909999999,-93.1118211,True,73
+74,90.0,28x sherburne av,"280 Sherburne Ave, St Paul, MN 55103, USA",44.9564607,-93.1118535,True,74
+75,90.0,28x thomas av,"280 Thomas Ave W, St Paul, MN 55103, USA",44.9593815,-93.11195839999999,True,75
+76,90.0,28x vanburen av,"280 Van Buren Ave, St Paul, MN 55103, USA",44.9620749,-93.1122872,True,76
+77,90.0,29x charles av,"290 Charles Ave, St Paul, MN 55103, USA",44.957321,-93.112251,True,77
+78,90.0,29x como av,"290 Como Ave, St Paul, MN 55103, USA",44.9621473,-93.1124387,True,78
+79,90.0,29x edmund av,"290 Edmund Ave W, St Paul, MN 55103, USA",44.9582797,-93.11231459999999,True,79
+80,90.0,29x sherburne av,"290 Sherburne Ave, St Paul, MN 55103, USA",44.9564938,-93.1123238,True,80
+81,90.0,29x thomas av,"290 Thomas Ave W, St Paul, MN 55103, USA",44.95918229999999,-93.1123502,True,81
+82,90.0,29x university av w,"290 University Ave W, St Paul, MN 55103, USA",44.9555051,-93.1118011,True,82
+83,90.0,29x vanburen av,"290 Van Buren Ave, St Paul, MN 55103, USA",44.9620747,-93.1124147,True,83
+84,90.0,30x blair av,"300 Blair Ave, St Paul, MN 55103, USA",44.9612196,-93.1126721,True,84
+85,90.0,30x charles av,"300 Charles Ave, St Paul, MN 55103, USA",44.9573214,-93.1127065,True,85
+86,90.0,30x como av,"300 Como Ave, St Paul, MN 55103, USA",44.9630226,-93.1125739,True,86
+87,90.0,30x edmund av,"300 Edmund Ave W, St Paul, MN 55103, USA",44.958226,-93.112718,True,87
+88,90.0,30x lafond av,"300 Lafond Ave, St Paul, MN 55103, USA",44.9602386,-93.1127015,True,88
+89,90.0,30x sherburne av,"300 Sherburne Ave, St Paul, MN 55103, USA",44.9564587,-93.1126658,True,89
+90,90.0,30x thomas av,"300 Thomas Ave W, St Paul, MN 55103, USA",44.9591821,-93.1127355,True,90
+91,90.0,30x vanburen av,"300 Van Buren Ave, St Paul, MN 55103, USA",44.9620924,-93.11272770000001,True,91
+92,90.0,31x blair av,"310 Blair Ave, St Paul, MN 55103, USA",44.9612321,-93.11301300000001,True,92
+93,90.0,31x edmund av,"310 Edmund Ave W, St Paul, MN 55103, USA",44.9582957,-93.113022,True,93
+94,90.0,31x lafond av,"310 Lafond Ave, St Paul, MN 55103, USA",44.9602396,-93.11311189999999,True,94
+95,90.0,31x university av w,"310 University Ave W, St Paul, MN 55103, USA",44.9554967,-93.11294009999999,True,95
+96,90.0,31x vanburen av,"310 Van Buren Ave, St Paul, MN 55103, USA",44.9620732,-93.11310639999999,True,96
+97,90.0,32x blair av,"320 Blair Ave, St Paul, MN 55103, USA",44.9612282,-93.1136946,True,97
+98,90.0,32x charles av,"320 Charles Ave, St Paul, MN 55103, USA",44.957403,-93.11370099999999,True,98
+99,90.0,32x como av,"320 Como Ave, St Paul, MN 55103, USA",44.9628465,-93.11367349999999,True,99
+100,90.0,32x lafond av,"320 Lafond Ave, St Paul, MN 55103, USA",44.9602906,-93.1135652,True,100
+101,90.0,32x thomas av,"320 Thomas Ave W, St Paul, MN 55103, USA",44.95913729999999,-93.11354519999999,True,101
+102,90.0,32x vanburen av,"320 Van Buren Ave, St Paul, MN 55103, USA",44.9621031,-93.1136719,True,102
+103,90.0,33x blair av,"330 Blair Ave, St Paul, MN 55103, USA",44.9612188,-93.1139367,True,103
+104,90.0,33x charles av,"330 Charles Ave, St Paul, MN 55103, USA",44.9574,-93.11395809999999,True,104
+105,90.0,33x edmund av,"330 Edmund Ave W, St Paul, MN 55103, USA",44.958268,-93.1140405,True,105
+106,90.0,33x lafond av,"330 Lafond Ave, St Paul, MN 55103, USA",44.9602919,-93.11396169999999,True,106
+107,90.0,33x sherburne av,"330 Sherburne Ave, St Paul, MN 55103, USA",44.95640299999999,-93.113992,True,107
+108,90.0,33x thomas av,"330 Thomas Ave W, St Paul, MN 55103, USA",44.9591814,-93.1139434,True,108
+109,90.0,33x university av w,"330 University Ave W, St Paul, MN 55103, USA",44.9554898,-93.1140015,True,109
+110,90.0,34x blair av,"340 Blair Ave, St Paul, MN 55103, USA",44.96122039999999,-93.1142888,True,110
+111,90.0,34x como av,"340 Como Ave, St Paul, MN 55103, USA",44.96338799999999,-93.114645,True,111
+112,90.0,34x edmund av,"340 Edmund Ave W, St Paul, MN 55103, USA",44.9582584,-93.11439299999999,True,112
+113,90.0,34x lafond av,"340 Lafond Ave, St Paul, MN 55103, USA",44.960293,-93.11430039999999,True,113
+114,90.0,34x sherburne av,"340 Sherburne Ave, St Paul, MN 55103, USA",44.9564612,-93.11432750000002,True,114
+115,90.0,34x thomas av,"340 Thomas Ave W, St Paul, MN 55103, USA",44.9591296,-93.1143724,True,115
+116,90.0,34x university av w,"340 University Ave W, St Paul, MN 55103, USA",44.9554884,-93.1143604,True,116
+117,90.0,34x vanburen av,"340 Van Buren Ave, St Paul, MN 55103, USA",44.9621168,-93.1144111,True,117
+118,90.0,35x como av,"350 Como Ave, St Paul, MN 55103, USA",44.96380389999999,-93.11471879999999,True,118
+119,90.0,35x edmund av,"350 Edmund Ave W, St Paul, MN 55103, USA",44.958485,-93.11489019999999,True,119
+120,90.0,35x lafond av,"350 Lafond Ave, St Paul, MN 55103, USA",44.9604392,-93.1147759,True,120
+121,90.0,35x sherburne av,"350 Sherburne Ave, St Paul, MN 55103, USA",44.9566654,-93.1148888,True,121
+122,90.0,35x university av w,"350 University Ave W, St Paul, MN 55103, USA",44.9554486,-93.1148207,True,122
+123,90.0,36x blair av,"360 Blair Ave, St Paul, MN 55103, USA",44.96121489999999,-93.1151915,True,123
+124,90.0,36x charles av,"360 Charles Ave, St Paul, MN 55103, USA",44.9573852,-93.1153789,True,124
+125,90.0,36x como av,"360 Como Ave, St Paul, MN 55103, USA",44.963787,-93.115409,True,125
+126,90.0,36x edmund av,"360 Edmund Ave W, St Paul, MN 55103, USA",44.9582702,-93.115298,True,126
+127,90.0,36x sherburne av,"360 Sherburne Ave, St Paul, MN 55103, USA",44.956463,-93.115318,True,127
+128,90.0,36x thomas av,"360 Thomas Ave W, St Paul, MN 55103, USA",44.9591093,-93.11517300000001,True,128
+129,90.0,36x university av w,"360 University Ave W, St Paul, MN 55103, USA",44.955488,-93.11513080000002,True,129
+130,90.0,37x blair av,"370 Blair Ave, St Paul, MN 55103, USA",44.96121549999999,-93.1156051,True,130
+131,90.0,37x charles av,"370 Charles Ave, St Paul, MN 55103, USA",44.95738600000001,-93.1158406,True,131
+132,90.0,37x como av,"370 Como Ave, St Paul, MN 55103, USA",44.9639131,-93.1156266,True,132
+133,90.0,37x edmund av,"370 Edmund Ave W, St Paul, MN 55103, USA",44.9582377,-93.1157604,True,133
+134,90.0,37x lafond av,"370 Lafond Ave, St Paul, MN 55103, USA",44.9602885,-93.1156723,True,134
+135,90.0,37x sherburne av,"370 Sherburne Ave, St Paul, MN 55103, USA",44.95646869999999,-93.1157186,True,135
+136,90.0,37x thomas av,"370 Thomas Ave W, St Paul, MN 55103, USA",44.95911,-93.11560940000001,True,136
+137,90.0,37x university av w,"370 University Ave W, St Paul, MN 55103, USA",44.95543560000001,-93.11571839999999,True,137
+138,90.0,45x marion st,"450 Marion St, St Paul, MN 55103, USA",44.9547551,-93.1092044,True,138
+139,90.0,48x farrington st,"480 N Farrington St, St Paul, MN 55103, USA",44.95565420000001,-93.11326299999999,True,139
+140,90.0,48x rice st,"480 Rice St, St Paul, MN 55103, USA",44.9557113,-93.1060385,True,140
+141,90.0,49x marion st,"490 Marion St, St Paul, MN 55103, USA",44.9561232,-93.1087759,True,141
+142,90.0,49x rice st,"490 Rice St, St Paul, MN 55103, USA",44.9561886,-93.10595289999999,True,142
+143,90.0,50x farrington st,"500 N Farrington St, St Paul, MN 55103, USA",44.95637749999999,-93.1132444,True,143
+144,90.0,50x galtier st,"500 Galtier St, St Paul, MN 55103, USA",44.9563828,-93.1105857,True,144
+145,90.0,50x marion st,"500 Marion St, St Paul, MN 55103, USA",44.9563857,-93.10877939999999,True,145
+146,90.0,50x rice st,"500 Rice St, St Paul, MN 55103, USA",44.95639629999999,-93.1055481,True,146
+147,90.0,50x virginia st,"500 Virginia St, St Paul, MN 55103, USA",44.9563864,-93.11461609999999,True,147
+148,90.0,5xx farrington st,"505 N Farrington St, St Paul, MN 55103, USA",44.956511,-93.11375000000001,True,148
+149,90.0,51x farrington st,"510 N Farrington St, St Paul, MN 55103, USA",44.9566545,-93.11341999999999,True,149
+150,90.0,51x galtier st,"510 Galtier St, St Paul, MN 55103, USA",44.9566601,-93.1105877,True,150
+151,90.0,51x rice st,"510 Rice St, St Paul, MN 55103, USA",44.9568368,-93.10596749999999,True,151
+152,90.0,52x galtier st,"520 Galtier St, St Paul, MN 55103, USA",44.9569648,-93.1103758,True,152
+153,90.0,52x marion st,"520 Marion St, St Paul, MN 55103, USA",44.9569847,-93.1089028,True,153
+154,90.0,52x rice st,"520 Rice St, St Paul, MN 55103, USA",44.95708140000001,-93.1057642,True,154
+155,90.0,52x western av n,"520 Western Ave N, St Paul, MN 55103, USA",44.9570154,-93.1158947,True,155
+156,90.0,53x galtier st,"530 Galtier St, St Paul, MN 55103, USA",44.957374,-93.110377,True,156
+157,90.0,53x marion st,"530 Marion St, St Paul, MN 55103, USA",44.9573421,-93.1089866,True,157
+158,90.0,53x rice st,"530 Rice St, St Paul, MN 55103, USA",44.9573307,-93.1057213,True,158
+159,90.0,53x virginia st,"530 Virginia St, St Paul, MN 55103, USA",44.9571935,-93.1145834,True,159
+160,90.0,54x farrington st,"540 N Farrington St, St Paul, MN 55103, USA",44.9574543,-93.11315259999999,True,160
+161,90.0,54x marion st,"540 Marion St, St Paul, MN 55103, USA",44.9575652,-93.1091641,True,161
+162,90.0,54x rice st,"540 Rice St, St Paul, MN 55103, USA",44.9575836,-93.1057106,True,162
+163,90.0,54x virginia st,"540 Virginia St, St Paul, MN 55103, USA",44.9575389,-93.114846,True,163
+164,90.0,55x galtier st,"550 Galtier St, St Paul, MN 55103, USA",44.9578035,-93.11034579999999,True,164
+165,90.0,55x western av n,"550 Western Ave N, St Paul, MN 55103, USA",44.95796259999999,-93.11589310000001,True,165
+166,90.0,56x farrington st,"560 N Farrington St, St Paul, MN 55103, USA",44.9581096,-93.11331179999999,True,166
+167,90.0,56x galtier st,"560 Galtier St, St Paul, MN 55103, USA",44.9582412,-93.1104371,True,167
+168,90.0,57x farrington st,"570 N Farrington St, St Paul, MN 55103, USA",44.9584566,-93.1134275,True,168
+169,90.0,58x galtier st,"580 Galtier St, St Paul, MN 55103, USA",44.9589803,-93.11026150000001,True,169
+170,90.0,58x marion st,"580 Marion St, St Paul, MN 55103, USA",44.9587775,-93.1091896,True,170
+171,90.0,58x rice st,"580 Rice St, St Paul, MN 55103, USA",44.9586949,-93.10569939999999,True,171
+172,90.0,58x thomas av,"580 Thomas Ave W, St Paul, MN 55103, USA",44.95915859999999,-93.1248059,False,172
+173,90.0,58x virginia st,"580 Virginia St, St Paul, MN 55103, USA",44.9588525,-93.1144772,True,173
+174,90.0,58x western av n,"580 Western Ave N, St Paul, MN 55103, USA",44.9587528,-93.11585219999999,True,174
+175,90.0,59x virginia st,"590 Virginia St, St Paul, MN 55103, USA",44.9592617,-93.11447489999999,True,175
+176,90.0,59x western av n,"590 Western Ave N, St Paul, MN 55103, USA",44.9590114,-93.11585079999999,True,176
+177,90.0,60x galtier st,"600 Galtier St, St Paul, MN 55103, USA",44.9593579,-93.11058700000001,True,177
+178,90.0,60x rice st,"600 Rice St, St Paul, MN 55103, USA",44.9595543,-93.1056771,True,178
+179,90.0,60x virginia st,"600 Virginia St, St Paul, MN 55103, USA",44.9594,-93.11472069999999,True,179
+180,90.0,60x western av n,"600 Western Ave N, St Paul, MN 55103, USA",44.959348,-93.11617249999999,True,180
+181,90.0,6xx farrington st,"605 N Farrington St, St Paul, MN 55103, USA",44.9595802,-93.11367930000002,True,181
+182,90.0,61x elfelt st,"610 Elfelt St, St Paul, MN 55103, USA",44.95972460000001,-93.1117659,True,182
+183,90.0,61x farrington st,"610 N Farrington St, St Paul, MN 55103, USA",44.95970459999999,-93.1131269,True,183
+184,90.0,61x galtier st,"610 Galtier St, St Paul, MN 55103, USA",44.9596775,-93.11019689999999,True,184
+185,90.0,61x virginia st,"610 Virginia St, St Paul, MN 55103, USA",44.95976880000001,-93.11443400000002,True,185
+186,90.0,61x western av n,"610 Western Ave N, St Paul, MN 55103, USA",44.9597124,-93.11584789999999,True,186
+187,90.0,62x elfelt st,"620 Elfelt St, St Paul, MN 55103, USA",44.9600235,-93.11177579999999,True,187
+188,90.0,62x farrington st,"620 N Farrington St, St Paul, MN 55103, USA",44.9600413,-93.1131333,True,188
+189,90.0,62x marion st,"620 Marion St, St Paul, MN 55103, USA",44.9600028,-93.1088771,True,189
+190,90.0,62x rice st,"620 Rice St, St Paul, MN 55103, USA",44.960136,-93.1057158,True,190
+191,90.0,62x virginia st,"620 Virginia St, St Paul, MN 55103, USA",44.9599687,-93.1144613,True,191
+192,90.0,63x rice st,"630 Rice St, St Paul, MN 55103, USA",44.9602629,-93.10570690000002,True,192
+193,90.0,63x virginia st,"630 Virginia St, St Paul, MN 55103, USA",44.96026029999999,-93.1144537,True,193
+194,90.0,64x elfelt st,"640 Elfelt St, St Paul, MN 55103, USA",44.9606578,-93.1116696,True,194
+195,90.0,64x farrington st,"640 N Farrington St, St Paul, MN 55103, USA",44.9606748,-93.1130915,True,195
+196,90.0,64x rice st,"640 Rice St, St Paul, MN 55103, USA",44.9606554,-93.1059422,True,196
+197,90.0,64x virginia st,"640 Virginia St, St Paul, MN 55103, USA",44.9606646,-93.114429,True,197
+198,90.0,65x conway st,"650 Conway St, St Paul, MN 55106, USA",44.9537656,-93.0706939,False,198
+199,90.0,65x fairview av n,"650 Fairview Ave N, St Paul, MN 55104, USA",44.96073,-93.1769075,False,199
+200,90.0,65x galtier st,"650 Galtier St, St Paul, MN 55103, USA",44.9606944,-93.1105862,True,200
+201,90.0,65x rice st,"650 Rice St, St Paul, MN 55103, USA",44.961169,-93.107135,True,201
+202,90.0,65x virginia st,"650 Virginia St, St Paul, MN 55103, USA",44.9609889,-93.1144544,True,202
+203,90.0,66x farrington st,"660 N Farrington St, St Paul, MN 55103, USA",44.9613867,-93.11343149999999,True,203
+204,90.0,66x rice st,"660 Rice St, St Paul, MN 55103, USA",44.9614671,-93.1054729,True,204
+205,90.0,66x virginia st,"660 Virginia St, St Paul, MN 55103, USA",44.9612803,-93.1144297,True,205
+206,90.0,67x farrington st,"670 N Farrington St, St Paul, MN 55103, USA",44.9614777,-93.1131486,True,206
+207,90.0,67x virginia st,"670 Virginia St, St Paul, MN 55103, USA",44.9616327,-93.1144842,True,207
+208,90.0,67x western av n,"670 Western Ave N, St Paul, MN 55103, USA",44.9616791,-93.1158655,True,208
+209,90.0,68x virginia st,"680 Virginia St, St Paul, MN 55103, USA",44.9618991,-93.11447489999999,True,209
+210,90.0,68x western av n,"680 Western Ave N, St Paul, MN 55103, USA",44.9618622,-93.11585170000001,True,210
+211,90.0,69x farrington st,"690 N Farrington St, St Paul, MN 55103, USA",44.9616003,-93.11314899999999,True,211
+212,90.0,69x rice st,"690 Rice St, St Paul, MN 55103, USA",44.962556,-93.10578559999999,True,212
+213,90.0,69x virginia st,"690 Virginia St, St Paul, MN 55103, USA",44.9621334,-93.1145628,True,213
+214,90.0,69x western av n,"690 Western Ave N, St Paul, MN 55103, USA",44.9621182,-93.1157954,True,214
+215,90.0,70x farrington st,"700 N Farrington St, St Paul, MN 55103, USA",44.9616617,-93.1131492,True,215
+216,90.0,70x virginia st,"700 Virginia St, St Paul, MN 55103, USA",44.9625707,-93.1144535,True,216
+217,90.0,70x western av n,"700 Western Ave N, St Paul, MN 55103, USA",44.96247839999999,-93.1158792,True,217
+218,90.0,71x vanburen av,"710 Van Buren Ave, St Paul, MN 55104, USA",44.9619075,-93.1301962,False,218
+219,90.0,72x virginia st,"720 Virginia St, St Paul, MN 55103, USA",44.96298669999999,-93.1147259,True,219
+220,90.0,72x western av n,"720 Western Ave N, St Paul, MN 55103, USA",44.9628447,-93.11587449999999,True,220
+221,90.0,73x western av n,"730 Western Ave N, St Paul, MN 55103, USA",44.9632453,-93.11587879999999,True,221
+222,90.0,75x western av n,"750 Western Ave N, St Paul, MN 55103, USA",44.9637913,-93.115899,True,222
+223,90.0,82x como av,"820 Como Ave, St Paul, MN 55103, USA",44.9740179,-93.13347499999999,False,223
+224,90.0,84x marion st,"840 Marion St, St Paul, MN 55117, USA",44.9667342,-93.10949939999999,False,224
+225,90.0,94x birmingham st,"940 Birmingham St, St Paul, MN 55106, USA",44.9693175,-93.0401611,False,225
