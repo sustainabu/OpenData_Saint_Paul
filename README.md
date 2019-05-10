@@ -6,7 +6,10 @@ This repository consist primarily of Jupyter Python notebooks that use public da
 
 0) **Open Data Initiative:** 
 
-  This intiative is to take public data from various sources and provide meaningful analysis **that matters** to community members to create actionable results. The **design principle** of this project is to get community members actively interacting with data (which include interactive maps), learning, and coming with their own insights. The code, data, and analysis is open to the public. Thus it can serve as an additional layer of accountability, transparency, and effective feedback for corresponding governmental agencies, and local organizations. I encourage local residents, programmers, and developers to colloborate on improving the results and making the data accessible and improving upon the data pipeline.
+  - This intiative is to take public data from various sources and provide meaningful analysis **that matters** to community members to create actionable results. 
+  - The **design principle** of this project is to get community members actively interacting with data (which include interactive maps), learning, and coming with their own insights. 
+  - The code, data, and analysis is open to the public. Thus it can serve as an additional layer of accountability, transparency, and effective feedback for corresponding governmental agencies, and local organizations. 
+  - I encourage local residents, programmers, and developers to colloborate on improving the results and making the data accessible and improving upon the data pipeline.
 
   Furthermore, I encourage other residents in different cities and places accross the world to do a similar intiative to obtain open data from agencies and provide meaningful metrics. Please share your experience to the community as a whole. 
   
@@ -42,6 +45,6 @@ This repository consist primarily of Jupyter Python notebooks that use public da
   - As a **Frogtown community member and local superhero**, I provide free analysis to my local community.
 
 7) **Commissions/ Support:**
-  - If you want a similar analysis on any of the reports on your local community in Saint Paul or elsewhere, please send me an email at anayeem1@gmail.com. We can negotiate prices. On the email subject-line, please write: "Open-Data". Any completed projects will be added into the open-data repository.  
+  - If you want a similar analysis on any of the reports on your local community in Saint Paul or elsewhere, please send me an [email](mailto:anayeem1@gmail.com?Subject=Open-Data%20Commission:). We can negotiate prices. Any completed projects will be added into the open-data repository.  
   - I'm a strong component of grassroots democracy and critical of capitalism. To reduce the financial temptation of sponsors, consider donating to me at Patreon (not set up yet)  
 
