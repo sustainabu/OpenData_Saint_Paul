@@ -34,7 +34,8 @@ This repository consist primarily of Jupyter Python notebooks that use public da
     - One such solution is to create a geo-coordinate proxy algorithm that takes a 'masked address' and gives an approximate location of the event. View the interactive crime map to learn more about the algorithm.
     
 4) **Limited Liability**
-  - I an not affiliated and/or paid by an organization, so not liable if the data analysis is incorrect and/or data is missing. As an open data project, I encourage community members to validate data handling by running the reports yourself.
+  - I an not affiliated and/or paid by an organization, so not liable if the data analysis is incorrect and/or data is missing. 
+  - As an open data project, I encourage community members to validate data handling by running the reports yourself.
 
 5) **Contributions:**
   - If you would like to collaborate on improving the reports, and/or program in another language, it is welcomed. Please [email](mailto:anayeem1@gmail.com?Subject=Open-Data%20Contributer:) me.
