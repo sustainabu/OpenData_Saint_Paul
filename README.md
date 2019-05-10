@@ -1,9 +1,6 @@
-<p><img style="padding: 0 15px; float: left;" src="FTLogo300.jpg" alt="FT Crusader Logo" Width='140' Height= '250'/></p> 
-<p> <h2> Open Source Community Action Data: Saint Paul, Minnesota ; 05/06/19</h2> <a name="tc"></a>
-<p> <h3> By Abu Nayeem</h3>
 
-# Open Source Community Action Data: Saint Paul, Minnesota 
-## by Abu Nayeem
+### Open Source Community Action Data: Saint Paul, Minnesota 
+#### by Abu Nayeem
 
 This repository consist primarily of Jupyter Python notebooks that use public data to provide insightful information to community members. Here are the some of the details:
 
@@ -42,7 +39,7 @@ This repository consist primarily of Jupyter Python notebooks that use public da
 
 6) **Public Portfolio:**
   - This repository also serves as a public portfolio of my programming and research skills. 
-  - As a **Frogtown community member**, I provide free analysis to my local community. 
+  - As a **Frogtown community member and local superhero**, I provide free analysis to my local community.
 
 7) **Commissions/ Support:**
   - If you want a similar analysis on any of the reports on your local community in Saint Paul or elsewhere, please send me an email at anayeem1@gmail.com. We can negotiate prices. On the email subject-line, please write: "Open-Data". Any completed projects will be added into the open-data repository.  
