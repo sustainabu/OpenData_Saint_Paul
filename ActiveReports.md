@@ -24,3 +24,9 @@ Here is a list of current datasets/projects. Most projects have data taken direc
 * Initial Data-Clean: Yes
 * Interactive Report/Notebook: [Saint Paul, MN, Vacant Building Report; 05/06/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20Vacant%20Building%20Report/Saint%20Paul%20Vacant%20Building%20Report.ipynb)
 
+4) [Saint Paul Voting/Election Dataset: 06/24/19](https://www.sos.state.mn.us/media/2641/registered-voter-list-request-form.pdf)
+* Last Report Made: July 31st, 2019 | Update Rate: Static (till new data is provided)
+* Description: Looks closely at the Saint Paul voting to show inequities in local elections. The report has a qualitative section providing an explanation for inequities as well as appropiate solutions. It campaign orientated.
+* Row Entry: Precinct | Geo-Identifier: [Ward](https://information.stpaul.gov/City-Administration/Council-Ward-Shapefile-Map/tseu-m286) / [Precinct](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/geojson-files/) 
+* Initial Data-Clean: No
+* Interactive Report/Notebook: [Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19.ipynb)
