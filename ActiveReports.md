@@ -30,5 +30,5 @@ Here is a list of current datasets/projects. Most projects have data taken direc
 * Row Entry: Precinct | Geo-Identifier: [Ward](https://information.stpaul.gov/City-Administration/Council-Ward-Shapefile-Map/tseu-m286) / [Precinct](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/geojson-files/) 
 * Initial Data-Clean: No
 * Interactive Report/Notebook: 
-    * [Press Friendly/Data Only: Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19.ipynb)
+    * [Press Friendly/Data Only: Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19%20%5BData%20Only%5D.ipynb)
     * [(Full Report) Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19.ipynb)
