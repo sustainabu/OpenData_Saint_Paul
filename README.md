@@ -6,26 +6,26 @@ This repository consist primarily of Jupyter Python notebooks that use public da
 
 0) **Open Data Initiative:** 
 
-  - This intiative is to take public data from various sources and provide meaningful analysis **that matters** to community members to create actionable results. 
+  - This initiative is to take public data from various sources and provide meaningful analysis **that matters** to community members to create actionable results. 
   - The **design principle** of this project is to get community members actively interacting with data (which include interactive maps), learning, and coming with their own insights. 
   - The code, data, and analysis is open to the public. Thus it can serve as an additional layer of accountability, transparency, and effective feedback for corresponding governmental agencies, and local organizations. 
-  - I encourage local residents, programmers, and developers to colloborate on improving the results and making the data accessible and improving upon the data pipeline.
+  - I encourage local residents, programmers, and developers to collaborate on improving the results and making the data accessible and improving upon the data pipeline.
 
-  Furthermore, I encourage other residents in different cities and places accross the world to do a similar intiative to obtain open data from agencies and provide meaningful metrics. Please share your experience to the community as a whole. 
+  Furthermore, I encourage other residents in different cities and places across the world to do a similar initiative to obtain open data from agencies and provide meaningful metrics. Please share your experience to the community as a whole. 
   
 **If any graphs or reports are used in presentations, or any other professional settings, please credit Open_Data_Saint_Paul**   
 
 1) **Saint Paul Data Repository:**
   - Open source data will be stored and formatted in the repository. However, there is 100MB size file limit to be posted on Github. 
   - Data should be processed to make it easier to combine different datasources together
-    - For example, the census data can be processed in such a way that practioners can get meaningful information
-    - The unique identified keys will be displayed to give quick reference.
-  - Proper Coding Annotations and formating should be utilized to get better feedback and enable other persons to work with the code
-  - Currently, this repsository use Jupyter python notebooks. Other programming languages and software can be included.
-  - Data is collected within the geographical location of Saint Paul; this does not restict to only Saint Paul as county data can be used
+    - For example, the census data can be processed in such a way that practitioners can get meaningful information
+    - The unique key identifiers will be displayed to give quick reference.
+  - Proper coding annotations and formatting should be utilized to get better feedback and enable other persons to work with the code
+  - Currently, this repository use Jupyter python notebooks. Other programming languages and software can be included.
+  - Data is collected within the geographical location of Saint Paul; this does not restrict to only Saint Paul as county data can be used
   
 2) **Actionable Data Metrics:**
-  - How can we use data to create actionable results in real-time or address community problems pro-actively?
+  - How can we use data to create actionable results in real-time or address community problems proactively?
   - How can community members become a "data detective", where analytics can be personalized and encourage members to explore the data.
   - How can community members/organizations/agencies easily access data to make informed decisions
   
