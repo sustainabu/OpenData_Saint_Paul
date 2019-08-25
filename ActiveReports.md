@@ -15,7 +15,7 @@ Here is a list of current datasets/projects. Most projects have data taken direc
 * Description: List all Crime Incidents since August 14, 2014 
 * Row Entry: Incident Number | Geo-Identifier: [Police Grid](https://information.stpaul.gov/Public-Safety/Saint-Paul-Police-Grid-Shapefile/ykwt-ie3e) / [Neighborhood](https://information.stpaul.gov/City-Administration/District-Council-Shapefile-Map/dq4n-yj8b) 
 * Initial Data-Clean: Messy
-* Interactive Report/Notebook: [Frogtown, MN, Crime Map 04/30/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Frogtown%20Crime_Map/FG_Crime_Map.ipynb)
+* Interactive Report/Notebook: [Frogtown, MN, Crime Map 08/13/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Frogtown%20Crime_Map/FG_Crime_Map.ipynb)
 
 3) [Saint Paul Vacant Buldings Dataset](https://information.stpaul.gov/Buildings-Housing-Economic-Development/Vacant-Buildings-Dataset/fgbn-288b)
 * Last Report Made: May 7nd, 2019 | Update Rate: Monthly?
@@ -29,4 +29,6 @@ Here is a list of current datasets/projects. Most projects have data taken direc
 * Description: Looks closely at the Saint Paul voting to show inequities in local elections. The report has a qualitative section providing an explanation for inequities as well as appropiate solutions. It campaign orientated.
 * Row Entry: Precinct | Geo-Identifier: [Ward](https://information.stpaul.gov/City-Administration/Council-Ward-Shapefile-Map/tseu-m286) / [Precinct](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/geojson-files/) 
 * Initial Data-Clean: No
-* Interactive Report/Notebook: [Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19.ipynb)
+* Interactive Report/Notebook: 
+    * [Press Friendly/Data Only: Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19%20%5BData%20Only%5D.ipynb)
+    * [(Full Report) Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19.ipynb)
