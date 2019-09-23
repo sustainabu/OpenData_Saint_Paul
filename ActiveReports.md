@@ -32,3 +32,4 @@ Here is a list of current datasets/projects. Most projects have data taken direc
 * Interactive Report/Notebook: 
     * [Press Friendly/Data Only: Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19%20%5BData%20Only%5D.ipynb)
     * [(Full Report) Saint Paul 2015 City Council Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202015%20City%20Council%20Voting%20Report_06-24-19.ipynb)
+    * [Saint Paul 2017 Mayor Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202017%20Mayor%20Voting%20Report_06-24-19.ipynb)
