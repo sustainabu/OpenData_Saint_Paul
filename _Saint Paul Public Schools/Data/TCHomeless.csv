@@ -1,0 +1,114 @@
+School,Num,Tot_Enroll,Homeless_Count,Homeless%,Address,Latitude,Longitude
+Central Senior High,210.0,1795.0,26.0,1.45%,"275 Lexington Pkwy N., St Paul, MN 55104",44.949443200000005,-93.1481055
+Como Park Senior High,212.0,1307.0,22.0,1.68%,"740 Rose Ave W, St Paul, MN 55117",44.975998100000005,-93.1312462
+Harding Senior High,215.0,1908.0,28.0,1.47%,"1540 6th St E, St Paul, MN 55106",44.959468900000005,-93.0360568
+Highland Park Senior High,220.0,1328.0,5.0,0.38%,"1015 Snelling Ave S, St Paul, MN 55116",44.909962,-93.1683962
+Johnson Senior High,230.0,1295.0,14.0,1.08%,"1349 Arcade St, St Paul, MN 55106",44.98136179999999,-93.0672763
+Battle Creek Middle,310.0,750.0,18.0,2.40%,"2121 N Park Dr, St Paul, MN 55119",44.9456836,-93.0117856
+Farnsworth Aerospace Upper,315.0,643.0,11.0,1.71%,"1000 N Walsh St, St Paul, MN 55106",44.97163700000001,-93.0688803
+Highland Park Middle School,330.0,804.0,5.0,0.62%,"975 S, Snelling Ave S, St Paul, MN 55116",44.9114282,-93.1681431
+Murray Middle School,342.0,712.0,8.0,1.12%,"2200 Buford Ave, St Paul, MN 55108",44.9844951,-93.1931289
+Parkway Montessori/Community Middle,344.0,450.0,8.0,1.78%,"1363 Bush Ave, St Paul, MN 55106",44.9654834,-93.0428322
+Ramsey Middle School,345.0,588.0,22.0,3.74%,"1700 Summit Ave, St Paul, MN 55105",44.940839700000005,-93.1722396
+Adams Magnet Elementary,410.0,616.0,5.0,0.81%,"615 S Chatsworth St, St Paul, MN 55102",44.923751,-93.143046
+John A. Johnson Achievement Plus El.,415.0,375.0,26.0,6.93%,"740 York Ave, St Paul, MN 55106",44.96802599999999,-93.06880090000001
+Battle Creek Elementary School,422.0,472.0,6.0,1.27%,"60 Ruth St S, St Paul, MN 55119",44.9397245,-93.0138965
+Benjamin E Mays Magnet,424.0,406.0,16.0,3.94%,"560 Concordia Ave, St Paul, MN 55103",44.9503016,-93.1223
+Chelsea Heights Elementary,425.0,445.0,6.0,1.35%,"1557 Huron St, St Paul, MN 55108",44.987962700000004,-93.1560082
+Cherokee Heights Elementary School,428.0,215.0,8.0,3.72%,"694 S Charlton St, St Paul, MN 55107",44.9251564,-93.0954308
+Como Park Elementary,431.0,451.0,6.0,1.33%,"780 W Wheelock Pkwy, St Paul, MN 55117",44.978207700000006,-93.1331767
+Daytons Bluff Elementary,433.0,328.0,21.0,6.40%,"262 Bates Ave, St Paul, MN 55106",44.954667,-93.0666879
+Expo For Excellence Elementary Sch,435.0,663.0,7.0,1.06%,"540 Warwick St, St Paul, MN 55116",44.9251799,-93.1621718
+Bruce F Vento Elementary,449.0,514.0,19.0,3.70%,"409 Case Ave E, St Paul, MN 55130",44.9708968,-93.08290140000001
+Eastern Heights Elementary,452.0,334.0,8.0,2.40%,"2001 Margaret St, St Paul, MN 55119",44.96158699999999,-93.0166144
+Farnsworth Aerospace Lower,458.0,479.0,6.0,1.25%,"1290 Arcade St, St Paul, MN 55106",44.98080359999999,-93.0640926
+Four Seasons Elementary,460.0,462.0,16.0,3.46%,"318 N Moore St, St Paul, MN 55104",44.950436700000004,-93.183536
+L'Etoile Du Nord French Immersion U,462.0,304.0,0.0,0.00%,"1760 Ames Pl E, St Paul, MN 55106",44.970758399999994,-93.026641
+L'Etoile Du Nord French Immersion L,463.0,173.0,0.0,0.00%,"1305 Prosperity Ave, St Paul, MN 55106",44.98051629999999,-93.03925229999999
+Frost Lake Elementary School,464.0,535.0,5.0,0.93%,"1505 Hoyt Ave E, St Paul, MN 55106",44.9885601,-93.0367747
+Crossroads Montessori,465.0,259.0,5.0,1.93%,"543 Front Ave, St Paul, MN 55117",44.970909999999996,-93.1227475
+Crossroads Science Program,466.0,290.0,3.0,1.03%,"543 Front Ave, St Paul, MN 55117",44.970909999999996,-93.1227475
+Galtier Elementary School,467.0,196.0,10.0,5.10%,"1317 Charles Ave, St Paul, MN 55104",44.9578999,-93.15607929999999
+Groveland Park Elementary,476.0,402.0,1.0,0.25%,"2045 St Clair Ave, St Paul, MN 55105",44.9345874,-93.1841441
+Hamline Elementary School,482.0,284.0,11.0,3.87%,"1599 Englewood Ave, St Paul, MN 55104",44.964667999999996,-93.168084
+Jie Ming Mandarin Immersion Academy,483.0,293.0,0.0,0.00%,"1845 Sheridan Ave W, St Paul, MN 55116",44.9021561,-93.17898570000001
+The Heights Community School,488.0,462.0,9.0,1.95%,"1863 Clear Ave E, St Paul, MN 55119",44.9823881,-93.0209262
+Hazel Park Preparatory Academy,489.0,588.0,26.0,4.42%,"1140 White Bear Ave, St Paul, MN 55106",44.9755028,-93.023897
+Highland Park Elementary,491.0,385.0,4.0,1.04%,"1700 W Saunders Ave, St Paul, MN 55116",44.9139273,-93.1700434
+Jj Hill Montessori,493.0,406.0,0.0,0.00%,"998 Selby Ave, St Paul, MN 55104",44.9462463,-93.14267729999999
+Capitol Hill Magnet/Rondo,494.0,1254.0,4.0,0.32%,"560 Concordia Ave, St Paul, MN 55103",44.9503016,-93.1223
+Highwood Hills Elementary,496.0,283.0,5.0,1.77%,"2188 Londin Ln E, St Paul, MN 55119",44.929363,-93.008086
+Jackson Preparatory Elementary,500.0,311.0,2.0,0.64%,"437 Edmund Ave W, St Paul, MN 55103",44.958794299999994,-93.11812509999999
+Linwood Monroe Arts Plus Lower,510.0,396.0,7.0,1.77%,"1023 Osceola Ave, St Paul, MN 55105",44.93609230000001,-93.1435396
+Horace Mann School,518.0,432.0,2.0,0.46%,"2001 Eleanor Ave, St Paul, MN 55116",44.921083700000004,-93.185419
+Maxfield Elementary School,524.0,282.0,37.0,13.12%,"380 N Victoria St, St Paul, MN 55104",44.95261729999999,-93.135536
+Mississippi Creative Arts Elementary,527.0,619.0,16.0,2.58%,"1575 L'Orient St, St Paul, MN 55117",44.988831,-93.0908866
+Linwood Monroe Arts Plus Upper,528.0,472.0,6.0,1.27%,"810 Palace Ave, St Paul, MN 55102",44.928376799999995,-93.1351524
+Nokomis Montessori North Campus,533.0,362.0,4.0,1.10%,"985 Ruth St N, St Paul, MN 55119",44.97086669999999,-93.01563190000002
+Nokomis Montessori South Campus,534.0,267.0,0.0,0.00%,"525 White Bear Ave, St Paul, MN 55106",44.9573338,-93.025938
+Phalen Lake Hmong Studies Magnet,541.0,651.0,1.0,0.15%,"1089 N Cypress St, St Paul, MN 55106",44.9738608,-93.0593449
+Randolph Heights Elementary,545.0,447.0,2.0,0.45%,"348 Hamline Ave S, St Paul, MN 55105",44.9310863,-93.1559271
+Riverview West School Of Excellence,551.0,391.0,5.0,1.28%,"160 Isabel St E, St Paul, MN 55107",44.9328031,-93.0767957
+Paul & Sheila Wellstone Elementary,552.0,537.0,10.0,1.86%,"1041 Marion St, St Paul, MN 55117",44.9728563,-93.1104994
+St. Anthony Park Elementary,557.0,515.0,0.0,0.00%,"2180 Knapp St, St Paul, MN 55108",44.9780331,-93.1917562
+Saint Paul Music Academy,558.0,637.0,8.0,1.26%,"27 Geranium Ave E, St Paul, MN 55117",44.97604159999999,-93.1001936
+Obama Service Learning Elementary,578.0,367.0,26.0,7.08%,"707 Holly Ave, St Paul, MN 55104",44.9436026,-93.1300544
+American Indian Magnet School,579.0,642.0,24.0,3.74%,"1075 3rd St E, St Paul, MN 55106",44.957364500000004,-93.0549594
+Armatage Elementary,103.0,615.0,4.0,0.65%,"2501 W 56th St, Minneapolis, MN 55410",44.901004,-93.311387
+Lake Harriet Lower Elementary,104.0,503.0,0.0,0.00%,"4030 Chowen Ave S, Minneapolis, MN 55410",44.92918040000001,-93.3262216
+Bancroft Elementary,105.0,505.0,1.0,0.20%,"1315 E 38th St, Minneapolis, MN 55407",44.9337991,-93.2555732
+Barton Open Elementary,106.0,699.0,0.0,0.00%,"4237 Colfax Ave S, Minneapolis, MN 55409",44.92545399999999,-93.2912189
+Bethune Elementary,107.0,310.0,18.0,5.81%,"919 Emerson Ave N, Minneapolis, MN 55411",44.987648799999995,-93.29531870000001
+Burroughs Elementary,110.0,740.0,0.0,0.00%,"1601 W 50th St, Minneapolis, MN 55419",44.91170090000001,-93.3004194
+Field Community,119.0,517.0,1.0,0.19%,"4645 4th Ave S, Minneapolis, MN 55419",44.9184848,-93.26983620000001
+Lake Harriet Upper School,121.0,634.0,0.0,0.00%,"4912 Vincent Ave S, Minneapolis, MN 55410",44.91355679999999,-93.3169375
+Hale Elementary,123.0,645.0,1.0,0.16%,"5330 13th Ave S, Minneapolis, MN 55417",44.9061685,-93.2567911
+Hiawatha Elementary,130.0,248.0,0.0,0.00%,"4201 42nd Ave S, Minneapolis, MN 55406",44.926551200000006,-93.21227320000001
+Howe Elementary,132.0,224.0,1.0,0.45%,"3733 43rd Ave S, Minneapolis, MN 55406",44.9348426,-93.2108858
+Lk Nokomis Comm-Keewaydin Campus,134.0,463.0,6.0,1.30%,"5209 30th Ave S, Minneapolis, MN 55417",44.908198299999995,-93.2289051
+Kenny Elementary,135.0,478.0,5.0,1.05%,"5720 Emerson Ave S, Minneapolis, MN 55419",44.899005700000004,-93.29554370000001
+Kenwood Elementary,136.0,401.0,1.0,0.25%,"2013 Penn Ave S, Minneapolis, MN 55405",44.9621638,-93.30775190000001
+Loring Elementary,140.0,403.0,2.0,0.50%,"2600 N 44th Ave, Minneapolis, MN 55412",45.0359989,-93.3135523
+Lyndale Elementary,144.0,495.0,5.0,1.01%,"312 W 34th St, Minneapolis, MN 55408",44.9417057,-93.283671
+Jenny Lind Elementary,151.0,389.0,17.0,4.37%,"5025 Bryant Ave N, Minneapolis, MN 55430",45.0466854,-93.2923106
+Northrop Elementary,152.0,493.0,2.0,0.41%,"4315 S 31st Ave, Minneapolis, MN 55406",44.924452,-93.22654920000001
+Pillsbury Elementary,155.0,322.0,14.0,4.35%,"2250 NE Garfield St, Minneapolis, MN 55418",45.010763399999995,-93.2340772
+Pratt Elementary,156.0,274.0,2.0,0.73%,"66 Malcolm Ave SE, Minneapolis, MN 55414",44.9690028,-93.214034
+Seward Elementary,160.0,846.0,2.0,0.24%,"2309 S 28th Ave, Minneapolis, MN 55406",44.9600905,-93.2309804
+Sheridan Elementary,161.0,276.0,6.0,2.17%,"1201 University Ave NE, Minneapolis, MN 55413",44.9991024,-93.2620418
+Waite Park Elementary,165.0,409.0,1.0,0.24%,"1800 34th Ave NE, Minneapolis, MN 55418",45.0301072,-93.2345818
+Lk Nokomis Comm-Wenonah Campus,167.0,283.0,1.0,0.35%,"5625 23rd Ave S, Minneapolis, MN 55417",44.9009304,-93.2383296
+Windom School,170.0,581.0,0.0,0.00%,"5821 Wentworth Ave, Minneapolis, MN 55419",44.896914,-93.280074
+Folwell Arts Magnet,175.0,814.0,14.0,1.72%,"3611 20th Ave S, Minneapolis, MN 55407",44.9373319,-93.2428068
+Jefferson Elementary,179.0,480.0,4.0,0.83%,"11331 Jefferson St NE, Blaine, MN 55434",45.176969,-93.25401590000001
+Dowling Elementary,180.0,477.0,0.0,0.00%,"3900 W River Pkwy, Minneapolis, MN 55406",44.932331500000004,-93.20396540000002
+Andersen Community,190.0,890.0,50.0,5.62%,"1098 Andersen Ln, Minneapolis, MN 55407",44.9533496,-93.25867690000001
+Sullivan Elementary,193.0,587.0,60.0,10.22%,"3100 E 28th St, Minneapolis, MN 55406",44.952659000000004,-93.22647070000001
+Webster Elementary,215.0,297.0,2.0,0.67%,"425 5th St NE, Minneapolis, MN 55413",44.9943824,-93.2562151
+Anishinabe Academy,225.0,255.0,24.0,9.41%,"3100 E 28th St, Minneapolis, MN 55406",44.952659000000004,-93.22647070000001
+Marcy Open Elementary,226.0,739.0,3.0,0.41%,"415 4th Ave SE, Minneapolis, MN 55414",44.9866816,-93.2498215
+Bryn Mawr Elementary,249.0,340.0,5.0,1.47%,"252 Upton Ave S, Minneapolis, MN 55405",44.973970200000004,-93.3169914
+Green Central Park Elementary,256.0,323.0,3.0,0.93%,"3416 4th Ave S, Minneapolis, MN 55408",44.94002529999999,-93.2710938
+Emerson Elementary,260.0,489.0,3.0,0.61%,"1421 Spruce Pl, Minneapolis, MN 55403",44.968248100000004,-93.2804579
+Lucy Laney @ Cleveland Park Elem.,282.0,456.0,19.0,4.17%,"3333 Penn Ave N, Minneapolis, MN 55412",45.015994,-93.3088641
+Hall International,287.0,235.0,11.0,4.68%,"1601 Aldrich Ave N, Minneapolis, MN 55411",44.9958245,-93.28994
+Nellie Stone Johnson Elementary,288.0,427.0,23.0,5.39%,"807 N 27th Ave, Minneapolis, MN 55411",45.0070463,-93.2902821
+Whittier International,289.0,528.0,3.0,0.57%,"315 W 26th St, Minneapolis, MN 55404",44.9547488,-93.2839143
+Hmong International Academy,291.0,525.0,10.0,1.90%,"1501 N 30th Ave, Minneapolis, MN 55411",45.01060469999999,-93.2984375
+Cityview Community,293.0,327.0,26.0,7.95%,"3350 N 4th St, Minneapolis, MN 55412",45.01605439999999,-93.2839668
+Anthony Middle School,300.0,781.0,1.0,0.13%,"5757 Irving Ave S, Minneapolis, MN 55419",44.89846199999999,-93.29895100000002
+Anwatin Middle Com & Spanish D I,309.0,555.0,7.0,1.26%,"256 Upton Ave S, Minneapolis, MN 55405",44.973612100000004,-93.31647020000001
+Northeast Middle,316.0,502.0,17.0,3.39%,"2955 Hayes St NE, Minneapolis, MN 55418",45.0214943,-93.2343793
+Olson Middle,318.0,387.0,11.0,2.84%,"1607 51st Ave N, Minneapolis, MN 55430",45.046521999999996,-93.3010377
+Justice Page Middle School,323.0,844.0,3.0,0.36%,"1 W 49th St, Minneapolis, MN 55419",44.9132658,-93.2789541
+Sanford Middle,324.0,970.0,10.0,1.03%,"3524 42nd Ave S, Minneapolis, MN 55406",44.938672499999996,-93.2133587
+Franklin Middle School,327.0,368.0,12.0,3.26%,"1501 Aldrich Ave N, Minneapolis, MN 55412",44.9939916,-93.29028220000001
+Fair Senior High,347.0,223.0,1.0,0.45%,"10 S 10th St, Minneapolis, MN 55403",44.9756607,-93.2774017
+Edison Senior High,352.0,1005.0,29.0,2.89%,"700 22nd Ave NE, Minneapolis, MN 55418",45.0093165,-93.25167640000001
+Henry Senior High,354.0,1057.0,18.0,1.70%,"4320 N Newton Ave, Minneapolis, MN 55412",45.0344106,-93.3053761
+Roosevelt Senior High,360.0,1014.0,13.0,1.28%,"4029 S 28th Ave, Minneapolis, MN 55406",44.9295149,-93.2305542
+South Senior High,362.0,1739.0,24.0,1.38%,"3131 S 19th Ave, Minneapolis, MN 55407",44.94559960000001,-93.2442208
+Wellstone International High,363.0,208.0,5.0,2.40%,"3328 Elliot Ave, Minneapolis, MN 55407",44.9417519,-93.261663
+Southwest Senior High,364.0,1923.0,0.0,0.00%,"3414 W 47th St, Minneapolis, MN 55410",44.9182547,-93.3234571
+Washburn Senior High,368.0,1632.0,5.0,0.31%,"201 W 49th St, Minneapolis, MN 55419",44.9135166,-93.2824163
+North Academy Senior High,375.0,447.0,1.0,0.22%,"1500 James Ave N, Minneapolis, MN 55411",44.9941373,-93.30068490000001
