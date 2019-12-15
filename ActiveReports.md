@@ -18,7 +18,7 @@ Here is a list of current datasets/projects. Most projects have data taken direc
 * Interactive Report/Notebook: [Frogtown, MN, Crime Map 10/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Frogtown%20Crime_Map/FG_Crime_Map.ipynb)
 
 3) [Saint Paul Vacant Buldings Dataset](https://information.stpaul.gov/Buildings-Housing-Economic-Development/Vacant-Buildings-Dataset/fgbn-288b)
-* Last Report Made: May 7nd, 2019 | Update Rate: Monthly?
+* Last Report Made: Decemeber 15, 2019 | Update Rate: Monthly?
 * Description: List all the current "vacant" buildings based on their starting vacancy date. The report will look different depending on time it is run.
 * Row Entry: Vacant Building | Geo-Identifier: [Ward](https://information.stpaul.gov/City-Administration/Council-Ward-Shapefile-Map/tseu-m286) / [Neighborhood](https://information.stpaul.gov/City-Administration/District-Council-Shapefile-Map/dq4n-yj8b) / Census tract 
 * Initial Data-Clean: Yes
