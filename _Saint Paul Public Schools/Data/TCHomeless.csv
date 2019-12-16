@@ -1,9 +1,13 @@
 School,Num,Tot_Enroll,Homeless_Count,Homeless%,Address,Latitude,Longitude
 Central Senior High,210.0,1795.0,26.0,1.45%,"275 Lexington Pkwy N., St Paul, MN 55104",44.949443200000005,-93.1481055
+Creative Arts Secondary School,211.0,439.0,14.0,3.19%,"65 E Kellogg Blvd, St Paul, MN 55101",44.9451284,-93.0909188
 Como Park Senior High,212.0,1307.0,22.0,1.68%,"740 Rose Ave W, St Paul, MN 55117",44.975998100000005,-93.1312462
 Harding Senior High,215.0,1908.0,28.0,1.47%,"1540 6th St E, St Paul, MN 55106",44.959468900000005,-93.0360568
 Highland Park Senior High,220.0,1328.0,5.0,0.38%,"1015 Snelling Ave S, St Paul, MN 55116",44.909962,-93.1683962
+Humboldt High School,225.0,1187.0,27.0,2.27%,"30 Baker St E, St Paul, MN 55107",44.9259731,-93.08407659999999
 Johnson Senior High,230.0,1295.0,14.0,1.08%,"1349 Arcade St, St Paul, MN 55106",44.98136179999999,-93.0672763
+Open World Learning Secondary,250.0,452.0,2.0,0.44%,"640 Humboldt Ave, St Paul, MN 55107",44.9266188,-93.0844681
+Washington Tech Secondary Magnet,252.0,2083.0,17.0,0.82%,"1495 Rice St, St Paul, MN 55117",44.987036700000004,-93.1113717
 Battle Creek Middle,310.0,750.0,18.0,2.40%,"2121 N Park Dr, St Paul, MN 55119",44.9456836,-93.0117856
 Farnsworth Aerospace Upper,315.0,643.0,11.0,1.71%,"1000 N Walsh St, St Paul, MN 55106",44.97163700000001,-93.0688803
 Highland Park Middle School,330.0,804.0,5.0,0.62%,"975 S, Snelling Ave S, St Paul, MN 55116",44.9114282,-93.1681431
@@ -112,3 +116,4 @@ Wellstone International High,363.0,208.0,5.0,2.40%,"3328 Elliot Ave, Minneapolis
 Southwest Senior High,364.0,1923.0,0.0,0.00%,"3414 W 47th St, Minneapolis, MN 55410",44.9182547,-93.3234571
 Washburn Senior High,368.0,1632.0,5.0,0.31%,"201 W 49th St, Minneapolis, MN 55419",44.9135166,-93.2824163
 North Academy Senior High,375.0,447.0,1.0,0.22%,"1500 James Ave N, Minneapolis, MN 55411",44.9941373,-93.30068490000001
+Heritage Stem Academy,390.0,203.0,3.0,1.48%,"1042 18th Ave SE, Minneapolis, MN 55414",44.988997600000005,-93.226216
