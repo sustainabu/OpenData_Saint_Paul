@@ -1,0 +1,54 @@
+School,Grade,Total_Tested,Proficiency,White%,Asian%,Black%,ELL%,SPED%,FRPL%,Ranking,Address,Latitude,Longitude
+Adams Magnet Elementary,12.0,265.0,47.92,26.0,0.0,13.0,20.0,8.0,49.0,4,"615 S Chatsworth St, St Paul, MN 55102",44.923751,-93.143046
+American Indian Magnet School,33.0,392.0,15.82,5.0,28.0,16.0,28.0,21.0,83.0,1,"1075 3rd St E, St Paul, MN 55106",44.957364500000004,-93.0549594
+Battle Creek Elementary School,12.0,203.0,35.47,10.0,35.0,32.0,36.0,15.0,76.0,2,"60 Ruth St S, St Paul, MN 55119",44.9397245,-93.0138965
+Battle Creek Middle,21.0,731.0,25.44,5.0,40.0,36.0,32.0,16.0,80.0,1,"2121 N Park Dr, St Paul, MN 55119",44.9456836,-93.0117856
+Benjamin E Mays Magnet,12.0,181.0,19.89,2.0,13.0,72.0,22.0,18.0,83.0,1,"560 Concordia Ave, St Paul, MN 55103",44.9503016,-93.1223
+Bruce F Vento Elementary,12.0,228.0,22.37,4.0,46.0,31.0,39.0,17.0,91.0,1,"409 Case Ave E, St Paul, MN 55130",44.9708968,-93.08290140000001
+Capitol Hill Magnet/Rondo,33.0,1044.0,69.64,37.0,25.0,24.0,9.0,6.0,44.0,4,"560 Concordia Ave, St Paul, MN 55103",44.9503016,-93.1223
+Chelsea Heights Elementary,12.0,220.0,56.36,46.0,10.0,22.0,13.0,14.0,50.0,4,"1557 Huron St, St Paul, MN 55108",44.987962700000004,-93.1560082
+Cherokee Heights Elementary School,12.0,91.0,20.88,12.0,8.0,23.0,31.0,21.0,81.0,1,"694 S Charlton St, St Paul, MN 55107",44.9251564,-93.0954308
+Como Park Elementary,12.0,212.0,39.62,12.0,46.0,22.0,43.0,17.0,81.0,3,"780 W Wheelock Pkwy, St Paul, MN 55117",44.978207700000006,-93.1331767
+Creative Arts Secondary School,21.0,231.0,34.2,17.0,22.0,33.0,16.0,13.0,76.0,2,"65 E Kellogg Blvd, St Paul, MN 55101",44.9451284,-93.0909188
+Crossroads Montessori,12.0,86.0,41.86,21.0,22.0,22.0,15.0,12.0,63.0,3,"543 Front Ave, St Paul, MN 55117",44.970909999999996,-93.1227475
+Crossroads Science Program,12.0,146.0,34.93,9.0,26.0,47.0,19.0,12.0,75.0,2,"543 Front Ave, St Paul, MN 55117",44.970909999999996,-93.1227475
+Daytons Bluff Elementary,12.0,142.0,18.31,8.0,23.0,44.0,25.0,20.0,83.0,1,"262 Bates Ave, St Paul, MN 55106",44.954667,-93.0666879
+Eastern Heights Elementary,12.0,139.0,28.06,11.0,40.0,22.0,45.0,19.0,76.0,1,"2001 Margaret St, St Paul, MN 55119",44.96158699999999,-93.0166144
+Expo For Excellence Elementary Sch,12.0,313.0,61.02,54.0,5.0,26.0,11.0,15.0,36.0,4,"540 Warwick St, St Paul, MN 55116",44.9251799,-93.1621718
+Farnsworth Aerospace Lower,7.0,206.0,32.52,8.0,68.0,11.0,57.0,9.0,73.0,2,"1290 Arcade St, St Paul, MN 55106",44.98080359999999,-93.0640926
+Farnsworth Aerospace Upper,26.0,618.0,32.36,5.0,61.0,18.0,31.0,13.0,78.0,2,"1000 N Walsh St, St Paul, MN 55106",44.97163700000001,-93.0688803
+Four Seasons Elementary,12.0,225.0,15.11,15.0,17.0,42.0,40.0,16.0,80.0,1,"318 N Moore St, St Paul, MN 55104",44.950436700000004,-93.183536
+Frost Lake Elementary School,12.0,239.0,25.1,7.0,47.0,25.0,51.0,15.0,84.0,1,"1505 Hoyt Ave E, St Paul, MN 55106",44.9885601,-93.0367747
+Galtier Elementary School,12.0,71.0,23.94,18.0,15.0,39.0,27.0,13.0,73.0,1,"1317 Charles Ave, St Paul, MN 55104",44.9578999,-93.15607929999999
+Groveland Park Elementary,12.0,189.0,56.08,44.0,5.0,30.0,14.0,14.0,50.0,4,"2045 St Clair Ave, St Paul, MN 55105",44.9345874,-93.1841441
+Hamline Elementary School,12.0,133.0,33.08,14.0,10.0,54.0,22.0,15.0,71.0,2,"1599 Englewood Ave, St Paul, MN 55104",44.964667999999996,-93.168084
+Hazel Park Preparatory Academy,33.0,438.0,21.69,3.0,31.0,46.0,24.0,16.0,89.0,1,"1140 White Bear Ave, St Paul, MN 55106",44.9755028,-93.023897
+Highland Park Elementary,12.0,197.0,43.15,27.0,10.0,48.0,30.0,7.0,63.0,3,"1700 W Saunders Ave, St Paul, MN 55116",44.9139273,-93.1700434
+Highland Park Middle School,21.0,774.0,55.94,40.0,5.0,19.0,11.0,10.0,47.0,4,"975 S, Snelling Ave S, St Paul, MN 55116",44.9114282,-93.1681431
+Highwood Hills Elementary,12.0,113.0,21.24,4.0,25.0,53.0,49.0,16.0,88.0,1,"2188 Londin Ln E, St Paul, MN 55119",44.929363,-93.008086
+Horace Mann School,12.0,196.0,77.55,68.0,4.0,10.0,8.0,12.0,19.0,4,"2001 Eleanor Ave, St Paul, MN 55116",44.921083700000004,-93.185419
+Humboldt High School,21.0,461.0,22.56,6.0,42.0,27.0,44.0,15.0,86.0,1,"30 Baker St E, St Paul, MN 55107",44.9259731,-93.08407659999999
+Jackson Preparatory Elementary,12.0,148.0,22.3,1.0,58.0,27.0,53.0,13.0,86.0,1,"437 Edmund Ave W, St Paul, MN 55103",44.958794299999994,-93.11812509999999
+Jie Ming Mandarin Immersion Academy,12.0,80.0,86.25,30.0,34.0,4.0,16.0,1.0,20.0,4,"1845 Sheridan Ave W, St Paul, MN 55116",44.9021561,-93.17898570000001
+Jj Hill Montessori,12.0,153.0,52.94,47.0,7.0,26.0,22.0,12.0,37.0,4,"998 Selby Ave, St Paul, MN 55104",44.9462463,-93.14267729999999
+John A. Johnson Achievement Plus El.,12.0,156.0,19.87,6.0,26.0,43.0,29.0,14.0,89.0,1,"740 York Ave, St Paul, MN 55106",44.96802599999999,-93.06880090000001
+L'Etoile Du Nord French Immersion U,12.0,202.0,71.78,51.0,4.0,21.0,12.0,4.0,29.0,4,"1760 Ames Pl E, St Paul, MN 55106",44.970758399999994,-93.026641
+Linwood Monroe Arts Plus Lower,7.0,157.0,36.31,32.0,27.0,20.0,41.0,22.0,69.0,2,"1023 Osceola Ave, St Paul, MN 55105",44.93609230000001,-93.1435396
+Linwood Monroe Arts Plus Upper,26.0,470.0,43.4,28.0,19.0,33.0,29.0,20.0,66.0,3,"810 Palace Ave, St Paul, MN 55102",44.928376799999995,-93.1351524
+Maxfield Elementary School,12.0,124.0,16.94,6.0,6.0,69.0,8.0,19.0,82.0,1,"380 N Victoria St, St Paul, MN 55104",44.95261729999999,-93.135536
+Mississippi Creative Arts Elementary,12.0,273.0,24.91,5.0,50.0,23.0,56.0,12.0,88.0,1,"1575 L'Orient St, St Paul, MN 55117",44.988831,-93.0908866
+Murray Middle School,21.0,673.0,46.06,36.0,20.0,24.0,17.0,14.0,58.0,4,"2200 Buford Ave, St Paul, MN 55108",44.9844951,-93.1931289
+Nokomis Montessori North Campus,12.0,134.0,38.06,28.0,49.0,11.0,36.0,17.0,60.0,3,"985 Ruth St N, St Paul, MN 55119",44.97086669999999,-93.01563190000002
+Nokomis Montessori South Campus,12.0,115.0,38.26,23.0,43.0,13.0,32.0,17.0,55.0,3,"525 White Bear Ave, St Paul, MN 55106",44.9573338,-93.025938
+Obama Service Learning Elementary,12.0,133.0,16.54,4.0,8.0,73.0,14.0,20.0,88.0,1,"707 Holly Ave, St Paul, MN 55104",44.9436026,-93.1300544
+Open World Learning Secondary,21.0,200.0,64.0,54.0,12.0,10.0,6.0,14.0,31.0,4,"640 Humboldt Ave, St Paul, MN 55107",44.9266188,-93.0844681
+Parkway Montessori/Community Middle,21.0,423.0,29.55,14.0,45.0,22.0,24.0,21.0,76.0,1,"1363 Bush Ave, St Paul, MN 55106",44.9654834,-93.0428322
+Paul & Sheila Wellstone Elementary,12.0,261.0,26.05,4.0,18.0,20.0,54.0,18.0,85.0,1,"1041 Marion St, St Paul, MN 55117",44.9728563,-93.1104994
+Phalen Lake Hmong Studies Magnet,12.0,287.0,32.75,1.0,86.0,3.0,66.0,7.0,83.0,2,"1089 N Cypress St, St Paul, MN 55106",44.9738608,-93.0593449
+Ramsey Middle School,21.0,531.0,38.79,25.0,15.0,44.0,10.0,12.0,63.0,3,"1700 Summit Ave, St Paul, MN 55105",44.940839700000005,-93.1722396
+Randolph Heights Elementary,12.0,214.0,76.64,64.0,7.0,13.0,9.0,6.0,32.0,4,"348 Hamline Ave S, St Paul, MN 55105",44.9310863,-93.1559271
+Riverview West School Of Excellence,12.0,169.0,18.93,6.0,4.0,22.0,46.0,11.0,75.0,1,"160 Isabel St E, St Paul, MN 55107",44.9328031,-93.0767957
+Saint Paul Music Academy,12.0,308.0,31.82,5.0,55.0,22.0,54.0,19.0,90.0,2,"27 Geranium Ave E, St Paul, MN 55117",44.97604159999999,-93.1001936
+St. Anthony Park Elementary,12.0,239.0,67.36,60.0,10.0,12.0,14.0,14.0,26.0,4,"2180 Knapp St, St Paul, MN 55108",44.9780331,-93.1917562
+The Heights Community School,12.0,218.0,23.85,9.0,36.0,28.0,35.0,14.0,70.0,1,"1863 Clear Ave E, St Paul, MN 55119",44.9823881,-93.0209262
+Washington Tech Secondary Magnet,21.0,961.0,28.1,5.0,51.0,27.0,38.0,14.0,88.0,1,"1495 Rice St, St Paul, MN 55117",44.987036700000004,-93.1113717
