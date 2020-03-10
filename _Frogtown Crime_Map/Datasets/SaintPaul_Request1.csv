@@ -1,0 +1,489 @@
+Grid,Date,Block,CallDisposition,Incident,IncType,Neighborhood
+107.0,2020-01-29 21:25:44,44x lexington pa n,Gone on Arrival,Auto Theft,Motor Vehicle Theft,8 - Summit/University
+107.0,2020-01-25 18:08:00,101x carroll av,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",8 - Summit/University
+107.0,2020-01-25 00:14:12,97x iglehart av,Gone on Arrival,Discharge,"Weapons, Discharging a Firearm in the City Limits",8 - Summit/University
+107.0,2020-01-20 17:00:00,86x central av w,Report Written,Auto Theft,"Motor Vehicle Theft, All Other Vehicles",8 - Summit/University
+107.0,2020-01-19 08:51:49,91x central av w,Advised,Auto Theft,Motor Vehicle Theft,8 - Summit/University
+107.0,2020-01-18 13:35:18,90x aurora av,Advised,Theft,"Theft, Except Auto Theft",8 - Summit/University
+107.0,2020-01-13 00:00:00,97x carroll av,Report Written,Auto Theft,"Motor Vehicle Theft, Trucks and Buses",8 - Summit/University
+107.0,2020-01-11 10:30:00,27x lexington pa n,Report Written,Theft,"Theft, From Auto, Under $500",8 - Summit/University
+107.0,2020-01-04 19:05:21,97x university av w,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",8 - Summit/University
+107.0,2020-01-04 16:47:11,44x lexington pa n,Advised,Theft,"Theft, Except Auto Theft",8 - Summit/University
+107.0,2020-01-03 03:59:09,96x university av w,Report Written,Arson,Arson,8 - Summit/University
+107.0,2020-01-02 06:20:00,99x carroll av,Report Written,Auto Theft,"Motor Vehicle Theft, All Other Vehicles",8 - Summit/University
+107.0,2020-01-02 01:10:52,87x fuller av,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",8 - Summit/University
+107.0,2020-01-01 18:13:00,concordia av  & victoria,Report Written,Narcotics,"Narcotics, Possession of Cocaine",8 - Summit/University
+107.0,2019-12-31 18:00:00,86x aurora av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",8 - Summit/University
+107.0,2019-12-30 09:12:00,90x fuller av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",8 - Summit/University
+107.0,2019-12-29 03:34:51,98x fuller av,Advised,Narcotics,Narcotics,8 - Summit/University
+107.0,2019-12-27 14:40:00,94x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",8 - Summit/University
+107.0,2019-12-20 22:15:00,42x oxford st n,Report Written,Vandalism,"Criminal Damage to Property (Gross Mis., $250-$500)",8 - Summit/University
+107.0,2019-12-16 04:27:00,90x fuller av,Report Written,Burglary,"Burglary, Forced Entry, Night, Residence, Occupied",8 - Summit/University
+107.0,2019-12-16 02:30:00,93x concordia av,Report Written,Burglary,"Burglary, Forced Entry, Night, Residence",8 - Summit/University
+107.0,2019-12-15 13:40:00,37x lexington pa n,Report Written,Theft,"Theft, All Other, Under $500",8 - Summit/University
+107.0,2019-12-13 06:07:00,93x concordia av,Report Written,Theft,Theft - Mail/Package,8 - Summit/University
+107.0,2019-12-10 15:25:52,97x university av w,Advised,Theft,"Theft, Except Auto Theft",8 - Summit/University
+107.0,2019-12-09 00:00:00,95x aurora av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",8 - Summit/University
+107.0,2019-12-07 20:11:33,lexington pa n & marshall,Advised,Auto Theft,Motor Vehicle Theft,8 - Summit/University
+107.0,2019-12-06 18:00:00,100x carroll av,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",8 - Summit/University
+107.0,2019-12-05 06:30:00,37x lexington pa n,Report Written,Theft,"Theft, All Other, Over $1000",8 - Summit/University
+107.0,2019-12-03 14:53:00,101x carroll av,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",8 - Summit/University
+107.0,2019-12-02 15:55:00,95x fuller av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",8 - Summit/University
+107.0,2019-12-01 06:29:11,42x oxford st n,Advised,Theft,"Theft, Except Auto Theft",8 - Summit/University
+106.0,2020-01-28 08:22:22,112x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-27 23:04:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-27 19:38:53,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-27 17:45:00,124x stanthony av,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",13 - Union Park
+106.0,2020-01-27 09:35:00,128x concordia av,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2020-01-27 08:00:00,128x concordia av,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2020-01-27 03:01:00,130x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2020-01-26 18:50:00,130x university av w,Report Written,Theft,"Theft, Purse Snatching, $501 to $1000",13 - Union Park
+106.0,2020-01-26 17:21:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-26 16:09:00,39x lexington pa n,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",13 - Union Park
+106.0,2020-01-26 15:15:00,130x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+106.0,2020-01-25 22:02:01,130x university av w,Advised,Theft,"Theft, Shoplifting",13 - Union Park
+106.0,2020-01-25 17:11:40,130x university av w,Advised,Theft,"Theft, Shoplifting",13 - Union Park
+106.0,2020-01-24 20:59:28,112x university av w,Gone on Arrival,Narcotics,Narcotics,13 - Union Park
+106.0,2020-01-24 18:20:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-24 17:23:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-23 22:54:42,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-23 19:37:00,27x lexington pa n,Report Written,Theft,"Theft, Pocket Picking, Over $1000",13 - Union Park
+106.0,2020-01-21 20:58:33,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-21 11:46:14,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-21 07:23:00,130x university av w,Report Written,Theft,"Theft, All Other, $501 to $1000",13 - Union Park
+106.0,2020-01-20 13:30:00,130x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2020-01-18 23:04:58,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-18 20:06:03,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-17 12:30:00,40x dunlap st n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+106.0,2020-01-15 17:08:00,130x university av w,Report Written,Theft,"Theft, From Auto, Over $1000",13 - Union Park
+106.0,2020-01-15 13:36:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-15 10:55:17,griggs st n & carroll,Report Written,Theft,"Theft, From Auto",13 - Union Park
+106.0,2020-01-14 15:41:51,130x university av w,Advised,Theft,"Theft, Shoplifting",13 - Union Park
+106.0,2020-01-14 15:22:00,130x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+106.0,2020-01-13 14:30:00,27x lexington pa n,Report Written,Theft,"Theft, All Other, Over $1000",13 - Union Park
+106.0,2020-01-12 15:25:12,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-12 14:42:26,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-12 13:10:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-11 17:18:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-11 14:00:00,130x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2020-01-10 13:10:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-10 12:20:44,27x lexington pa n,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-09 20:00:00,127x university av w,Report Written,Graffiti,Graffiti,13 - Union Park
+106.0,2020-01-09 19:22:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-09 14:00:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2020-01-08 21:45:00,130x university av w,Report Written,Theft,"Theft, All Other, $501 to $1000",13 - Union Park
+106.0,2020-01-08 17:17:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Over $1000",13 - Union Park
+106.0,2020-01-08 12:00:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, $501 to $1000",13 - Union Park
+106.0,2020-01-06 10:30:12,112x university av w,Gone on Arrival,Narcotics,Narcotics,13 - Union Park
+106.0,2020-01-05 18:22:11,130x university av w,Advised,Theft,"Theft, From Auto",13 - Union Park
+106.0,2020-01-03 23:06:43,130x university av w,Report Written,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-03 07:30:12,39x lexington pa n,Gone on Arrival,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2020-01-01 08:00:00,130x university av w,Report Written,Theft,"Theft, From Auto, Under $500",13 - Union Park
+106.0,2019-12-31 19:30:00,119x university av w,Report Written,Vandalism,"Criminal Damage to Property (Gross Mis., $250-$500)",13 - Union Park
+106.0,2019-12-31 18:37:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-31 10:30:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-31 08:33:55,128x concordia av,Advised,Auto Theft,Motor Vehicle Theft,13 - Union Park
+106.0,2019-12-30 10:22:49,113x university av w,Gone on Arrival,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-30 09:45:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-29 19:36:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-29 17:25:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-29 12:45:00,47x hamline av n,Report Written,Theft,"Theft, Shoplifting, $501 to $1000",13 - Union Park
+106.0,2019-12-28 17:22:00,130x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2019-12-28 08:45:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-27 18:52:00,130x university av w,Report Written,Theft,"Theft, All Other, Over $1000",13 - Union Park
+106.0,2019-12-27 11:53:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-27 00:00:00,125x concordia av,Report Written,Theft,"Theft, From Auto, $501 to $1000",13 - Union Park
+106.0,2019-12-26 13:14:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-24 22:18:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-24 18:04:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-24 15:59:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-24 12:29:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, $501 to $1000",13 - Union Park
+106.0,2019-12-23 21:01:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-23 15:00:00,130x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2019-12-23 10:19:56,130x university av w,Gone on Arrival,Auto Theft,Motor Vehicle Theft,13 - Union Park
+106.0,2019-12-22 16:33:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-22 12:08:51,112x university av w,Advised,Narcotics,Narcotics,13 - Union Park
+106.0,2019-12-22 09:51:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-21 19:52:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, $501 to $1000",13 - Union Park
+106.0,2019-12-21 16:32:19,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-21 13:28:42,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-20 14:24:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-20 10:46:00,45x syndicate st n,Advised,Theft,"Theft, From Auto",13 - Union Park
+106.0,2019-12-19 11:39:46,27x lexington pa n,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-18 19:51:29,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-18 18:33:15,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-18 15:15:00,130x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2019-12-18 13:41:51,130x university av w,Report Written,Theft,"Theft, Shoplifting",13 - Union Park
+106.0,2019-12-17 23:16:58,130x university av w,Report Written,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-17 14:01:00,112x university av w,Report Written,Agg. Assault,"Aggravated Assault, Firearm",13 - Union Park
+106.0,2019-12-17 11:00:00,27x lexington pa n,Report Written,Narcotics,"Narcotics, Possession of Marijuana",13 - Union Park
+106.0,2019-12-17 09:45:00,27x lexington pa n,Report Written,Narcotics,"Narcotics, Possession of Marijuana",13 - Union Park
+106.0,2019-12-16 17:00:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-16 12:57:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-15 11:23:36,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-15 08:07:02,39x lexington pa n,Advised,Narcotics,Narcotics,13 - Union Park
+106.0,2019-12-15 00:33:04,130x university av w,Advised,Theft,"Theft, Shoplifting",13 - Union Park
+106.0,2019-12-13 21:43:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, $501 to $1000",13 - Union Park
+106.0,2019-12-13 19:00:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-13 18:45:52,130x university av w,Advised,Theft,"Theft, Shoplifting",13 - Union Park
+106.0,2019-12-13 17:08:02,130x university av w,Advised,Theft,"Theft, Shoplifting",13 - Union Park
+106.0,2019-12-13 10:18:00,130x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2019-12-12 20:29:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-12 14:44:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-12 00:03:00,130x university av w,Report Written,Narcotics,"Narcotics, Possession of Methamphetamine",13 - Union Park
+106.0,2019-12-11 22:09:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-11 11:24:24,115x central av w,Gone on Arrival,Narcotics,Narcotics,13 - Union Park
+106.0,2019-12-09 17:01:00,124x stanthony av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+106.0,2019-12-09 13:51:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-08 16:02:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-08 14:13:00,130x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+106.0,2019-12-07 19:47:00,130x university av w,Report Written,Theft,"Theft, From Auto, $501 to $1000",13 - Union Park
+106.0,2019-12-07 15:25:00,39x lexington pa n,Report Written,Robbery,"Robbery, Highway, By Strong Arm",13 - Union Park
+106.0,2019-12-07 11:48:29,113x university av w,Gone on Arrival,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-03 19:15:38,130x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+106.0,2019-12-02 14:34:00,130x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+106.0,2019-12-01 21:20:00,31x hamline av n,Report Written,Theft,"Theft, From Auto, Under $500",13 - Union Park
+106.0,2019-12-01 20:40:00,130x university av w,Report Written,Theft,"Theft, All Other, $501 to $1000",13 - Union Park
+105.0,2020-01-28 19:39:13,153x university av w,Advised,Narcotics,Narcotics,13 - Union Park
+105.0,2020-01-28 13:56:48,144x university av w,Report Written,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-27 16:54:00,38x hamline av n,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",13 - Union Park
+105.0,2020-01-26 18:20:00,27x snelling av n,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",13 - Union Park
+105.0,2020-01-23 02:45:35,157x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-21 22:38:22,134x marshall av,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-20 19:03:35,144x university av w,Report Written,Theft,"Theft, Shoplifting",13 - Union Park
+105.0,2020-01-18 15:14:49,144x university av w,Report Written,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-16 19:29:41,156x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-13 20:20:22,153x university av w,Advised,Narcotics,Narcotics,13 - Union Park
+105.0,2020-01-13 17:20:00,137x university av w,Report Written,Theft,"Theft, From Auto, Under $500",13 - Union Park
+105.0,2020-01-11 17:15:43,141x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-10 23:10:00,137x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+105.0,2020-01-10 22:45:00,i94 fw w & snelling,Gone on Arrival,Graffiti,Graffiti,13 - Union Park
+105.0,2020-01-09 07:45:00,134x marshall av,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+105.0,2020-01-08 14:20:00,144x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+105.0,2020-01-08 09:00:00,144x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+105.0,2020-01-07 15:14:00,149x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+105.0,2020-01-06 18:23:00,157x university av w,Report Written,Agg. Assault,"Aggravated Assault, Other Dangerous Weapons",13 - Union Park
+105.0,2020-01-04 20:57:49,144x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-03 13:50:16,144x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-03 04:24:00,154x university av w,Report Written,Burglary,"Burglary, Forced Entry, Night, Commercial",13 - Union Park
+105.0,2020-01-01 18:01:03,144x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-01 17:23:59,144x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2020-01-01 15:49:30,144x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-31 00:00:00,137x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+105.0,2019-12-30 17:50:48,144x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-28 17:17:39,155x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-23 11:40:36,141x university av w,Gone on Arrival,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-23 11:22:00,144x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+105.0,2019-12-21 12:30:00,28x hamline av n,Report Written,Theft,"Theft, From Auto, Under $500",13 - Union Park
+105.0,2019-12-20 09:15:15,157x university av w,Advised,Narcotics,Narcotics,13 - Union Park
+105.0,2019-12-20 09:03:04,137x university av w,Advised,Theft,"Theft, From Auto",13 - Union Park
+105.0,2019-12-18 13:43:03,157x university av w,Advised,Narcotics,Narcotics,13 - Union Park
+105.0,2019-12-18 12:05:27,148x university av w,Report Written,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-16 14:20:41,141x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-16 08:10:00,134x marshall av,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+105.0,2019-12-15 00:00:00,24x snelling av n,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",13 - Union Park
+105.0,2019-12-13 19:40:19,141x university av w,Advised,Theft,"Theft, Shoplifting",13 - Union Park
+105.0,2019-12-13 16:23:09,141x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-13 04:10:15,134x marshall av,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-12 15:22:00,146x university av w,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",13 - Union Park
+105.0,2019-12-11 18:59:00,marshall av  & snelling,Report Written,Theft,"Theft, Auto Accessories, Under $500",13 - Union Park
+105.0,2019-12-10 14:25:22,141x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-09 20:50:00,144x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+105.0,2019-12-08 13:02:59,144x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-08 12:36:00,141x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+105.0,2019-12-08 09:05:00,144x university av w,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",13 - Union Park
+105.0,2019-12-07 18:50:00,144x university av w,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+105.0,2019-12-06 05:00:00,146x marshall av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+105.0,2019-12-03 20:15:06,144x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+105.0,2019-12-03 08:30:00,144x university av w,Report Written,Theft,"Theft, From Auto, Over $1000",13 - Union Park
+104.0,2020-01-29 02:27:04,166x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+104.0,2020-01-27 12:34:25,43x roy st n,Gone on Arrival,Narcotics,Narcotics,13 - Union Park
+104.0,2020-01-24 13:00:00,159x carroll av,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",13 - Union Park
+104.0,2020-01-22 01:40:45,166x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+104.0,2020-01-21 01:10:58,166x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+104.0,2020-01-16 19:00:00,159x stanthony av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+104.0,2020-01-16 06:15:05,28x snelling av n,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+104.0,2020-01-15 13:24:00,28x snelling av n,Report Written,Theft,"Theft, Shoplifting, Under $500",13 - Union Park
+104.0,2020-01-14 18:00:00,179x university av w,Report Written,Burglary,"Burglary, Forced Entry, Night, Commercial",13 - Union Park
+104.0,2020-01-14 10:24:48,180x university av w,Advised,Vandalism,Criminal Damage to Property,13 - Union Park
+104.0,2020-01-10 21:30:00,fry st  & marshall,Report Written,Theft,"Theft, From Auto, Over $1000",13 - Union Park
+104.0,2020-01-08 14:24:00,42x roy st n,Report Written,Burglary,"Burglary, Forced Entry, Day, Residence",13 - Union Park
+104.0,2020-01-08 08:45:47,176x carroll av,Advised,Theft,"Theft, From Auto",13 - Union Park
+104.0,2020-01-07 06:20:00,180x university av w,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",13 - Union Park
+104.0,2020-01-06 23:00:00,fry st  & marshall,Report Written,Robbery,"Robbery, Highway, By Strong Arm",13 - Union Park
+104.0,2020-01-03 09:30:00,42x pierce st,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",13 - Union Park
+104.0,2020-01-02 12:58:50,46x pierce st,Advised,Auto Theft,Motor Vehicle Theft,13 - Union Park
+104.0,2020-01-02 11:59:23,46x pierce st,Gone on Arrival,Auto Theft,Motor Vehicle Theft,13 - Union Park
+104.0,2020-01-01 14:30:00,38x pierce st,Report Written,Auto Theft,"Motor Vehicle Theft, All Other Vehicles",13 - Union Park
+104.0,2019-12-29 20:17:35,166x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+104.0,2019-12-26 01:20:00,175x iglehart av,Report Written,Theft,"Theft, Auto Accessories, Over $1000",13 - Union Park
+104.0,2019-12-22 23:16:58,166x university av w,Advised,Theft,"Theft, Except Auto Theft",13 - Union Park
+104.0,2019-12-21 19:00:00,165x carroll av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+104.0,2019-12-20 21:42:00,fry st  & marshall,Report Written,Discharge,"Weapons, Discharging a Firearm in the City Limits",13 - Union Park
+104.0,2019-12-19 13:59:57,179x university av w,Advised,Theft,"Theft, From Auto",13 - Union Park
+104.0,2019-12-17 16:00:00,165x concordia av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+104.0,2019-12-17 14:30:00,160x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Trucks and Buses",13 - Union Park
+104.0,2019-12-16 23:00:00,43x fairview av n,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",13 - Union Park
+104.0,2019-12-13 21:45:06,47x herschel st,Advised,Narcotics,Narcotics,13 - Union Park
+104.0,2019-12-12 22:45:00,28x snelling av n,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+104.0,2019-12-12 02:46:17,41x herschel st,Advised,Vandalism,Criminal Damage to Property,13 - Union Park
+104.0,2019-12-10 10:29:00,4xx fry st,Report Written,Rape,"Rape, By Force",13 - Union Park
+104.0,2019-12-10 06:00:00,38x pierce st,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",13 - Union Park
+104.0,2019-12-07 01:21:00,16xx marshall av,Report Written,Rape,"Rape, Attempt",13 - Union Park
+104.0,2019-12-04 08:00:00,28x snelling av n,Report Written,Theft,"Theft, All Other, Under $500",13 - Union Park
+87.0,2020-01-29 14:53:00,103x lafond av,Advised,Theft,"Theft, From Auto",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-26 18:48:00,88x thomas av,Report Written,Burglary,"Burglary, Forced Entry, Night, Residence",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-26 03:02:00,90x charles av,Report Written,Burglary,"Att. Burglary, Forced Entry, Night, Commercial",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-26 00:01:00,104x charles av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-25 10:50:00,89x thomas av,Report Written,Vandalism,"Criminal Damage to Property (Gross Mis., $250-$500)",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-24 17:20:00,106x charles av,Report Written,Vandalism,"Criminal Damage to Property (Gross Mis., $250-$500)",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-23 19:39:36,93x lafond av,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-23 18:42:00,66x chatsworth st n,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-23 11:47:25,lexington pa n & charles,Gone on Arrival,Theft,"Theft, From Auto",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-22 16:06:18,88x thomas av,Gone on Arrival,Narcotics,Narcotics,7 - Thomas/Dale(Frogtown)
+87.0,2020-01-21 05:56:00,milton st n & thomas,Report Written,Agg. Assault,"Aggravated Assault, Knife or Cutting Instrument",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-19 21:09:07,108x thomas av,Advised,Narcotics,Narcotics,7 - Thomas/Dale(Frogtown)
+87.0,2020-01-19 12:00:00,108x charles av,Report Written,Agg. Assault Dom.,"Aggravated Assault, Domestic",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-17 19:13:00,92x thomas av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-17 05:52:00,89x edmund av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-15 23:57:31,56x lexington pa n,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-12 09:33:04,104x lafond av,Advised,Burglary,Burglary,7 - Thomas/Dale(Frogtown)
+87.0,2020-01-12 05:00:00,103x charles av,Report Written,Auto Theft,"Motor Vehicle Theft, Trucks and Buses",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-10 21:42:00,90x sherburne av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-10 17:09:00,103x thomas av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-09 23:59:35,106x edmund av,Advised,Vandalism,Criminal Damage to Property,7 - Thomas/Dale(Frogtown)
+87.0,2020-01-08 14:58:21,90x sherburne av,Advised,Theft,"Theft, From Auto",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-08 06:30:00,104x charles av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2020-01-01 00:26:36,university av w & chatsworth,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-31 13:21:10,103x blair av,Gone on Arrival,Theft,"Theft, Except Auto Theft",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-29 06:00:00,107x thomas av,Report Written,Burglary,"Att. Burglary, Forced Entry, Night, Garage",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-28 10:41:07,90x thomas av,Advised,Auto Theft,Motor Vehicle Theft,7 - Thomas/Dale(Frogtown)
+87.0,2019-12-27 11:19:11,107x thomas av,Advised,Vandalism,Criminal Damage to Property,7 - Thomas/Dale(Frogtown)
+87.0,2019-12-26 10:51:14,107x university av w,Advised,Vandalism,Criminal Damage to Property,7 - Thomas/Dale(Frogtown)
+87.0,2019-12-25 23:12:27,lexington pa n & thomas,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-25 22:59:00,99x lafond av,Report Written,Agg. Assault Dom.,"Aggravated Assault, Domestic",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-25 03:43:51,62x chatsworth st n,Advised,Vandalism,Criminal Damage to Property,7 - Thomas/Dale(Frogtown)
+87.0,2019-12-23 11:44:33,87x thomas av,Advised,Theft,"Theft, From Auto",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-20 02:05:00,88x university av w,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-20 00:12:00,91x thomas av,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-16 16:38:00,90x thomas av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-16 11:40:00,88x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-15 18:19:50,108x university av w,Advised,Vandalism,Criminal Damage to Property,7 - Thomas/Dale(Frogtown)
+87.0,2019-12-12 11:00:00,107x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-11 16:24:23,62x chatsworth st n,Advised,Vandalism,Criminal Damage to Property,7 - Thomas/Dale(Frogtown)
+87.0,2019-12-11 16:09:00,107x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-09 20:30:00,107x university av w,Report Written,Agg. Assault,"Aggravated Assault, Firearm",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-09 04:30:00,91x charles av,Report Written,Burglary,"Burglary, Forced Entry, Night, Residence",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-08 12:19:00,105x lafond av,Report Written,Theft,"Theft, Auto Accessories, Under $500",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-03 10:32:00,93x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+87.0,2019-12-01 19:05:00,87x edmund av,Report Written,Theft,Theft- Mail/Package,7 - Thomas/Dale(Frogtown)
+86.0,2020-01-29 12:37:00,115x minnehaha av w,Report Written,Theft,Theft - Mail/Package,11 - Hamline/Midway
+86.0,2020-01-28 18:01:00,123x sherburne av,Report Written,Burglary,"Att. Burglary, Forced Entry, Day, Residence, Occupied",11 - Hamline/Midway
+86.0,2020-01-28 14:00:00,119x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+86.0,2020-01-24 09:22:47,125x minnehaha av w,Advised,Burglary,Burglary,11 - Hamline/Midway
+86.0,2020-01-23 20:33:04,133x sherburne av,Gone on Arrival,Narcotics,Narcotics,11 - Hamline/Midway
+86.0,2020-01-23 16:38:50,70x lexington pa n,Gone on Arrival,Narcotics,Narcotics,11 - Hamline/Midway
+86.0,2020-01-23 12:50:00,126x sherburne av,Report Written,Burglary,"Burglary, Forced Entry, Day, Residence",11 - Hamline/Midway
+86.0,2020-01-21 10:23:22,110x university av w,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+86.0,2020-01-18 22:46:00,118x university av w,Report Written,Burglary,"Burglary, Forced Entry, Night, Commercial",11 - Hamline/Midway
+86.0,2020-01-09 21:32:00,dunlap st n & sherburne,Report Written,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+86.0,2020-01-08 23:30:00,116x minnehaha av w,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+86.0,2020-01-07 12:17:58,130x university av w,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+86.0,2020-01-07 01:34:14,128x vanburen av,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+86.0,2020-01-04 13:30:00,111x charles av,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+86.0,2020-01-03 14:33:02,120x thomas av,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+86.0,2020-01-03 02:00:00,60x griggs st n,Report Written,Theft,"Theft, Auto Accessories, Over $1000",11 - Hamline/Midway
+86.0,2020-01-01 00:22:00,126x sherburne av,Report Written,Burglary,"Burglary, Forced Entry, Night, Residence",11 - Hamline/Midway
+86.0,2019-12-26 14:15:00,127x thomas av,Report Written,Burglary,"Burglary, Forced Entry, Night, Garage",11 - Hamline/Midway
+86.0,2019-12-25 22:51:41,edmund av  & lexington,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+86.0,2019-12-24 22:26:00,122x minnehaha av w,Report Written,Burglary,"Burglary, Forced Entry, Night, Residence",11 - Hamline/Midway
+86.0,2019-12-21 13:55:00,112x lafond av,Report Written,Theft,Theft - Mail/Package,11 - Hamline/Midway
+86.0,2019-12-20 14:00:00,110x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+86.0,2019-12-20 07:41:51,125x minnehaha av w,Advised,Burglary,Burglary,11 - Hamline/Midway
+86.0,2019-12-19 17:00:00,hamline av n & university,Report Written,Theft,"Theft, From Auto, Over $1000",11 - Hamline/Midway
+86.0,2019-12-15 11:15:00,112x lafond av,Report Written,Theft,Theft - Mail/Package,11 - Hamline/Midway
+86.0,2019-12-12 10:25:00,120x university av w,Report Written,Burglary,"Burglary, Forced Entry, Night, Commercial",11 - Hamline/Midway
+86.0,2019-12-11 09:28:00,118x university av w,Report Written,Theft,"Theft, All Other, Over $1000",11 - Hamline/Midway
+86.0,2019-12-10 17:45:00,70x lexington pa n,Report Written,Theft,"Theft, From Auto, Over $1000",11 - Hamline/Midway
+86.0,2019-12-09 10:32:23,130x university av w,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+86.0,2019-12-07 11:00:00,132x minnehaha av w,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+86.0,2019-12-02 15:35:30,123x university av w,Gone on Arrival,Auto Theft,Motor Vehicle Theft,11 - Hamline/Midway
+86.0,2019-12-01 02:22:00,dunlap st n & university,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",11 - Hamline/Midway
+86.0,2019-12-01 01:32:00,123x edmund av,Report Written,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+85.0,2020-01-27 09:55:00,60x snelling av n,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+85.0,2020-01-26 03:45:00,138x edmund av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2020-01-25 23:25:41,155x vanburen av,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+85.0,2020-01-25 13:30:04,134x thomas av,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+85.0,2020-01-24 04:50:00,155x edmund av,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+85.0,2020-01-23 14:10:15,151x university av w,Gone on Arrival,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+85.0,2020-01-20 21:29:57,63x snelling av n,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+85.0,2020-01-20 10:30:00,156x charles av,Report Written,Burglary,"Burglary, Forced Entry, Day, Residence",11 - Hamline/Midway
+85.0,2020-01-20 07:37:00,137x sherburne av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2020-01-19 12:28:00,63x snelling av n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2020-01-15 18:55:00,150x thomas av,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+85.0,2020-01-14 18:43:00,152x sherburne av,Report Written,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+85.0,2020-01-10 18:27:00,asbury st  & sherburne,Report Written,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+85.0,2020-01-07 17:05:00,147x university av w,Report Written,Theft,"Theft, All Other, Over $1000",11 - Hamline/Midway
+85.0,2020-01-06 15:59:49,university av w & snelling,Advised,Auto Theft,Motor Vehicle Theft,11 - Hamline/Midway
+85.0,2020-01-05 22:00:00,135x charles av,Report Written,Theft,"Theft, From Auto, Over $1000",11 - Hamline/Midway
+85.0,2020-01-05 21:30:00,141x vanburen av,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+85.0,2020-01-01 02:53:00,157x edmund av,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+85.0,2019-12-31 23:27:00,52x snelling av n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2019-12-31 11:54:00,156x thomas av,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+85.0,2019-12-31 10:00:00,138x lafond av,Report Written,Agg. Assault Dom.,"Aggravated Assault, Domestic",11 - Hamline/Midway
+85.0,2019-12-27 11:34:00,151x university av w,Report Written,Theft,"Theft, Shoplifting, Under $500",11 - Hamline/Midway
+85.0,2019-12-26 12:57:00,148x vanburen av,Report Written,Theft,"Theft, All Other, Over $1000",11 - Hamline/Midway
+85.0,2019-12-25 00:32:00,snelling av n & university,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",11 - Hamline/Midway
+85.0,2019-12-24 15:57:01,149x university av w,Gone on Arrival,Narcotics,Narcotics,11 - Hamline/Midway
+85.0,2019-12-24 10:14:00,144x sherburne av,Report Written,Vandalism,"Criminal Damage to Property (Felony, Over $500)",11 - Hamline/Midway
+85.0,2019-12-22 13:53:51,134x university av w,Gone on Arrival,Narcotics,Narcotics,11 - Hamline/Midway
+85.0,2019-12-21 11:09:00,137x charles av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2019-12-21 08:42:00,143x vanburen av,Report Written,Burglary,"Burglary, Forced Entry, Night, Garage",11 - Hamline/Midway
+85.0,2019-12-19 23:40:00,154x blair av,Report Written,Theft,"Theft, Auto Accessories, Over $1000",11 - Hamline/Midway
+85.0,2019-12-19 16:00:00,137x charles av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2019-12-15 21:00:00,150x thomas av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2019-12-14 23:17:00,65x snelling av n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2019-12-12 20:10:25,134x university av w,Advised,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+85.0,2019-12-10 14:40:00,149x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+85.0,2019-12-10 04:14:00,51x asbury st,Report Written,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+85.0,2019-12-08 13:10:19,137x sherburne av,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+85.0,2019-12-07 15:30:00,snelling av n & university,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+85.0,2019-12-05 22:57:00,150x thomas av,Report Written,Vandalism,"Criminal Damage to Property (Gross Mis., $250-$500)",11 - Hamline/Midway
+85.0,2019-12-05 15:14:59,university av w & snelling,Gone on Arrival,Narcotics,Narcotics,11 - Hamline/Midway
+85.0,2019-12-05 11:09:27,148x sherburne av,Advised,Auto Theft,Motor Vehicle Theft,11 - Hamline/Midway
+85.0,2019-12-04 14:34:23,149x university av w,Advised,Narcotics,Narcotics,11 - Hamline/Midway
+85.0,2019-12-04 14:30:43,147x university av w,Gone on Arrival,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+85.0,2019-12-04 11:50:56,university av w & albert,Gone on Arrival,Narcotics,Narcotics,11 - Hamline/Midway
+85.0,2019-12-02 09:56:40,snelling av n & university,Advised,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+85.0,2019-12-02 08:30:00,134x university av w,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+85.0,2019-12-01 18:13:00,153x university av w,Report Written,Burglary,"Burglary, No Forced Entry, Night, Commercial",11 - Hamline/Midway
+84.0,2020-01-29 22:00:00,165x charles av,Report Written,Burglary,"Burglary, Forced Entry, Night, Garage",11 - Hamline/Midway
+84.0,2020-01-25 21:30:00,164x edmund av,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+84.0,2020-01-25 01:30:00,54x snelling av n,Report Written,Robbery,"Robbery, Misc., By Strong Arm",11 - Hamline/Midway
+84.0,2020-01-24 00:07:54,161x charles av,Advised,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+84.0,2020-01-22 07:00:00,176x lafond av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2020-01-21 10:33:56,49x snelling av n,Gone on Arrival,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+84.0,2020-01-21 09:54:41,161x charles av,Report Written,Burglary,Burglary,11 - Hamline/Midway
+84.0,2020-01-20 15:24:17,176x vanburen av,Gone on Arrival,Narcotics,Narcotics,11 - Hamline/Midway
+84.0,2020-01-20 08:04:19,160x charles av,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+84.0,2020-01-19 20:00:00,163x blair av,Report Written,Auto Theft,"Motor Vehicle Theft, All Other Vehicles",11 - Hamline/Midway
+84.0,2020-01-16 20:40:00,55x snelling av n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2020-01-16 18:36:00,167x thomas av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2020-01-15 17:30:00,176x university av w,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2020-01-15 14:16:40,66x snelling av n,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+84.0,2020-01-15 06:45:00,66x fairview av n,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2020-01-14 13:45:00,176x university av w,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2020-01-14 07:18:00,160x charles av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2020-01-13 14:26:00,54x wheeler st n,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2020-01-09 13:00:00,164x edmund av,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+84.0,2020-01-09 13:00:00,54x fairview av n,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+84.0,2020-01-09 11:48:01,161x sherburne av,Advised,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+84.0,2020-01-09 09:15:00,50x fry st,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2020-01-07 00:30:30,159x lafond av,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+84.0,2020-01-06 03:12:00,168x university av w,Report Written,Burglary,"Burglary, Forced Entry, Night, Commercial",11 - Hamline/Midway
+84.0,2020-01-05 19:43:02,176x university av w,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+84.0,2020-01-04 12:50:00,64x snelling av n,Report Written,Vandalism,"Criminal Damage to Property (Gross Mis., $250-$500)",11 - Hamline/Midway
+84.0,2020-01-04 09:39:00,160x vanburen av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2020-01-03 09:45:00,169x lafond av,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2020-01-03 09:28:00,173x lafond av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2020-01-02 08:36:23,162x edmund av,Gone on Arrival,Theft,"Theft, From Auto",11 - Hamline/Midway
+84.0,2020-01-02 06:00:00,162x edmund av,Report Written,Theft,"Theft, From Auto, $501 to $1000",11 - Hamline/Midway
+84.0,2020-01-01 23:25:00,164x charles av,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+84.0,2019-12-30 20:00:00,160x university av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2019-12-29 12:51:00,163x edmund av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2019-12-28 16:00:00,aldine st  & university,Report Written,Theft,"Theft, Auto Accessories, Over $1000",11 - Hamline/Midway
+84.0,2019-12-28 09:25:00,159x charles av,Report Written,Theft,"Theft, Auto Accessories, $501 to $1000",11 - Hamline/Midway
+84.0,2019-12-28 07:45:00,54x snelling av,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+84.0,2019-12-28 06:00:00,169x university av w,Report Written,Burglary,"Burglary, Forced Entry, Night, Commercial",11 - Hamline/Midway
+84.0,2019-12-27 10:37:04,176x university av w,Advised,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+84.0,2019-12-24 07:01:50,70x fry st,Gone on Arrival,Theft,"Theft, From Auto",11 - Hamline/Midway
+84.0,2019-12-22 21:00:00,54x snelling av n,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2019-12-22 20:02:15,160x vanburen av,Advised,Burglary,Burglary,11 - Hamline/Midway
+84.0,2019-12-22 09:00:00,160x vanburen av,Report Written,Burglary,"Burglary, No Forced Entry, Day, Residence, Occupied",11 - Hamline/Midway
+84.0,2019-12-21 12:10:00,176x university av w,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2019-12-21 05:07:00,160x vanburen av,Report Written,Burglary,"Burglary, No Forced Entry, Night, Residence, Occupied",11 - Hamline/Midway
+84.0,2019-12-20 16:47:00,175x thomas av,Report Written,Robbery,"Robbery, Misc., Firearm",11 - Hamline/Midway
+84.0,2019-12-19 12:57:00,54x snelling av n,Report Written,Theft,"Theft, All Other, Over $1000",11 - Hamline/Midway
+84.0,2019-12-17 08:43:00,49x snelling av n,Report Written,Theft,"Theft, Shoplifting, Under $500",11 - Hamline/Midway
+84.0,2019-12-17 08:11:00,164x thomas av,Report Written,Burglary,"Burglary, No Forced Entry, Day, Garage",11 - Hamline/Midway
+84.0,2019-12-17 06:50:00,160x vanburen av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+84.0,2019-12-16 16:31:52,54x snelling av n,Advised,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+84.0,2019-12-16 06:00:00,68x fry st,Report Written,Vandalism,"Criminal Damage to Property (Gross Mis., $250-$500)",11 - Hamline/Midway
+84.0,2019-12-13 13:34:39,54x snelling av n,Advised,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+84.0,2019-12-12 20:00:00,61x snelling av n,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+84.0,2019-12-11 18:45:00,176x university av w,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2019-12-10 20:00:00,176x university av w,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+84.0,2019-12-10 13:35:55,176x university av w,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+84.0,2019-12-08 08:00:53,54x snelling av n,Advised,Narcotics,Narcotics,11 - Hamline/Midway
+84.0,2019-12-06 17:00:00,176x university av w,Report Written,Theft,"Theft, From Auto, Over $1000",11 - Hamline/Midway
+84.0,2019-12-05 08:00:00,161x charles av,Report Written,Theft,Theft - Mail/Package,11 - Hamline/Midway
+84.0,2019-12-05 05:45:00,158x thomas av,Report Written,Robbery,"Robbery, Highway, By Strong Arm",11 - Hamline/Midway
+84.0,2019-12-04 13:37:08,169x charles av,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+67.0,2020-01-29 19:42:00,chatsworth st n & seminary,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+67.0,2020-01-24 16:00:00,90x minnehaha av w,Report Written,Agg. Assault Dom.,"Aggravated Assault, Domestic",7 - Thomas/Dale(Frogtown)
+67.0,2020-01-23 06:53:00,107x piercebutler rd,Advised,Theft,"Theft, From Auto",7 - Thomas/Dale(Frogtown)
+67.0,2020-01-21 19:45:00,91x minnehaha av w,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",7 - Thomas/Dale(Frogtown)
+67.0,2020-01-12 09:46:52,90x minnehaha av w,Advised,Auto Theft,Motor Vehicle Theft,7 - Thomas/Dale(Frogtown)
+67.0,2020-01-10 13:55:00,95x lexington pa n,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",7 - Thomas/Dale(Frogtown)
+67.0,2020-01-09 15:50:59,75x milton st n,Gone on Arrival,Theft,"Theft, Except Auto Theft",7 - Thomas/Dale(Frogtown)
+67.0,2020-01-09 12:30:00,77x victoria st n,Report Written,Robbery,"Robbery, Highway, By Strong Arm",7 - Thomas/Dale(Frogtown)
+67.0,2020-01-09 00:06:24,95x lexington pa n,Advised,Theft,"Theft, Except Auto Theft",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-27 17:42:00,75x milton st n,Report Written,Discharge,"Weapons, Discharging a Firearm in the City Limits",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-26 04:54:00,75x milton st n,Report Written,Burglary,"Burglary, Forced Entry, Night, Commercial",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-25 21:26:45,83x lexington pa n,Report Written,Theft,"Theft, From Auto",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-24 22:00:00,75x milton st n,Report Written,Theft,"Theft, From Auto, $501 to $1000",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-24 18:59:00,75x milton st n,Report Written,Agg. Assault,"Aggravated Assault, Firearm",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-23 16:26:50,103x hubbard av,Gone on Arrival,Theft,"Theft, Except Auto Theft",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-23 15:27:22,78x lexington pa n,Advised,Vandalism,Criminal Damage to Property,7 - Thomas/Dale(Frogtown)
+67.0,2019-12-22 10:00:00,75x milton st n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-19 03:20:26,95x lexington pa n,Advised,Theft,"Theft, Except Auto Theft",10 - Como
+67.0,2019-12-12 19:46:00,106x minnehaha av w,Report Written,Simple Asasult Dom.,"Assault, Domestic, Family/Child",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-02 12:30:00,90x minnehaha av w,Report Written,Theft,"Theft, All Other, Under $500",7 - Thomas/Dale(Frogtown)
+67.0,2019-12-02 03:00:57,95x lexington pa n,Gone on Arrival,Narcotics,Narcotics,10 - Como
+67.0,2019-12-02 01:36:02,95x lexington pa n,Gone on Arrival,Narcotics,Narcotics,10 - Como
+67.0,2019-12-01 19:12:00,95x lexington pa n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",10 - Como
+66.0,2020-01-29 11:33:32,118x englewood av,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+66.0,2020-01-26 22:00:00,124x hubbard av,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+66.0,2020-01-26 11:38:35,127x hubbard av,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+66.0,2020-01-21 15:06:00,116x englewood av,Report Written,Theft,Theft - Mail/Package,11 - Hamline/Midway
+66.0,2020-01-20 13:58:53,115x seminary av,Gone on Arrival,Narcotics,Narcotics,11 - Hamline/Midway
+66.0,2020-01-10 07:40:00,116x hubbard av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+66.0,2020-01-07 10:42:33,125x seminary av,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+66.0,2020-01-05 22:28:46,83x syndicate st n,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+66.0,2019-12-31 08:13:54,130x minnehaha av w,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+66.0,2019-12-26 07:57:34,126x energy la,Gone on Arrival,Theft,"Theft, From Auto",10 - Como
+66.0,2019-12-21 21:00:00,130x hewitt av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+66.0,2019-12-17 07:52:30,120x hewitt av,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+66.0,2019-12-07 04:15:23,116x seminary av,Advised,Theft,"Theft, Except Auto Theft",11 - Hamline/Midway
+66.0,2019-12-06 19:19:00,116x minnehaha av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+65.0,2020-01-28 22:30:00,albert st n & englewood,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+65.0,2020-01-26 11:30:00,piercebutler rd  & snelling,Report Written,Narcotics,"Narcotics, Possession of Marijuana",11 - Hamline/Midway
+65.0,2020-01-24 23:09:25,87x pascal st n,Advised,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+65.0,2020-01-22 16:57:52,151x englewood av,Report Written,Theft,"Theft, From Auto",11 - Hamline/Midway
+65.0,2020-01-21 22:40:00,87x pascal st n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+65.0,2020-01-10 16:06:00,153x englewood av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+65.0,2020-01-10 12:08:14,152x hewitt av,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+65.0,2020-01-05 00:00:00,81x holton st,Report Written,Burglary,"Burglary, Forced Entry, Night, Garage",11 - Hamline/Midway
+65.0,2019-12-24 22:16:00,82x pascal st n,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+65.0,2019-12-20 20:29:00,78x pascal st n,Report Written,Narcotics,"Narcotics, Possession of Cocaine",11 - Hamline/Midway
+65.0,2019-12-17 14:08:21,153x hewitt av,Advised,Vandalism,Criminal Damage to Property,11 - Hamline/Midway
+65.0,2019-12-17 12:04:59,141x energypark dr,Report Written,Theft,"Theft, From Auto",11 - Hamline/Midway
+65.0,2019-12-16 23:38:00,144x taylor av,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+65.0,2019-12-14 14:37:00,135x energy la,Report Written,Theft,"Theft, All Other, Under $500",10 - Como
+65.0,2019-12-13 09:00:00,152x hewitt av,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+65.0,2019-12-12 00:25:00,asbury st  & minnehaha,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+65.0,2019-12-10 08:00:00,151x englewood av,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+65.0,2019-12-08 19:00:00,minnehaha av w & snelling,Report Written,Simple Asasult Dom.,"Assault, Domestic, Opposite Sex",11 - Hamline/Midway
+65.0,2019-12-01 23:34:00,minnehaha av w & snelling,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+64.0,2020-01-26 19:05:00,172x hubbard av,Report Written,Discharge,"Weapons, Discharging a Firearm in the City Limits",11 - Hamline/Midway
+64.0,2020-01-19 10:30:00,72x snelling av n,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+64.0,2020-01-11 23:00:00,77x aldine st,Report Written,Theft,"Theft, From Auto, Under $500",11 - Hamline/Midway
+64.0,2020-01-04 06:16:00,181x hubbard av,Report Written,Burglary,"Burglary, No Forced Entry, Day, Residence, Occupied",11 - Hamline/Midway
+64.0,2020-01-01 08:00:00,160x minnehaha av w,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
+64.0,2019-12-29 07:38:00,181x englewood av,Report Written,Theft,"Theft, All Other, Under $500",11 - Hamline/Midway
+64.0,2019-12-26 09:29:41,175x taylor av,Gone on Arrival,Theft,"Theft, From Auto",11 - Hamline/Midway
+64.0,2019-12-22 10:50:31,176x hewitt av,Advised,Theft,"Theft, From Auto",11 - Hamline/Midway
+64.0,2019-12-18 20:54:00,90x fairview av n,Report Written,Narcotics,"Narcotics, Possession of Marijuana",11 - Hamline/Midway
+64.0,2019-12-15 23:55:00,163x englewood av,Report Written,Vandalism,"Criminal Damage to Property (Misdemeanor, Under $250)",11 - Hamline/Midway
+64.0,2019-12-13 10:30:00,90x snelling av n,Report Written,Agg. Assault Dom.,"Aggravated Assault, Domestic",11 - Hamline/Midway
+64.0,2019-12-06 20:00:00,175x englewood av,Report Written,Auto Theft,"Motor Vehicle Theft, Automobile",11 - Hamline/Midway
