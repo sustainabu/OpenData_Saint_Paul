@@ -11,7 +11,7 @@ Here is a list of current datasets/projects. Most projects have data taken direc
 * Interactive Report/Notebook: [Frogtown/Saint Paul Traffic Stop Report; 04/07/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Frogtown%20Traffic%20Data/Saint%20Paul%20Traffic%20Stop%20Report_Presentation.ipynb)
 
 2) [Saint Paul Crime Incident Dataset](https://information.stpaul.gov/Public-Safety/Crime-Incident-Report-Dataset/gppb-g9cg)
-* Last Report Made: Novemeber 3rd, 2019 | Update Rate: Bi-monthly
+* Last Report Made: September 15th, 2020 | Update Rate: Bi-monthly
 * Description: List all Crime Incidents since August 14, 2014 
 * Row Entry: Incident Number | Geo-Identifier: [Police Grid](https://information.stpaul.gov/Public-Safety/Saint-Paul-Police-Grid-Shapefile/ykwt-ie3e) / [Neighborhood](https://information.stpaul.gov/City-Administration/District-Council-Shapefile-Map/dq4n-yj8b) 
 * Initial Data-Clean: Messy
@@ -35,3 +35,6 @@ Here is a list of current datasets/projects. Most projects have data taken direc
     * [Saint Paul 2017 Mayor Voting Report; 06/24/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202017%20Mayor%20Voting%20Report_06-24-19.ipynb)
     * [Saint Paul 2019 City Council Election Report/Workbook; 11/07/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/2019%20City%20Council%20Workbook_Report.ipynb)
     * [Saint Paul 2019 City Council Supplemental Election Report; 12/2/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202019%20City%20Council%20Voting%20Supplemental%20Data%20Report.ipynb)
+
+
+
