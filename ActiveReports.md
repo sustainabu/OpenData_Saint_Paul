@@ -36,5 +36,10 @@ Here is a list of current datasets/projects. Most projects have data taken direc
     * [Saint Paul 2019 City Council Election Report/Workbook; 11/07/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/2019%20City%20Council%20Workbook_Report.ipynb)
     * [Saint Paul 2019 City Council Supplemental Election Report; 12/2/19](https://nbviewer.jupyter.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20City%20Council%20Election%20Analysis/Saint%20Paul%202019%20City%20Council%20Voting%20Supplemental%20Data%20Report.ipynb)
 
-
+5) [Saint Paul Public Schools 2019 Dataset](https://education.mn.gov/mde/data/)
+* Last Report Made: Decemeber 12, 2019 | Update Rate: ??
+* Description: 1) All accountability tests, which lists the three files for each respective subjects: Math, Reading, and Science 2) 2019 Enrollment Data
+* Row Entry: School | Geo-Identifier: School
+* Initial Data-Clean: Yes
+* Interactive Report/Notebook: [Saint Paul Public Schools 2019 Standardized Assessment Data Report; 05/06/19](https://nbviewer.org/github/sustainabu/OpenData_Saint_Paul/blob/master/_Saint%20Paul%20Public%20Schools/Saint%20Paul%20Public%20Schools%202019%20Data%20Report.ipynb?fbclid=IwAR3qhutaPUVE9EcjaNcHjaNglFkpQNfP1Xj1eJfwxKvwgVcOhKq3ntBSj5M)
 
